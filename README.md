@@ -1,6 +1,10 @@
 # Hatching
-First project 
-I've worked with an sql dataset containing the Forbes 2018 Billionaires list.
-After cleaning it, I added the missing countries and then incluided the percentage of people with tertiary education in each country. 
-Is there a relationship between tertiary education and net worth?
+First Python Project
+It all starts with an sql dataset with the Forbe´s 2018 Billionaires List. 
+After the data wrangling process I enriched the data using web scrapping from wikipedia to add:
+*Missing Countries
+*The percentage of people with tertiary education in each country. 
+
+It all ends trying to prove there is no relationship between tertiary education and worth
+
  
