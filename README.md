@@ -1,5 +1,6 @@
 # Hatching
 First Python Project
+
 It all starts with an sql dataset with the Forbe´s 2018 Billionaires List. 
 After the data wrangling process I enriched the data using web scrapping from wikipedia to add:
 
