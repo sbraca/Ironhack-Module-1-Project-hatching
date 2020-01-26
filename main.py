@@ -65,12 +65,11 @@ def gender_cat (df):
     df.loc[df['Gender'].str.startswith('F'), 'Gender_cat'] = 'Female'
     df[['Gender_cat']] = df[['Gender_cat']].fillna('Not Available')
     df.drop('Gender', axis=1, inplace=True)
-    return
+    return df
 
 
 
 def year_toage(df):
-    print(df)
     df['Age'] = df['Age'].str.replace('years old', '')
     df['Age'] = df['Age'].str.replace('1982', '36')
     df['Age'] = df['Age'].str.replace('1983', '35')
@@ -120,10 +119,10 @@ def scr_table(table):
     top10_df = pd.DataFrame(data, columns=colnames)
     top10_df.drop(columns=['Name', 'Net worth (USD)', 'Age', 'Source(s) of wealth'], inplace=True)
     top10_df.rename(columns={"No.": "Position"}, inplace=True)
-
     return top10_df
 
 def merge1 (df1,df2):
+    df1.Position = df1.Position.astype(int)
     merged_df = pd.merge(df1, df2, on='Position', how='outer')
     merged_df['Country'] = np.where(merged_df['Country'] == 'None', merged_df['Nationality'], merged_df['Country'])
     merged_df[['Country']] = merged_df[['Country']].fillna('None')
@@ -162,17 +161,18 @@ def main ():
     final_df = reindex(final_df, reindex_col)
     final_df = gender(final_df, 26, 596)
     final_df = gender_cat(final_df)
-    print(final_df)
     final_df = year_toage(final_df)
     final_df = nan_toage(final_df)
     final_df.Country = final_df.Country.astype(str)
     wrangled_df = clean_country(final_df)
     table = scr_top10(url, html, soup)
     top10_df  = scr_table(table)
+    top10_df = top10_df.astype({"Position": int})
     merged_df = merge1(wrangled_df, top10_df)
     clean_forbes_df = clean_forbesdf(forbes_df)
     merged2_df = merge2(merged_df, clean_forbes_df)
     merged2_df = cleancountry(merged2_df)
+    print(merged2_df)
 
 if __name__ == "__main__":
     main()
