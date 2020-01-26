@@ -1,0 +1,2209 @@
+Position,Worth,Name,Age,Source,Country,Gender_cat
+1,112.0 BUSD,Jeff Bezos,54,Technology  ==> Amazon,United States,Not Available
+2,90.0 BUSD,Bill Gates,62,Technology  ==> Microsoft,None,Male
+3,84.0 BUSD,Warren Buffett,87,Finance and Investments  ==> Berkshire Hathaway,None,Male
+4,72.0 BUSD,Bernard Arnault,69,Fashion & Retail  ==> LVMH,France,Male
+5,71.0 BUSD,Mark Zuckerberg,33,Technology  ==> Facebook,United States,Male
+6,70.0 BUSD,Amancio Ortega,82,Fashion & Retail  ==> Zara,None,Male
+7,67.1 BUSD,Carlos Slim Helu,78,Telecom  ==> telecom,Mexico,Not Available
+8,60.0 BUSD,Charles Koch,82,Diversified  ==> Koch Industries,United States,Male
+9,60.0 BUSD,David Koch,78,Diversified  ==> Koch Industries,United States,Male
+10,58.5 BUSD,Larry Ellison,73,Technology  ==> software,None,Male
+11,50.0 BUSD,Michael Bloomberg,76,Media & Entertainment  ==> Bloomberg LP,None,Male
+12,48.8 BUSD,Larry Page,45,Technology  ==> Google,None,Not Available
+13,47.5 BUSD,Sergey Brin,44,Technology  ==> Google,United States,Male
+14,46.4 BUSD,Jim Walton,70,Fashion & Retail  ==> Walmart,United States,Male
+15,46.2 BUSD,S. Robson Walton,73,Fashion & Retail  ==> Walmart,None,Male
+16,46.0 BUSD,Alice Walton,68,Fashion & Retail  ==> Walmart,United States,Not Available
+17,45.3 BUSD,Ma Huateng,46,Technology  ==> internet media,China,Male
+18,42.2 BUSD,Francoise Bettencourt Meyers,64,Fashion & Retail  ==> L'Oreal,None,Female
+19,40.1 BUSD,Mukesh Ambani,61,"Energy  ==> petrochemicals, oil & gas",None,Male
+20,39.0 BUSD,Jack Ma,53,Technology  ==> e-commerce,None,Male
+21,38.5 BUSD,Sheldon Adelson,84,Gambling & Casinos  ==> casinos,None,Male
+22,38.4 BUSD,Steve Ballmer,62,Technology  ==> Microsoft,None,Male
+23,34.9 BUSD,Li Ka-Shing,90,Diversified  ==> diversified,Hong Kong,Not Available
+24,30.3 BUSD,Hui Ka Yan,59,Real Estate  ==> real estate,None,Male
+25,30.3 BUSD,Lee Shau Kee,90,Real Estate  ==> real estate,None,Male
+26,30.0 BUSD,Wang Jianlin,63,Real Estate  ==> real estate,None,Male
+27,29.8 BUSD,Beate Heister & Karl Albrecht Jr.,66,Fashion & Retail  ==> supermarkets,Germany,Female
+28,29.6 BUSD,Phil Knight,80,Fashion & Retail  ==> Nike,United States,Male
+29,27.4 BUSD,Jorge Paulo Lemann,78,Food and Beverage  ==> beer,None,Male
+30,27.0 BUSD,Francois Pinault,81,Fashion & Retail  ==> luxury goods,None,Male
+31,25.3 BUSD,Georg Schaeffler,53,Automotive  ==> auto parts,None,Male
+32,25.0 BUSD,Susanne Klatten,56,"Automotive  ==> BMW, pharmaceuticals",None,Not Available
+33,25.0 BUSD,David Thomson,61,Media & Entertainment  ==> media,Canada,Not Available
+34,23.6 BUSD,Jacqueline Mars,78,"Food and Beverage  ==> candy, pet food",None,Female
+35,23.6 BUSD,John Mars,82,"Food and Beverage  ==> candy, pet food",None,Male
+36,23.5 BUSD,Joseph Safra,79,Finance and Investments  ==> banking,None,Male
+37,23.0 BUSD,Giovanni Ferrero,53,"Food and Beverage  ==> Nutella, chocolates",None,Not Available
+38,23.0 BUSD,Dietrich Mateschitz,74,Food and Beverage  ==> Red Bull,None,Male
+39,22.7 BUSD,Michael Dell,53,Technology  ==> Dell computers,United States,Male
+40,22.7 BUSD,Masayoshi Son,60,"Telecom  ==> internet, telecom",None,Male
+41,22.6 BUSD,Serge Dassault,93,Diversified  ==> diversified,None,Not Available
+42,22.0 BUSD,Stefan Quandt,52,Automotive  ==> BMW,Germany,Not Available
+43,21.9 BUSD,Yang Huiyan,35,Real Estate  ==> real estate,China,Female
+44,21.7 BUSD,Paul Allen,65,"Technology  ==> Microsoft, investments",None,Male
+45,21.2 BUSD,Leonardo Del Vecchio,83,Fashion & Retail  ==> eyeglasses,None,Male
+46,20.9 BUSD,Dieter Schwarz,78,Fashion & Retail  ==> retail,None,Male
+47,20.3 BUSD,Thomas Peterffy,73,Finance and Investments  ==> discount brokerage,United States,Male
+48,20.2 BUSD,"Theo Albrecht, Jr.",67,"Fashion & Retail  ==> Aldi, Trader Joe's",None,Not Available
+49,20.2 BUSD,Len Blavatnik,61,Diversified  ==> diversified,United States,Not Available
+50,20.1 BUSD,He Xiangjian,75,Manufacturing  ==> home appliances,None,Male
+51,20.1 BUSD,Lui Che Woo,89,Gambling & Casinos  ==> casinos,None,Male
+52,20.0 BUSD,James Simons,80,Finance and Investments  ==> hedge funds,None,Male
+53,20.0 BUSD,Henry Sy,93,Diversified  ==> diversified,None,Male
+54,19.9 BUSD,Elon Musk,46,Automotive  ==> Tesla Motors,United States,Not Available
+55,19.5 BUSD,Hinduja Family,62,Diversified  ==> diversified,None,Male
+56,19.5 BUSD,Tadashi Yanai,69,Fashion & Retail  ==> fashion retail,None,Not Available
+57,19.1 BUSD,Vladimir Lisin,62,"Metals & Mining  ==> steel, transport",None,Male
+58,18.8 BUSD,Laurene Powell Jobs,54,"Philanthropy/NGO  ==> Apple, Disney",United States,Female
+59,18.8 BUSD,Azim Premji,72,Technology  ==> software services,None,Male
+60,18.7 BUSD,Alexey Mordashov,52,"Metals & Mining  ==> steel, investments",Russia,Male
+61,18.6 BUSD,Lee Kun-Hee,76,Diversified  ==> Samsung,South Korea,Male
+62,18.5 BUSD,Lakshmi Mittal,68,Metals & Mining  ==> steel,None,Male
+63,18.2 BUSD,Wang Wei,48,Service  ==> package delivery,China,Male
+64,18.0 BUSD,Leonid Mikhelson,62,"Energy  ==> gas, chemicals",None,Male
+65,17.9 BUSD,Charoen Sirivadhanabhakdi,74,"Food and Beverage  ==> drinks, real estate",None,Male
+66,17.8 BUSD,Pallonji Mistry,89,Construction & Engineering  ==> construction,Ireland,Male
+67,17.7 BUSD,Ray Dalio,68,Finance and Investments  ==> hedge funds,United States,Male
+68,17.5 BUSD,Takemitsu Takizaki,73,Manufacturing  ==> sensors,None,Male
+69,17.4 BUSD,William Ding,46,Technology  ==> online games,None,Male
+70,17.4 BUSD,R. Budi Hartono,77,"Finance and Investments  ==> banking, tobacco",Indonesia,Male
+71,17.4 BUSD,Gina Rinehart,64,Metals & Mining  ==> mining,Australia,Female
+72,17.3 BUSD,German Larrea Mota Velasco,64,Metals & Mining  ==> mining,None,Male
+73,16.8 BUSD,Carl Icahn,82,Finance and Investments  ==> investments,None,Male
+74,16.8 BUSD,Stefan Persson,70,Fashion & Retail  ==> H&M,None,Not Available
+75,16.7 BUSD,Michael Hartono,78,"Manufacturing  ==> banking, tobacco",None,Not Available
+76,16.7 BUSD,Joseph Lau,66,Real Estate  ==> real estate,None,Male
+77,16.5 BUSD,Thomas & Raymond Kwok,62,Real Estate  ==> real estate,Hong Kong,Male
+78,16.4 BUSD,Vagit Alekperov,67,Energy  ==> oil,Russia,Male
+79,16.4 BUSD,James Ratcliffe,65,Manufacturing  ==> chemicals,None,Male
+80,16.3 BUSD,Donald Bren,86,Real Estate  ==> real estate,United States,Not Available
+81,16.3 BUSD,Iris Fontbona,75,Metals & Mining  ==> mining,None,Female
+82,16.0 BUSD,Gennady Timchenko,65,"Energy  ==> oil, gas",None,Male
+83,15.9 BUSD,Abigail Johnson,56,Finance and Investments  ==> money management,United States,Not Available
+84,15.9 BUSD,Vladimir Potanin,57,Metals & Mining  ==> metals,None,Not Available
+85,15.9 BUSD,Lukas Walton,30,Fashion & Retail  ==> Walmart,United States,Male
+86,15.8 BUSD,Charlene De Carvalho-Heineken,63,Food and Beverage  ==> Heineken,None,Not Available
+87,15.6 BUSD,Zhang Zhidong,46,Technology  ==> internet media,China,Male
+88,15.5 BUSD,Petr Kellner,54,Finance and Investments  ==> banking,Czech Republic,Male
+89,15.5 BUSD,Andrey Melnichenko,46,"Energy  ==> coal, fertilizers",None,Not Available
+90,15.5 BUSD,David & Simon Reuben,62,"Real Estate  ==> investments, real estate",None,Not Available
+91,15.3 BUSD,Klaus-Michael Kuehne,81,Logistics  ==> shipping,None,Male
+92,15.3 BUSD,Li Shufu,55,Automotive  ==> automobiles,None,Not Available
+93,15.1 BUSD,Mikhail Fridman,54,"Energy  ==> oil, banking, telecom",None,Male
+94,15.0 BUSD,Rupert Murdoch,87,"Media & Entertainment  ==> newspapers, TV network",None,Not Available
+95,14.9 BUSD,Dhanin Chearavanont,79,Diversified  ==> diversified,None,Not Available
+96,14.8 BUSD,Robert Kuok,94,"Diversified  ==> palm oil, shipping, property",None,Male
+97,14.7 BUSD,Emmanuel Besnier,47,Food and Beverage  ==> cheese,None,Male
+98,14.6 BUSD,Shiv Nadar,72,Technology  ==> software services,India,Male
+99,14.4 BUSD,Viktor Vekselberg,61,"Energy  ==> metals, energy",None,Male
+100,14.1 BUSD,Aliko Dangote,61,"Manufacturing  ==> cement, sugar, flour",None,Not Available
+101,14.1 BUSD,Harold Hamm,72,Energy  ==> oil & gas,None,Male
+102,14.0 BUSD,Steve Cohen,62,Finance and Investments  ==> hedge funds,None,Male
+103,14.0 BUSD,Dustin Moskovitz,33,Technology  ==> Facebook,None,Male
+104,14.0 BUSD,Marcel Herrmann Telles,68,Food and Beverage  ==> beer,Brazil,Male
+105,13.6 BUSD,Reinhold Wuerth,83,Manufacturing  ==> fasteners,Germany,Male
+106,13.4 BUSD,Charles Ergen,65,Media & Entertainment  ==> satellite TV,None,Not Available
+107,13.4 BUSD,Eric Schmidt,63,Technology  ==> Google,None,Not Available
+108,13.0 BUSD,Philip Anschutz,78,Finance and Investments  ==> investments,None,Male
+109,13.0 BUSD,Jim Kennedy,70,Media & Entertainment  ==> media,United States,Male
+110,13.0 BUSD,Blair Parry-Okeden,68,Media & Entertainment  ==> media,United States,Not Available
+111,13.0 BUSD,Alain Wertheimer,69,Fashion & Retail  ==> Chanel,France,Not Available
+112,13.0 BUSD,Gerard Wertheimer,67,Fashion & Retail  ==> Chanel,None,Male
+113,12.9 BUSD,Leonard Lauder,81,Fashion & Retail  ==> Estee Lauder,United States,Male
+114,12.9 BUSD,Heinz Hermann Thiele,77,Construction & Engineering  ==> brakes,Germany,Male
+115,12.8 BUSD,Dilip Shanghvi,62,Healthcare  ==> pharmaceuticals,India,Male
+116,12.7 BUSD,Hasso Plattner,74,Technology  ==> software,None,Male
+117,12.6 BUSD,Stephen Schwarzman,71,Finance and Investments  ==> investments,United States,Male
+118,12.5 BUSD,Lei Jun,48,Technology  ==> smartphones,None,Not Available
+119,12.5 BUSD,Hans Rausing,92,Manufacturing  ==> packaging,None,Male
+120,12.5 BUSD,Alisher Usmanov,64,"Metals & Mining  ==> steel, telecom, investments",None,Male
+121,12.3 BUSD,Donald Newhouse,88,Media & Entertainment  ==> media,United States,Male
+122,12.2 BUSD,Peter Woo,71,Real Estate  ==> real estate,None,Not Available
+123,12.1 BUSD,Luis Carlos Sarmiento,85,Finance and Investments  ==> banking,None,Male
+124,12.0 BUSD,Robin Li,49,Technology  ==> internet search,China,Male
+125,12.0 BUSD,Carlos Alberto Sicupira,70,Food and Beverage  ==> beer,None,Male
+126,11.9 BUSD,Seo Jung-Jin,60,Healthcare  ==> biotech,South Korea,Male
+127,11.8 BUSD,Kumar Birla,51,Diversified  ==> commodities,None,Male
+128,11.8 BUSD,Alexander Otto,50,Real Estate  ==> real estate,Germany,Male
+129,11.8 BUSD,Stefano Pessina,77,Fashion & Retail  ==> drugstores,Italy,Not Available
+130,11.7 BUSD,Udo & Harald Tschira,62,Technology  ==> software,Germany,Not Available
+131,11.7 BUSD,Wang Wenyin,50,"Metals & Mining  ==> mining, copper products",China,Not Available
+132,11.6 BUSD,Andrew Beal,65,"Finance and Investments  ==> banks, real estate",United States,Male
+133,11.6 BUSD,Lee Man Tat,88,"Food and Beverage  ==> Oyster sauce, real estate",Hong Kong,Male
+134,11.5 BUSD,"John Menard, Jr.",78,Fashion & Retail  ==> home improvement stores,None,Male
+135,11.3 BUSD,Xu Shihui,60,"Food and Beverage  ==> snacks, beverages",None,Male
+136,11.3 BUSD,Zhou Hongyi,47,Technology  ==> security software,None,Male
+137,11.2 BUSD,Gong Hongjia,53,Finance and Investments  ==> video surveillance,None,Male
+138,11.0 BUSD,Michael Otto,75,"Fashion & Retail  ==> retail, real estate",None,Not Available
+139,11.0 BUSD,David Tepper,60,Finance and Investments  ==> hedge funds,None,Not Available
+140,10.8 BUSD,Roman Abramovich,51,"Diversified  ==> steel, investments",None,Male
+141,10.8 BUSD,Liu Qiangdong,43,Technology  ==> e-commerce,None,Not Available
+142,10.8 BUSD,Robert & Philip Ng,62,Real Estate  ==> real estate,None,Male
+143,10.7 BUSD,Alberto Bailleres Gonzalez,86,Metals & Mining  ==> mining,None,Male
+144,10.7 BUSD,Uday Kotak,59,Finance and Investments  ==> banking,None,Not Available
+145,10.5 BUSD,Pierre Omidyar,51,Technology  ==> eBay,United States,Male
+146,10.3 BUSD,Walter P.J. Droege,65,Service  ==> consulting,None,Male
+147,10.2 BUSD,Dietmar Hopp,78,Technology  ==> software,None,Male
+148,10.1 BUSD,Graeme Hart,63,Finance and Investments  ==> investments,New Zealand,Not Available
+149,10.1 BUSD,Eduardo Saverin,35,Technology  ==> Facebook,Brazil,Male
+150,10.1 BUSD,Yan Zhi,45,Real Estate  ==> real estate,None,Male
+151,10.0 BUSD,Radhakishan Damani,63,"Finance and Investments  ==> investments, retail",None,Not Available
+152,9.8 BUSD,German Khan,56,"Energy  ==> oil, banking, telecom",Russia,Not Available
+153,9.8 BUSD,Ronald Perelman,75,Finance and Investments  ==> leveraged buyouts,United States,Male
+154,9.7 BUSD,Gautam Adani,56,"Diversified  ==> commodities, ports",None,Not Available
+155,9.7 BUSD,Micky Arison,68,Service  ==> Carnival Cruises,United States,Male
+156,9.7 BUSD,Pan Zhengmin,48,Technology  ==> electronics,China,Male
+157,9.7 BUSD,Joseph Tsai,54,Technology  ==> e-commerce,Canada,Not Available
+158,9.6 BUSD,"Thomas Frist, Jr.",79,Healthcare  ==> health care,United States,Male
+159,9.6 BUSD,Mikhail Prokhorov,53,Finance and Investments  ==> investments,Russia,Male
+160,9.5 BUSD,Galen Weston,77,Fashion & Retail  ==> retail,Canada,Not Available
+161,9.5 BUSD,Zong Qinghou,72,Food and Beverage  ==> beverages,None,Male
+162,9.4 BUSD,Eyal Ofer,68,"Diversified  ==> real estate, shipping",Israel,Male
+163,9.4 BUSD,Charles Schwab,80,Finance and Investments  ==> discount brokerage,None,Not Available
+164,9.3 BUSD,Gianluigi & Rafaela Aponte,77,Logistics  ==> Shipping,None,Male
+165,9.3 BUSD,"Herbert Kohler, Jr.",79,Manufacturing  ==> plumbing fixtures,None,Male
+166,9.3 BUSD,Viktor Rashnikov,69,Manufacturing  ==> steel,None,Not Available
+167,9.2 BUSD,Harry Triguboff,85,Real Estate  ==> real estate,None,Male
+168,9.2 BUSD,August Von Finck,88,Finance and Investments  ==> investments,Germany,Not Available
+169,9.2 BUSD,Yao Zhenhua,48,Diversified  ==> conglomerate,None,Not Available
+170,9.1 BUSD,Jan Koum,42,Technology  ==> WhatsApp,United States,Male
+171,9.1 BUSD,Cyrus Poonawalla,77,Healthcare  ==> vaccines,None,Male
+172,9.0 BUSD,James Goodnight,75,Technology  ==> software,United States,Male
+173,9.0 BUSD,Ken Griffin,49,Finance and Investments  ==> hedge funds,United States,Not Available
+174,8.9 BUSD,Giorgio Armani,83,Fashion & Retail  ==> luxury goods,Italy,Male
+175,8.9 BUSD,Ernesto Bertarelli,52,"Healthcare  ==> biotech, investments",Switzerland,Male
+176,8.8 BUSD,Savitri Jindal,68,Metals & Mining  ==> steel,None,Not Available
+177,8.8 BUSD,Sunil Mittal,60,Telecom  ==> telecom,None,Not Available
+178,8.7 BUSD,James Chambers,61,Media & Entertainment  ==> media,None,Not Available
+179,8.7 BUSD,Katharine Rayner,73,Media & Entertainment  ==> media,United States,Female
+180,8.7 BUSD,Margaretta Taylor,76,Media & Entertainment  ==> media,None,Female
+181,8.5 BUSD,Terry Gou,67,Technology  ==> electronics,None,Not Available
+182,8.5 BUSD,Gordon Moore,89,Technology  ==> Intel,United States,Male
+183,8.3 BUSD,James Irving,90,Diversified  ==> diversified,Canada,Not Available
+184,8.3 BUSD,Stanley Kroenke,70,"Sports  ==> sports, real estate",None,Male
+185,8.2 BUSD,Melker Schorling,71,Finance and Investments  ==> investments,None,Male
+186,8.1 BUSD,Johann Graf,71,Gambling & Casinos  ==> gambling,Austria,Male
+187,8.1 BUSD,Guo Guangchang,51,Diversified  ==> conglomerate,None,Male
+188,8.1 BUSD,John Malone,77,Media & Entertainment  ==> cable television,None,Male
+189,8.1 BUSD,Xavier Niel,50,"Telecom  ==> internet, telecom",None,Male
+190,8.0 BUSD,Silvio Berlusconi,81,Diversified  ==> media,None,Not Available
+191,8.0 BUSD,Carl Cook,55,Healthcare  ==> medical devices,None,Not Available
+192,8.0 BUSD,David Geffen,75,"Media & Entertainment  ==> movies, record labels",United States,Male
+193,8.0 BUSD,Hui Wing Mau,67,Real Estate  ==> real estate,None,Not Available
+194,8.0 BUSD,Walter Kwok,67,Real Estate  ==> real estate,None,Male
+195,8.0 BUSD,George Soros,87,Finance and Investments  ==> hedge funds,United States,Not Available
+196,7.9 BUSD,"Edward Johnson, Iii.",87,Finance and Investments  ==> money management,United States,Male
+197,7.9 BUSD,Massimiliana Landini Aleotti,75,Healthcare  ==> pharmaceuticals,Italy,Female
+198,7.8 BUSD,David Duffield,77,Technology  ==> business software,None,Male
+199,7.8 BUSD,George Kaiser,75,"Energy  ==> oil & gas, banking",United States,Not Available
+200,7.8 BUSD,Patrick Soon-Shiong,65,Healthcare  ==> pharmaceuticals,None,Male
+201,7.8 BUSD,Zhou Qunfei,48,Technology  ==> smartphone screens,None,Female
+202,7.7 BUSD,Nicky Oppenheimer,73,Metals & Mining  ==> diamonds,None,Male
+203,7.7 BUSD,Sun Piaoyang,59,Healthcare  ==> pharmaceuticals,None,Not Available
+204,7.7 BUSD,Wu Yajun,54,Real Estate  ==> real estate,None,Female
+205,7.6 BUSD,Alexei Kuzmichev,55,"Energy  ==> oil, banking, telecom",None,Not Available
+206,7.6 BUSD,Stephen Ross,78,Real Estate  ==> real estate,None,Male
+207,7.4 BUSD,Vincent Bollore,66,Finance and Investments  ==> investments,None,Not Available
+208,7.4 BUSD,Pauline Macmillan Keinath,84,Food and Beverage  ==> Cargill,None,Female
+209,7.4 BUSD,Jay Y. Lee,50,Diversified  ==> Samsung,South Korea,Male
+210,7.4 BUSD,Anders Holch Povlsen,45,Fashion & Retail  ==> fashion retail,None,Male
+211,7.3 BUSD,Eli Broad,85,Finance and Investments  ==> investments,None,Not Available
+212,7.3 BUSD,Michael Kadoorie,76,"Energy  ==> hotels, energy",Hong Kong,Male
+213,7.3 BUSD,Iskander Makhmudov,54,"Metals & Mining  ==> mining, metals, machinery",Russia,Male
+214,7.3 BUSD,Frederik Paulsen,67,Healthcare  ==> health care,Sweden,Not Available
+215,7.3 BUSD,Sun Hongbin,55,Real Estate  ==> real estate,None,Male
+216,7.3 BUSD,Christy Walton,69,Fashion & Retail  ==> Walmart,United States,Not Available
+217,7.2 BUSD,Shahid Khan,67,Automotive  ==> auto parts,None,Male
+218,7.2 BUSD,Ananda Krishnan,80,"Telecom  ==> telecoms, media, oil-services",None,Male
+219,7.2 BUSD,Carrie Perrodo,67,Energy  ==> oil,None,Not Available
+220,7.2 BUSD,Quek Leng Chan,76,"Diversified  ==> banking, property",None,Male
+221,7.2 BUSD,Wang Wenxue,51,Real Estate  ==> real estate,China,Not Available
+222,7.1 BUSD,John Doerr,66,Technology  ==> venture capital,None,Male
+223,7.1 BUSD,Patrick Drahi,54,Telecom  ==> telecom,None,Male
+224,7.1 BUSD,Eva Gonda De Rivera,62,Food and Beverage  ==> beverages,None,Female
+225,7.1 BUSD,Willi & Isolde Liebherr,62,Construction & Engineering  ==> Construction,None,Male
+226,7.1 BUSD,Ricardo Salinas Pliego,62,"Fashion & Retail  ==> retail, media",None,Male
+227,7.1 BUSD,Suh Kyung-Bae,55,Fashion & Retail  ==> cosmetics,South Korea,Male
+228,7.0 BUSD,Pollyanna Chu,60,Finance and Investments  ==> financial services,None,Female
+229,7.0 BUSD,John Fredriksen,73,Logistics  ==> shipping,Cyprus,Male
+230,7.0 BUSD,Goh Cheng Liang,91,Manufacturing  ==> paints,None,Male
+231,7.0 BUSD,Sri Prakash Lohia,65,Manufacturing  ==> polyester,None,Male
+232,7.0 BUSD,Lu Zhiqiang,65,Real Estate  ==> real estate,China,Male
+233,7.0 BUSD,Jorn Rausing,58,Food and Beverage  ==> packaging,None,Male
+234,7.0 BUSD,Johann Rupert,68,Fashion & Retail  ==> luxury goods,None,Not Available
+235,7.0 BUSD,Jacques Saade,81,Logistics  ==> shipping,None,Male
+236,7.0 BUSD,Wu Shaoxun,62,Food and Beverage  ==> wine,China,Male
+237,6.9 BUSD,Leonid Fedun,62,Energy  ==> oil,None,Male
+238,6.9 BUSD,Kim Jung-Ju,50,Technology  ==> online games,None,Male
+239,6.9 BUSD,Sandra Ortega Mera,49,Fashion & Retail  ==> Zara,Spain,Female
+240,6.9 BUSD,Jim Pattison,89,Diversified  ==> diversified,None,Male
+241,6.9 BUSD,Michael Platt,50,Finance and Investments  ==> hedge funds,None,Male
+242,6.8 BUSD,Chan Laiwa,77,Real Estate  ==> real estate,China,Not Available
+243,6.8 BUSD,David Green,76,Fashion & Retail  ==> retail,None,Male
+244,6.8 BUSD,Hank & Doug Meijer,62,Fashion & Retail  ==> supermarkets,United States,Male
+245,6.8 BUSD,Dmitry Rybolovlev,51,Manufacturing  ==> fertilizer,None,Male
+246,6.8 BUSD,Tsai Eng-Meng,61,"Food and Beverage  ==> food, beverages",None,Male
+247,6.8 BUSD,Andreas Von Bechtolsheim,62,Technology  ==> Google,None,Male
+248,6.7 BUSD,Oleg Deripaska,50,"Metals & Mining  ==> aluminum, utilities",None,Not Available
+249,6.7 BUSD,Liu Yongxing,70,Service  ==> diversified,None,Male
+250,6.7 BUSD,Ludwig Merckle,53,Finance and Investments  ==> pharmaceuticals,None,Male
+251,6.6 BUSD,Brian Acton,46,Technology  ==> WhatsApp,None,Male
+252,6.6 BUSD,John Grayken,62,Finance and Investments  ==> private equity,None,Not Available
+253,6.6 BUSD,Ann Walton Kroenke,69,Fashion & Retail  ==> Walmart,United States,Not Available
+254,6.6 BUSD,Augusto & Giorgio Perfetti,62,Food and Beverage  ==> candy,Italy,Male
+255,6.6 BUSD,Finn Rausing,63,Food and Beverage  ==> packaging,None,Not Available
+256,6.6 BUSD,Kirsten Rausing,66,Food and Beverage  ==> packaging,None,Female
+257,6.6 BUSD,Odd Reitan,66,"Fashion & Retail  ==> retail, real estate",Norway,Male
+258,6.6 BUSD,Nassef Sawiris,57,"Construction & Engineering  ==> construction, chemicals",None,Male
+259,6.6 BUSD,Wee Cho Yaw,89,Finance and Investments  ==> banking,None,Male
+260,6.6 BUSD,Aloys Wobben,66,Energy  ==> wind turbines,None,Male
+261,6.5 BUSD,Leon Black,66,Finance and Investments  ==> private equity,United States,Male
+262,6.5 BUSD,Ivan Glasenberg,61,Metals & Mining  ==> mining,None,Not Available
+263,6.5 BUSD,John Paulson,62,Finance and Investments  ==> hedge funds,None,Male
+264,6.5 BUSD,Wei Jianjun,54,Automotive  ==> automobiles,China,Male
+265,6.4 BUSD,Francis Choi,70,Real Estate  ==> real estate,None,Male
+266,6.4 BUSD,Erivan Haub,85,Fashion & Retail  ==> retail,Germany,Male
+267,6.4 BUSD,Jason Jiang,45,Media & Entertainment  ==> advertising,None,Male
+268,6.4 BUSD,Suleiman Kerimov,52,Finance and Investments  ==> investments,None,Male
+269,6.4 BUSD,Ian & Richard Livingstone,62,Real Estate  ==> real estate,None,Male
+270,6.4 BUSD,Pang Kang,62,Food and Beverage  ==> soy sauce maker,None,Not Available
+271,6.4 BUSD,David Shaw,67,Finance and Investments  ==> hedge funds,None,Not Available
+272,6.4 BUSD,Kushal Pal Singh,86,Real Estate  ==> real estate,India,Male
+273,6.4 BUSD,John A. Sobrato,79,Real Estate  ==> real estate,United States,Male
+274,6.3 BUSD,Acharya Balkrishna,45,Food and Beverage  ==> consumer goods,None,Male
+275,6.3 BUSD,Guenther Fielmann,78,Healthcare  ==> optometry,None,Male
+276,6.3 BUSD,Daniel Gilbert,56,Finance and Investments  ==> Quicken Loans,United States,Male
+277,6.3 BUSD,Antonia Johnson,74,Diversified  ==> diversified,Sweden,Female
+278,6.3 BUSD,Vikram Lal,76,Automotive  ==> motorcycles,India,Male
+279,6.3 BUSD,Akira Mori,81,Real Estate  ==> real estate,None,Male
+280,6.3 BUSD,Maria-Elisabeth Schaeffler-Thumann,76,Automotive  ==> auto parts,Germany,Female
+281,6.2 BUSD,Albert Frere,92,Finance and Investments  ==> investments,None,Male
+282,6.2 BUSD,Richard Kinder,73,Energy  ==> pipelines,United States,Male
+283,6.2 BUSD,Robert Kraft,77,Sports  ==> New England Patriots,United States,Male
+284,6.2 BUSD,Ralph Lauren,78,Fashion & Retail  ==> Ralph Lauren,United States,Male
+285,6.2 BUSD,Bruno Schroder,85,Finance and Investments  ==> banking,United Kingdom,Male
+286,6.2 BUSD,Nusli Wadia,74,Food and Beverage  ==> consumer goods,None,Male
+287,6.1 BUSD,Pierre Bellon,88,Service  ==> food services,None,Male
+288,6.1 BUSD,Les Wexner,80,Fashion & Retail  ==> retail,None,Male
+289,6.0 BUSD,Benu Gopal Bangur,87,Manufacturing  ==> cement,India,Male
+290,6.0 BUSD,David Cheriton,67,Technology  ==> Google,None,Male
+291,6.0 BUSD,Ma Jianrong,54,"Fashion & Retail  ==> textiles, apparel",None,Not Available
+292,6.0 BUSD,Whitney Macmillan,88,Food and Beverage  ==> Cargill,United States,Male
+293,6.0 BUSD,Dan Olsson,71,Diversified  ==> diversified,None,Male
+294,6.0 BUSD,Vivek Chaand Sehgal,61,Automotive  ==> auto parts,Australia,Not Available
+295,6.0 BUSD,Teh Hong Piow,88,Finance and Investments  ==> banking,None,Male
+296,5.9 BUSD,Abdulla Bin Ahmad Al Ghurair,62,Diversified  ==> diversified,United Arab Emirates,Male
+297,5.9 BUSD,Maria Asuncion Aramburuzabala,55,"Food and Beverage  ==> beer, investments",None,Female
+298,5.9 BUSD,Ralph Dommermuth,54,Technology  ==> internet service provider,None,Male
+299,5.9 BUSD,Frank Lowy,87,Real Estate  ==> shopping malls,Australia,Male
+300,5.9 BUSD,Wolfgang Marguerre,77,Healthcare  ==> pharmaceuticals,None,Male
+301,5.9 BUSD,Marijke Mars,53,"Food and Beverage  ==> candy, pet food",None,Female
+302,5.9 BUSD,Pamela Mars,57,"Food and Beverage  ==> candy, pet food",None,Female
+303,5.9 BUSD,Valerie Mars,59,"Food and Beverage  ==> candy, pet food",United States,Female
+304,5.9 BUSD,Victoria Mars,61,"Food and Beverage  ==> candy, pet food",None,Female
+305,5.8 BUSD,David & Frederick Barclay,84,"Diversified  ==> media, retail",None,Not Available
+306,5.8 BUSD,"John Gokongwei, Jr.",91,Diversified  ==> food and beverage,Philippines,Male
+307,5.8 BUSD,Kwon Hyuk-Bin,44,Technology  ==> online games,None,Male
+308,5.8 BUSD,Nancy Walton Laurie,67,Fashion & Retail  ==> Walmart,United States,Female
+309,5.8 BUSD,Lin Yu-Ling,81,Real Estate  ==> real estate,None,Male
+310,5.8 BUSD,Tom & Judy Love,81,Fashion & Retail  ==> retail & gas stations,United States,Male
+311,5.8 BUSD,Robert Rowling,64,Energy  ==> investments,None,Not Available
+312,5.8 BUSD,Dennis Washington,83,"Logistics  ==> construction, mining",None,Male
+313,5.8 BUSD,Yao Liangsong,53,Manufacturing  ==> furniture,None,Male
+314,5.8 BUSD,Zhang Jindong,55,Fashion & Retail  ==> appliance retailer,None,Not Available
+315,5.7 BUSD,Juan Francisco Beckmann Vidal,78,Food and Beverage  ==> tequila,None,Male
+316,5.7 BUSD,David Sun,66,Technology  ==> computer hardware,United States,Male
+317,5.7 BUSD,John Tu,76,Technology  ==> computer hardware,None,Male
+318,5.7 BUSD,Martin Viessmann,64,Manufacturing  ==> heating equipment,None,Male
+319,5.7 BUSD,Stef Wertheimer,91,Manufacturing  ==> metalworking tools,None,Male
+320,5.7 BUSD,Hansjoerg Wyss,83,Healthcare  ==> medical devices,None,Male
+321,5.6 BUSD,James Dyson,71,Manufacturing  ==> vacuums,None,Not Available
+322,5.6 BUSD,Laurence Graff,80,Fashion & Retail  ==> diamond jewelry,None,Male
+323,5.6 BUSD,Jen-Hsun Huang,55,Technology  ==> semiconductors,United States,Male
+324,5.6 BUSD,Charles Johnson,85,Finance and Investments  ==> money management,United States,Not Available
+325,5.6 BUSD,Jerry Jones,75,Sports  ==> Dallas Cowboys,None,Not Available
+326,5.6 BUSD,Kei Hoi Pang,52,Real Estate  ==> real estate,China,Not Available
+327,5.6 BUSD,Kwee Family,62,Real Estate  ==> Real Estate,None,Male
+328,5.6 BUSD,Lee Shin Cheng,79,"Manufacturing  ==> palm oil, property",None,Not Available
+329,5.6 BUSD,Richard Lefrak,72,Real Estate  ==> real estate,None,Male
+330,5.6 BUSD,Shigenobu Nagamori,73,Manufacturing  ==> motors,None,Male
+331,5.6 BUSD,Steven Rales,67,Manufacturing  ==> manufacturing,None,Male
+332,5.6 BUSD,Friede Springer,75,Media & Entertainment  ==> publishing,None,Female
+333,5.6 BUSD,Yeung Kin-Man,54,Manufacturing  ==> electronics,None,Male
+334,5.5 BUSD,Rinat Akhmetov,51,"Metals & Mining  ==> steel, coal",None,Male
+335,5.5 BUSD,Shari Arison,60,Service  ==> Carnival Cruises,Israel,Female
+336,5.5 BUSD,Dannine Avara,54,Energy  ==> pipelines,United States,Not Available
+337,5.5 BUSD,Rahel Blocher,42,Manufacturing  ==> chemicals,None,Not Available
+338,5.5 BUSD,Andrew Currie,62,Manufacturing  ==> chemicals,None,Male
+339,5.5 BUSD,Scott Duncan,34,Energy  ==> pipelines,None,Male
+340,5.5 BUSD,Milane Frantz,48,Energy  ==> pipelines,None,Female
+341,5.5 BUSD,Diane Hendricks,71,Construction & Engineering  ==> roofing,United States,Female
+342,5.5 BUSD,Magdalena Martullo-Blocher,49,Manufacturing  ==> chemicals,None,Female
+343,5.5 BUSD,Hiroshi Mikitani,53,Fashion & Retail  ==> online retail,None,Not Available
+344,5.5 BUSD,Gabe Newell,55,Gambling & Casinos  ==> videogames,None,Male
+345,5.5 BUSD,Pan Sutong,55,"Real Estate  ==> real estate, finance",Hong Kong,Not Available
+346,5.5 BUSD,Anthony Pratt,58,Manufacturing  ==> manufacturing,Australia,Not Available
+347,5.5 BUSD,John Reece,61,Manufacturing  ==> chemicals,United Kingdom,Not Available
+348,5.5 BUSD,Randa Williams,56,Energy  ==> pipelines,None,Not Available
+349,5.5 BUSD,Zhang Bangxin,38,Service  ==> after-school tutoring,None,Male
+350,5.5 BUSD,Zhang Shiping,71,Metals & Mining  ==> aluminum products,China,Male
+351,5.4 BUSD,Jean-Michel Besnier,51,Food and Beverage  ==> cheese,France,Male
+352,5.4 BUSD,Marie Besnier Beauvalot,36,Food and Beverage  ==> cheese,France,Female
+353,5.4 BUSD,Richard Devos,92,Service  ==> Amway,United States,Not Available
+354,5.4 BUSD,Michael Herz,74,Fashion & Retail  ==> coffee,Germany,Male
+355,5.4 BUSD,Wolfgang Herz,67,Fashion & Retail  ==> coffee,Germany,Male
+356,5.4 BUSD,Kjeld Kirk Kristiansen,70,Manufacturing  ==> Lego,None,Male
+357,5.4 BUSD,Sofie Kirk Kristiansen,42,Manufacturing  ==> Lego,Denmark,Female
+358,5.4 BUSD,Thomas Kirk Kristiansen,62,Manufacturing  ==> Lego,None,Not Available
+359,5.4 BUSD,Lam Wai Ying,62,Manufacturing  ==> smartphone screens,None,Female
+360,5.4 BUSD,Lin Xiucheng,62,Technology  ==> electronics,None,Male
+361,5.4 BUSD,Margarita Louis-Dreyfus,56,Food and Beverage  ==> commodities,None,Not Available
+362,5.4 BUSD,George Roberts,74,Finance and Investments  ==> private equity,United States,Male
+363,5.4 BUSD,"Edward Roski, Jr.",79,Real Estate  ==> real estate,None,Male
+364,5.4 BUSD,Agnete Kirk Thinggaard,62,Manufacturing  ==> Lego,None,Not Available
+365,5.3 BUSD,Mike Adenuga,65,"Diversified  ==> telecom, oil",None,Male
+366,5.3 BUSD,Jim Davis,75,Manufacturing  ==> New Balance,None,Male
+367,5.3 BUSD,David Filo,52,Technology  ==> Yahoo,None,Male
+368,5.3 BUSD,Pansy Ho,55,Gambling & Casinos  ==> casinos,None,Female
+369,5.3 BUSD,Henry Kravis,74,Finance and Investments  ==> private equity,None,Male
+370,5.3 BUSD,Emanuele (Lino) Saputo,81,Food and Beverage  ==> cheese,None,Not Available
+371,5.3 BUSD,Xu Chuanhua,83,"Manufacturing  ==> chemicals, logistics",None,Male
+372,5.2 BUSD,Alexander Abramov,59,"Metals & Mining  ==> steel, mining",None,Male
+373,5.2 BUSD,Israel Englander,69,Finance and Investments  ==> hedge funds,United States,Male
+374,5.2 BUSD,Frits Goldschmeding,84,Service  ==> temp agency,Netherlands,Male
+375,5.2 BUSD,Marian Ilitch,85,"Food and Beverage  ==> pizza, sports team",United States,Female
+376,5.2 BUSD,Bruce Kovner,73,Finance and Investments  ==> hedge funds,United States,Male
+377,5.2 BUSD,George Lucas,74,Media & Entertainment  ==> Star Wars,None,Not Available
+378,5.2 BUSD,Kalanithi Maran,52,Media & Entertainment  ==> media,None,Male
+379,5.2 BUSD,Elisabeth Mohn,77,Media & Entertainment  ==> publishing,Germany,Female
+380,5.2 BUSD,"Robert Rich, Jr.",77,Food and Beverage  ==> frozen foods,None,Male
+381,5.2 BUSD,Wang Chuanfu,52,"Automotive  ==> batteries, automobiles",None,Male
+382,5.1 BUSD,Maria Fernanda Amorim,83,"Diversified  ==> energy, investments",Portugal,Female
+383,5.1 BUSD,Pyotr Aven,63,"Energy  ==> oil, banking, telecom",None,Male
+384,5.1 BUSD,Bernard Marcus,89,Fashion & Retail  ==> Home Depot,None,Male
+385,5.1 BUSD,Pedro Moreira Salles,58,"Diversified  ==> banking, minerals",None,Male
+386,5.1 BUSD,Frederick Smith,73,Logistics  ==> FedEx,None,Male
+387,5.1 BUSD,Ronda Stryker,64,Healthcare  ==> medical equipment,None,Female
+388,5.0 BUSD,Richard Branson,67,Diversified  ==> Virgin,United Kingdom,Male
+389,5.0 BUSD,Subhash Chandra,67,Media & Entertainment  ==> media,India,Not Available
+390,5.0 BUSD,Denise Coates,50,Gambling & Casinos  ==> online gambling,United Kingdom,Female
+391,5.0 BUSD,Martha Ingram,82,"Media & Entertainment  ==> book distribution, transportation",None,Female
+392,5.0 BUSD,Law Kar Po,70,Real Estate  ==> real estate,Hong Kong,Male
+393,5.0 BUSD,Joe Lewis,81,Finance and Investments  ==> investments,United Kingdom,Male
+394,5.0 BUSD,Gabriella Meister,70,Manufacturing  ==> appliances,Germany,Female
+395,5.0 BUSD,Fernando Roberto Moreira Salles,72,"Diversified  ==> banking, minerals",None,Not Available
+396,5.0 BUSD,Joao Moreira Salles,56,"Diversified  ==> banking, minerals",Brazil,Male
+397,5.0 BUSD,Walther Moreira Salles Junior,62,"Finance and Investments  ==> banking, minerals",None,Male
+398,5.0 BUSD,Pankaj Patel,65,Healthcare  ==> pharmaceuticals,None,Male
+399,5.0 BUSD,Karen Pritzker,60,"Service  ==> hotels, investments",United States,Female
+400,5.0 BUSD,Thomas Schmidheiny,72,Construction & Engineering  ==> cement,None,Male
+401,5.0 BUSD,Vichai Srivaddhanaprabha,60,Fashion & Retail  ==> duty-free,None,Male
+402,5.0 BUSD,Keiichiro Takahara,87,Manufacturing  ==> diapers,Japan,Not Available
+403,5.0 BUSD,M.A. Yusuff Ali,62,Fashion & Retail  ==> retail,None,Male
+404,4.9 BUSD,Robert Bass,70,"Energy  ==> oil, investments",None,Not Available
+405,4.9 BUSD,Marc Benioff,53,Technology  ==> business software,None,Not Available
+406,4.9 BUSD,Martin & Olivier Bouygues,62,"Construction & Engineering  ==> construction, media",None,Male
+407,4.9 BUSD,Chung Mong-Koo,80,Automotive  ==> motor vehicles,None,Not Available
+408,4.9 BUSD,Charles Dolan,91,Media & Entertainment  ==> cable television,None,Male
+409,4.9 BUSD,Ray Lee Hunt,75,"Energy  ==> oil, real estate",None,Male
+410,4.9 BUSD,Liu Yonghao,66,Service  ==> agribusiness,China,Male
+411,4.9 BUSD,John Overdeck,48,Finance and Investments  ==> hedge funds,United States,Male
+412,4.9 BUSD,Ajay Piramal,62,Healthcare  ==> pharmaceuticals,None,Male
+413,4.9 BUSD,"Enrique Razon, Jr.",58,Logistics  ==> ports,Philippines,Male
+414,4.9 BUSD,Sumner Redstone,95,Media & Entertainment  ==> media,None,Male
+415,4.9 BUSD,Paolo & Gianfelice Mario Rocca,62,Metals & Mining  ==> pipe manufacturing,None,Not Available
+416,4.9 BUSD,Reinhold Schmieding,63,Healthcare  ==> medical devices,United States,Male
+417,4.9 BUSD,David Siegel,56,Finance and Investments  ==> hedge funds,United States,Male
+418,4.9 BUSD,Andrei Skoch,52,Metals & Mining  ==> steel,Russia,Not Available
+419,4.9 BUSD,Yu Yong,57,Finance and Investments  ==> mining,China,Not Available
+420,4.9 BUSD,Sam Zell,76,"Real Estate  ==> real estate, private equity",United States,Male
+421,4.9 BUSD,Zhou Jianping,58,Fashion & Retail  ==> fashion retail,China,Not Available
+422,4.8 BUSD,Bajaj Brothers,62,Diversified  ==> diversified,None,Not Available
+423,4.8 BUSD,Garrett Camp,39,Technology  ==> Uber,None,Male
+424,4.8 BUSD,Bubba Cathy,64,Food and Beverage  ==> Chick-fil-A,United States,Not Available
+425,4.8 BUSD,Dan Cathy,65,Food and Beverage  ==> Chick-fil-A,United States,Male
+426,4.8 BUSD,Fu Liquan,50,Technology  ==> surveillance equipment,None,Male
+427,4.8 BUSD,Philip & Cristina Green,66,Fashion & Retail  ==> fashion retail,None,Male
+428,4.8 BUSD,Mikhail Gutseriev,60,"Energy  ==> oil, real estate",Russia,Male
+429,4.8 BUSD,"Rupert Johnson, Jr.",77,Finance and Investments  ==> money management,None,Not Available
+430,4.8 BUSD,Travis Kalanick,41,Technology  ==> Uber,United States,Not Available
+431,4.8 BUSD,Andrei Kozitsyn,58,Metals & Mining  ==> metals,None,Male
+432,4.8 BUSD,Horst Paulmann,83,Fashion & Retail  ==> retail,None,Not Available
+433,4.8 BUSD,Julio Ponce Lerou,72,Metals & Mining  ==> fertilizer,None,Not Available
+434,4.8 BUSD,Trevor Rees-Jones,66,Energy  ==> oil & gas,United States,Male
+435,4.8 BUSD,Mark Scheinberg,44,Gambling & Casinos  ==> online gambling,None,Male
+436,4.8 BUSD,Jeffrey Skoll,53,Technology  ==> eBay,United States,Not Available
+437,4.8 BUSD,Murat Ulker,59,Food and Beverage  ==> food,None,Male
+438,4.8 BUSD,Daniel Ziff,46,Finance and Investments  ==> investments,None,Male
+439,4.8 BUSD,Dirk Ziff,54,Finance and Investments  ==> investments,None,Male
+440,4.8 BUSD,Robert Ziff,51,Finance and Investments  ==> investments,None,Not Available
+441,4.7 BUSD,Juergen Blickle,71,Manufacturing  ==> auto parts,None,Not Available
+442,4.7 BUSD,Bernard Broermann,74,Healthcare  ==> hospitals,None,Male
+443,4.7 BUSD,Clive Calder,71,Media & Entertainment  ==> record label,None,Male
+444,4.7 BUSD,Stanley Druckenmiller,65,Finance and Investments  ==> hedge funds,United States,Not Available
+445,4.7 BUSD,Ted Lerner,92,Real Estate  ==> real estate,United States,Male
+446,4.7 BUSD,Li Shuirong,61,Manufacturing  ==> petrochemicals,None,Male
+447,4.7 BUSD,Lim Kok Thay,66,Gambling & Casinos  ==> casinos,None,Male
+448,4.7 BUSD,Niels Peter Louis-Hansen,70,Healthcare  ==> medical devices,None,Male
+449,4.7 BUSD,Fredrik Lundberg,66,"Real Estate  ==> real estate, investments",None,Male
+450,4.7 BUSD,Gwendolyn Sontheim Meyer,56,Food and Beverage  ==> Cargill,United States,Not Available
+451,4.7 BUSD,J. Christopher Reyes,64,Food and Beverage  ==> food distribution,None,Not Available
+452,4.7 BUSD,Jude Reyes,62,Food and Beverage  ==> food distribution,None,Male
+453,4.7 BUSD,Alexandra Schoerghuber,59,Real Estate  ==> real estate,Germany,Female
+454,4.7 BUSD,Sheldon Solow,89,Real Estate  ==> real estate,United States,Male
+455,4.7 BUSD,Lucio Tan,83,Diversified  ==> diversified,Philippines,Not Available
+456,4.6 BUSD,Majid Al Futtaim,62,"Real Estate  ==> real estate, retail",United Arab Emirates,Male
+457,4.6 BUSD,Andrej Babis,63,Food and Beverage  ==> agriculture,None,Not Available
+458,4.6 BUSD,Dona Bertarelli,50,Diversified  ==> biotech,Switzerland,Female
+459,4.6 BUSD,Cai Kui,55,Real Estate  ==> real estate,None,Not Available
+460,4.6 BUSD,Bidzina Ivanishvili,62,Finance and Investments  ==> investments,None,Male
+461,4.6 BUSD,"Jeremy Jacobs, Sr.",78,Service  ==> concessions,United States,Male
+462,4.6 BUSD,Chris Larsen,58,Finance and Investments  ==> cryptocurrency,None,Not Available
+463,4.6 BUSD,Patrick Lee,76,Manufacturing  ==> paper,Hong Kong,Not Available
+464,4.6 BUSD,Liang Wengen,61,Manufacturing  ==> construction equipment,None,Male
+465,4.6 BUSD,Denis O'Brien,60,Telecom  ==> telecom,None,Not Available
+466,4.5 BUSD,Kapil & Rahul Bhatia,62,Service  ==> airlines,None,Male
+467,4.5 BUSD,Jean-Pierre Cayard,75,Food and Beverage  ==> spirits,None,Male
+468,4.5 BUSD,Chey Tae-Won,57,"Telecom  ==> IT, telecom",None,Male
+469,4.5 BUSD,Fang Wei,44,Manufacturing  ==> steel,China,Male
+470,4.5 BUSD,Andrei Guriev,58,Manufacturing  ==> fertilizers,None,Male
+471,4.5 BUSD,Bertil Hult,77,Service  ==> education,None,Male
+472,4.5 BUSD,Ji Changqun,50,Real Estate  ==> real estate,China,Male
+473,4.5 BUSD,"Paul Tudor Jones, Ii.",63,Finance and Investments  ==> hedge funds,None,Male
+474,4.5 BUSD,Robert Miller,85,Fashion & Retail  ==> retail,None,Male
+475,4.5 BUSD,Sergei Popov,46,Finance and Investments  ==> banking,Russia,Male
+476,4.5 BUSD,Juan Roig,68,Fashion & Retail  ==> supermarkets,None,Male
+477,4.5 BUSD,John Sall,70,Technology  ==> software,United States,Male
+478,4.5 BUSD,Leonard Stern,80,Real Estate  ==> real estate,None,Male
+479,4.5 BUSD,Ye Chenghai,74,Healthcare  ==> pharmaceuticals,None,Male
+480,4.4 BUSD,Anthony Bamford,72,Construction & Engineering  ==> construction equipment,None,Male
+481,4.4 BUSD,Chu Mang Yee,58,Real Estate  ==> real estate,China,Male
+482,4.4 BUSD,Juan Carlos Escotet,58,Finance and Investments  ==> banking,None,Male
+483,4.4 BUSD,Miguel Fluxa Rossello,79,Service  ==> hotels,None,Male
+484,4.4 BUSD,Andrew Forrest,56,Metals & Mining  ==> mining,None,Not Available
+485,4.4 BUSD,Paul Gauselmann,83,Gambling & Casinos  ==> gambling,Germany,Male
+486,4.4 BUSD,Tamara Gustavson,56,Service  ==> self storage,United States,Not Available
+487,4.4 BUSD,Micky Jagtiani,66,Fashion & Retail  ==> retail,India,Male
+488,4.4 BUSD,Johan Johannson,51,Fashion & Retail  ==> grocery stores,Norway,Male
+489,4.4 BUSD,Richard Li,51,Telecom  ==> telecom,None,Male
+490,4.4 BUSD,John Morris,70,Fashion & Retail  ==> sporting goods retail,None,Male
+491,4.4 BUSD,Theo Mueller,78,Food and Beverage  ==> dairy,Germany,Not Available
+492,4.4 BUSD,Akio Nitori,74,Fashion & Retail  ==> home furnishings,Japan,Male
+493,4.4 BUSD,Wolfgang Reimann,65,Fashion & Retail  ==> consumer goods,None,Male
+494,4.4 BUSD,Matthias Reimann-Andersen,53,Fashion & Retail  ==> consumer goods,None,Male
+495,4.4 BUSD,Stefan Reimann-Andersen,54,Fashion & Retail  ==> consumer goods,None,Male
+496,4.4 BUSD,Renate Reimann-Haas,66,Fashion & Retail  ==> consumer goods,Germany,Female
+497,4.4 BUSD,Robert Smith,55,Finance and Investments  ==> private equity,None,Male
+498,4.4 BUSD,Russ Weiner,48,Food and Beverage  ==> energy drinks,United States,Male
+499,4.3 BUSD,Jeronimo Arango,92,Fashion & Retail  ==> retail,None,Male
+500,4.3 BUSD,Rahul Bajaj,80,Automotive  ==> motorcycles,None,Male
+501,4.3 BUSD,Rainer Blickle,70,Manufacturing  ==> auto parts,None,Male
+502,4.3 BUSD,Rocco Commisso,68,Telecom  ==> telecom,None,Male
+503,4.3 BUSD,Giuseppe De'Longhi,79,Fashion & Retail  ==> coffee makers,None,Male
+504,4.3 BUSD,Tilman Fertitta,60,"Food and Beverage  ==> Houston Rockets, entertainment",United States,Not Available
+505,4.3 BUSD,Nathan Kirsh,86,"Fashion & Retail  ==> retail, real estate",Swaziland,Male
+506,4.3 BUSD,Terrence Pegula,67,Energy  ==> natural gas,None,Male
+507,4.3 BUSD,Robert Pera,40,Technology  ==> wireless networking gear,None,Male
+508,4.3 BUSD,Gary Rollins,73,Service  ==> pest control,None,Male
+509,4.3 BUSD,Randall Rollins,86,Service  ==> pest control,United States,Not Available
+510,4.3 BUSD,Alejandro Santo Domingo,41,Food and Beverage  ==> beer,United States,Not Available
+511,4.3 BUSD,Andres Santo Domingo,40,Food and Beverage  ==> beer,United States,Not Available
+512,4.3 BUSD,Pham Nhat Vuong,49,Diversified  ==> diversified,Vietnam,Not Available
+513,4.3 BUSD,Roger Wang,69,Fashion & Retail  ==> retail,None,Not Available
+514,4.2 BUSD,Stephen Bisciotti,58,"Sports  ==> staffing, Baltimore Ravens",United States,Male
+515,4.2 BUSD,"Austen Cargill, Ii.",67,Food and Beverage  ==> Cargill,United States,Not Available
+516,4.2 BUSD,"James Cargill, Ii.",69,Food and Beverage  ==> Cargill,None,Male
+517,4.2 BUSD,Archie Aldis Emmerson,89,"Manufacturing  ==> timberland, lumber mills",None,Male
+518,4.2 BUSD,Antti Herlin,61,"Manufacturing  ==> elevators, escalators",None,Male
+519,4.2 BUSD,Sumet Jiaravanon,83,Diversified  ==> diversified,None,Male
+520,4.2 BUSD,Lars Larsen,69,Fashion & Retail  ==> retail,None,Male
+521,4.2 BUSD,Marianne Liebmann,64,Food and Beverage  ==> Cargill,None,Female
+522,4.2 BUSD,Bobby Murphy,28,Technology  ==> Snapchat,None,Not Available
+523,4.2 BUSD,Igor Olenicoff,75,Real Estate  ==> real estate,None,Male
+524,4.2 BUSD,"Walter Scott, Jr.",87,"Energy  ==> utilities, telecom",None,Not Available
+525,4.2 BUSD,"Clemmie Spangler, Jr.",86,Finance and Investments  ==> investments,United States,Male
+526,4.2 BUSD,Wang Yusuo,54,Energy  ==> natural gas distribution,None,Not Available
+527,4.1 BUSD,Carl Bennet,66,Finance and Investments  ==> investments,Sweden,Male
+528,4.1 BUSD,Arthur Blank,75,Sports  ==> Home Depot,United States,Male
+529,4.1 BUSD,Jaran Chiaravanont,88,Diversified  ==> diversified,Thailand,Male
+530,4.1 BUSD,Jack & Laura Dangermond,72,Technology  ==> mapping software,None,Male
+531,4.1 BUSD,Fan Hongwei,51,Energy  ==> petrochemicals,None,Female
+532,4.1 BUSD,John Gandel,83,Real Estate  ==> shopping malls,None,Male
+533,4.1 BUSD,James Jannard,69,Fashion & Retail  ==> sunglasses,None,Male
+534,4.1 BUSD,Montri Jiaravanont,87,Diversified  ==> diversified,Thailand,Male
+535,4.1 BUSD,Samuel Tak Lee,79,Real Estate  ==> real estate,None,Not Available
+536,4.1 BUSD,Pawan Munjal,64,Automotive  ==> motorcycles,India,Male
+537,4.1 BUSD,Axel Oberwelland,51,Food and Beverage  ==> candy,Germany,Male
+538,4.1 BUSD,James Packer,50,Gambling & Casinos  ==> casinos,None,Not Available
+539,4.1 BUSD,Isaac Perlmutter,75,Media & Entertainment  ==> Marvel comics,None,Male
+540,4.1 BUSD,"H. Ross Perot, Sr.",87,"Diversified  ==> computer services, real estate",United States,Male
+541,4.1 BUSD,Michael Pieper,72,Manufacturing  ==> kitchen appliances,None,Male
+542,4.1 BUSD,Thomas Pritzker,68,"Finance and Investments  ==> hotels, investments",None,Male
+543,4.1 BUSD,"Julian Robertson, Jr.",85,Finance and Investments  ==> hedge funds,None,Male
+544,4.1 BUSD,Renzo Rosso,62,Fashion & Retail  ==> fashion,Italy,Male
+545,4.1 BUSD,Hussain Sajwani,65,Real Estate  ==> real estate,United Arab Emirates,Male
+546,4.1 BUSD,Yasumitsu Shigeta,53,Telecom  ==> mobile phone retailer,Japan,Male
+547,4.1 BUSD,Evan Spiegel,27,Technology  ==> Snapchat,United States,Male
+548,4.1 BUSD,Wang Xing,45,Technology  ==> e-commerce,None,Not Available
+549,4.1 BUSD,Kelcy Warren,62,Energy  ==> pipelines,United States,Male
+550,4.0 BUSD,Ben Ashkenazy,48,Real Estate  ==> real estate,None,Male
+551,4.0 BUSD,Ursula Bechtolsheimer-Kipp,62,Real Estate  ==> retail,None,Female
+552,4.0 BUSD,Otto Philipp Braun,40,Healthcare  ==> medical technology,Germany,Male
+553,4.0 BUSD,Che Jianxing,51,Fashion & Retail  ==> furniture retailing,None,Male
+554,4.0 BUSD,Dagmar Dolby,76,Technology  ==> Dolby Laboratories,None,Female
+555,4.0 BUSD,Traudl Engelhorn,91,"Healthcare  ==> pharmaceuticals, medical equipment",Germany,Female
+556,4.0 BUSD,Dan Friedkin,53,Automotive  ==> Toyota dealerships,None,Not Available
+557,4.0 BUSD,Sergei Galitsky,50,Fashion & Retail  ==> retail,None,Male
+558,4.0 BUSD,Huang Rulun,66,Real Estate  ==> real estate,None,Male
+559,4.0 BUSD,Erman Ilicak,50,Construction & Engineering  ==> construction,None,Not Available
+560,4.0 BUSD,Ronald Lauder,74,Fashion & Retail  ==> Estee Lauder,None,Not Available
+561,4.0 BUSD,Michel Leclercq,79,Fashion & Retail  ==> sporting goods,France,Male
+562,4.0 BUSD,Michael Moritz,63,Technology  ==> venture capital,None,Male
+563,4.0 BUSD,Issad Rebrab,74,Food and Beverage  ==> food,None,Male
+564,4.0 BUSD,Naguib Sawiris,64,Telecom  ==> telecom,None,Male
+565,4.0 BUSD,Richard Schulze,77,Fashion & Retail  ==> Best Buy,United States,Not Available
+566,4.0 BUSD,B.R. Shetty,76,Healthcare  ==> healthcare,None,Male
+567,4.0 BUSD,Jeff Sutton,58,Real Estate  ==> real estate,United States,Male
+568,4.0 BUSD,Tony Tan Caktiong,65,Food and Beverage  ==> food,None,Male
+569,4.0 BUSD,Yu Huijiao,52,Logistics  ==> package delivery,None,Male
+570,4.0 BUSD,Zhang Xuexin,70,Metals & Mining  ==> aluminum,China,Male
+571,4.0 BUSD,Zhang Yiming,33,Technology  ==> software,None,Male
+572,3.9 BUSD,Suhail Bahwan,79,Diversified  ==> diversified,Oman,Male
+573,3.9 BUSD,Rick Caruso,59,Real Estate  ==> real estate,United States,Male
+574,3.9 BUSD,Tom Gores,53,Finance and Investments  ==> private equity,United States,Male
+575,3.9 BUSD,Peter Hargreaves,71,Finance and Investments  ==> financial services,UK,Male
+576,3.9 BUSD,Daniela Herz,64,Finance and Investments  ==> coffee,Germany,Female
+577,3.9 BUSD,Guenter Herz,77,Finance and Investments  ==> coffee,None,Male
+578,3.9 BUSD,Masatoshi Ito,94,Fashion & Retail  ==> retail,None,Male
+579,3.9 BUSD,Barry Lam,69,Technology  ==> electronics,None,Male
+580,3.9 BUSD,Sudhir & Samir Mehta,62,Diversified  ==> diversified,None,Not Available
+581,3.9 BUSD,Ravi Pillai,64,Construction & Engineering  ==> construction,None,Male
+582,3.9 BUSD,Stewart And Lynda Resnick,62,"Food and Beverage  ==> agriculture, water",None,Male
+583,3.9 BUSD,Jerry Speyer,78,Real Estate  ==> real estate,None,Male
+584,3.9 BUSD,Harry Stine,76,Food and Beverage  ==> agriculture,None,Male
+585,3.9 BUSD,George Ty,85,Finance and Investments  ==> banking,None,Not Available
+586,3.9 BUSD,Steven Udvar-Hazy,72,Service  ==> aircraft leasing,None,Male
+587,3.9 BUSD,Christoph Zeller,61,Healthcare  ==> dental implants,None,Male
+588,3.8 BUSD,Nathan Blecharczyk,34,Technology  ==> Airbnb,None,Male
+589,3.8 BUSD,Hubert Burda,78,Media & Entertainment  ==> publishing,None,Male
+590,3.8 BUSD,Chen Dongsheng,60,Finance and Investments  ==> insurance,China,Male
+591,3.8 BUSD,Brian Chesky,35,Technology  ==> Airbnb,None,Not Available
+592,3.8 BUSD,Gustaf Douglas,80,Diversified  ==> investments,Sweden,Male
+593,3.8 BUSD,Joe Gebbia,35,Technology  ==> Airbnb,None,Not Available
+594,3.8 BUSD,Peter Gilgan,67,Construction & Engineering  ==> homebuilding,Canada,Male
+595,3.8 BUSD,Jeff Greene,63,"Real Estate  ==> real estate, investments",United States,Male
+596,3.8 BUSD,Jiang Weiping,63,Manufacturing  ==> chemicals,None,Not Available
+597,3.8 BUSD,Dominika & Sebastian Kulczyk,62,Finance and Investments  ==> diversified,None,Female
+598,3.8 BUSD,Li Wa,52,Real Estate  ==> real estate,None,Male
+599,3.8 BUSD,Robert Mcnair,81,"Sports  ==> energy, sports",United States,Male
+600,3.8 BUSD,Masahiro Miki,62,Fashion & Retail  ==> shoes,None,Male
+601,3.8 BUSD,Katharina Otto-Bernstein,62,Real Estate  ==> real estate,None,Female
+602,3.8 BUSD,Ira Rennert,84,Finance and Investments  ==> investments,United States,Male
+603,3.8 BUSD,Henry Samueli,63,Technology  ==> semiconductors,None,Male
+604,3.8 BUSD,Zeng Fangqin,52,Technology  ==> smartphone components,None,Female
+605,3.8 BUSD,Zhang Jin,46,Diversified  ==> diversified,None,Male
+606,3.7 BUSD,Nick Caporella,82,Food and Beverage  ==> beverages,None,Not Available
+607,3.7 BUSD,Mark Cuban,59,Media & Entertainment  ==> online media,None,Male
+608,3.7 BUSD,Ken Fisher,67,Finance and Investments  ==> money management,None,Not Available
+609,3.7 BUSD,Jaime Gilinski Bacal,60,Finance and Investments  ==> banking,Colombia,Male
+610,3.7 BUSD,Andreas Halvorsen,57,Finance and Investments  ==> hedge funds,Norway,Male
+611,3.7 BUSD,H. Fisk Johnson,60,Manufacturing  ==> cleaning products,United States,Male
+612,3.7 BUSD,Imogene Powers Johnson,87,Manufacturing  ==> cleaning products,None,Not Available
+613,3.7 BUSD,S. Curtis Johnson,63,Manufacturing  ==> cleaning products,United States,Male
+614,3.7 BUSD,Helen Johnson-Leipold,61,Manufacturing  ==> cleaning products,None,Female
+615,3.7 BUSD,Winifred Johnson-Marquart,59,Manufacturing  ==> cleaning products,None,Female
+616,3.7 BUSD,Viatcheslav Kantor,64,"Manufacturing  ==> fertilizer, real estate",None,Male
+617,3.7 BUSD,Samvel Karapetyan,52,Construction & Engineering  ==> real estate,None,Male
+618,3.7 BUSD,Marc Ladreit De Lacharriere,77,Finance and Investments  ==> finance,France,Male
+619,3.7 BUSD,Angela Leong,57,Gambling & Casinos  ==> casinos,None,Female
+620,3.7 BUSD,Li Gaiteng,46,Manufacturing  ==> hair dryers,China,Male
+621,3.7 BUSD,Mangal Prabhat Lodha,62,Real Estate  ==> real estate,India,Male
+622,3.7 BUSD,Michael Milken,71,Finance and Investments  ==> investments,United States,Male
+623,3.7 BUSD,Yuri Milner,56,Finance and Investments  ==> tech investments,None,Not Available
+624,3.7 BUSD,Andreas Struengmann,68,Healthcare  ==> pharmaceuticals,Germany,Male
+625,3.7 BUSD,Thomas Struengmann,68,Healthcare  ==> pharmaceuticals,Germany,Male
+626,3.7 BUSD,Tse Ping,66,Healthcare  ==> pharmaceuticals,None,Not Available
+627,3.7 BUSD,Yitzhak Tshuva,69,Real Estate  ==> real estate,Israel,Not Available
+628,3.7 BUSD,Samuel Yin,67,Diversified  ==> diversified,None,Not Available
+629,3.6 BUSD,Michael Ashley,53,Fashion & Retail  ==> sports retailing,None,Male
+630,3.6 BUSD,Cao Longxiang,60,Healthcare  ==> pharmaceuticals,China,Male
+631,3.6 BUSD,Jeffery Hildebrand,59,Energy  ==> oil,None,Male
+632,3.6 BUSD,Jiang Rensheng,64,Healthcare  ==> vaccine production,None,Not Available
+633,3.6 BUSD,"Edward Johnson, Iv.",53,Finance and Investments  ==> money management,None,Male
+634,3.6 BUSD,Elizabeth Johnson,55,Finance and Investments  ==> money management,None,Female
+635,3.6 BUSD,Peter Kellogg,75,Finance and Investments  ==> investments,None,Male
+636,3.6 BUSD,Lim Sung-Ki,78,Healthcare  ==> pharmaceuticals,South Korea,Male
+637,3.6 BUSD,Friedhelm Loh,71,Manufacturing  ==> manufacturing,Germany,Male
+638,3.6 BUSD,Kiran Mazumdar-Shaw,65,Healthcare  ==> biotech,None,Female
+639,3.6 BUSD,Idan Ofer,62,"Diversified  ==> drilling, shipping",None,Male
+640,3.6 BUSD,Karsanbhai Patel,74,Diversified  ==> consumer goods,India,Male
+641,3.6 BUSD,Qin Yinglin,53,Food and Beverage  ==> pig breeding,China,Male
+642,3.6 BUSD,Qiu Guanghe,66,Fashion & Retail  ==> fashion retail,None,Male
+643,3.6 BUSD,Sarath Ratanavadi,52,Energy  ==> energy,None,Male
+644,3.6 BUSD,Rodger Riney,72,Finance and Investments  ==> discount brokerage,United States,Male
+645,3.6 BUSD,Steven Spielberg,71,Media & Entertainment  ==> Movies,United States,Male
+646,3.6 BUSD,Gabriele Volkmann,62,Automotive  ==> auto parts,None,Not Available
+647,3.6 BUSD,Arne Wilhelmsen,88,Logistics  ==> cruise ships,Norway,Male
+648,3.6 BUSD,Xu Jingren,73,Healthcare  ==> pharmaceuticals,None,Male
+649,3.6 BUSD,Zhang Li,65,Real Estate  ==> real estate,None,Male
+650,3.6 BUSD,Zhang Xin,52,Real Estate  ==> real estate,None,Female
+651,3.6 BUSD,Anita Zucker,66,Manufacturing  ==> chemicals,None,Female
+652,3.5 BUSD,Carlo Benetton,74,"Fashion & Retail  ==> fashion retail, investments",None,Male
+653,3.5 BUSD,Gilberto Benetton,77,"Fashion & Retail  ==> fashion retail, investments",None,Not Available
+654,3.5 BUSD,Giuliana Benetton,80,"Fashion & Retail  ==> fashion retail, investments",None,Not Available
+655,3.5 BUSD,Luciano Benetton,83,"Fashion & Retail  ==> fashion retail, investments",None,Not Available
+656,3.5 BUSD,Chen Bang,52,Healthcare  ==> hospitals,None,Male
+657,3.5 BUSD,Kuldip Singh & Gurbachan Singh Dhingra,62,Manufacturing  ==> paints,None,Not Available
+658,3.5 BUSD,Abilio Dos Santos Diniz,81,Fashion & Retail  ==> retail,Brazil,Male
+659,3.5 BUSD,Bernard Ecclestone,87,Sports  ==> Formula One,None,Male
+660,3.5 BUSD,Judy Faulkner,74,Technology  ==> health IT,None,Female
+661,3.5 BUSD,Gao Tianguo,66,"Real Estate  ==> real estate, finance",China,Male
+662,3.5 BUSD,Joshua Harris,53,Finance and Investments  ==> private equity,United States,Not Available
+663,3.5 BUSD,Arthur Irving,88,Energy  ==> oil,None,Male
+664,3.5 BUSD,Baba Kalyani,69,Construction & Engineering  ==> engineering,None,Male
+665,3.5 BUSD,Dmitry Kamenshchik,50,Service  ==> airport,Russia,Male
+666,3.5 BUSD,Douglas Leone,60,Finance and Investments  ==> venture capital,United States,Male
+667,3.5 BUSD,Edwin Leong,66,Real Estate  ==> real estate,None,Male
+668,3.5 BUSD,Arnon Milchan,73,Media & Entertainment  ==> movie making,None,Not Available
+669,3.5 BUSD,Maren Otto,62,"Diversified  ==> retail, real estate",None,Female
+670,3.5 BUSD,Anthony Pritzker,57,"Service  ==> hotels, investments",None,Male
+671,3.5 BUSD,Jay Robert (J.B.) Pritzker,53,"Finance and Investments  ==> hotels, investments",None,Male
+672,3.5 BUSD,Mitchell Rales,61,"Manufacturing  ==> manufacturing, investments",None,Male
+673,3.5 BUSD,Kjell Inge Rokke,59,"Logistics  ==> shipping, seafood",Norway,Male
+674,3.5 BUSD,"Bernard Saul, Ii.",86,"Finance and Investments  ==> banking, real estate",None,Male
+675,3.5 BUSD,Donald Sterling,84,Real Estate  ==> real estate,United States,Male
+676,3.5 BUSD,Tahir,66,Diversified  ==> diversified,None,Male
+677,3.5 BUSD,Chairul Tanjung,56,Diversified  ==> diversified,None,Not Available
+678,3.5 BUSD,Clemens Toennies,62,Food and Beverage  ==> meat processing,None,Not Available
+679,3.4 BUSD,Somphote Ahunai,51,Energy  ==> energy,Thailand,Male
+680,3.4 BUSD,Igor Altushkin,47,Metals & Mining  ==> metals,None,Male
+681,3.4 BUSD,Riley Bechtel,66,"Construction & Engineering  ==> engineering, construction",None,Male
+682,3.4 BUSD,"Stephen Bechtel, Jr.",93,"Construction & Engineering  ==> engineering, construction",None,Not Available
+683,3.4 BUSD,Mike Cannon-Brookes,38,Technology  ==> software,None,Male
+684,3.4 BUSD,Rafael Del Pino Y Calvo-Sotelo,59,Construction & Engineering  ==> construction,None,Male
+685,3.4 BUSD,Antonio Del Valle Ruiz,79,Manufacturing  ==> chemicals,Mexico,Male
+686,3.4 BUSD,Scott Farquhar,38,Technology  ==> software,None,Male
+687,3.4 BUSD,Lindsay Fox,81,"Logistics  ==> logistics, real estate",Australia,Not Available
+688,3.4 BUSD,Jimmy Haslam,64,"Fashion & Retail  ==> gas stations, retail",None,Male
+689,3.4 BUSD,Heidi Horten,77,Fashion & Retail  ==> retail,None,Female
+690,3.4 BUSD,Min Kao,69,Technology  ==> navigation equipment,United States,Male
+691,3.4 BUSD,Melissa Ma,48,Technology  ==> internet search,None,Female
+692,3.4 BUSD,Rudolf Maag,72,Healthcare  ==> medical devices,Switzerland,Male
+693,3.4 BUSD,Alexander Ponomarenko,53,"Logistics  ==> real estate, airport",Russia,Male
+694,3.4 BUSD,Carlos Rodriguez-Pastor,59,Finance and Investments  ==> finance,None,Male
+695,3.4 BUSD,Shashi & Ravi Ruia,62,Diversified  ==> diversified,None,Male
+696,3.4 BUSD,Teddy Sagi,46,Gambling & Casinos  ==> gambling software,None,Male
+697,3.4 BUSD,Shaul Shani,63,Telecom  ==> telecom,None,Male
+698,3.4 BUSD,Alexander Skorobogatko,50,"Logistics  ==> real estate, airport",None,Not Available
+699,3.4 BUSD,Sun Guangxin,55,Diversified  ==> diversified,None,Male
+700,3.4 BUSD,Rita Tong Liu,69,Real Estate  ==> real estate,None,Female
+701,3.4 BUSD,Juan-Miguel Villar Mir,86,Construction & Engineering  ==> construction,None,Male
+702,3.4 BUSD,Steve Wynn,76,"Gambling & Casinos  ==> casinos, hotels",None,Male
+703,3.3 BUSD,Anil Agarwal,64,"Metals & Mining  ==> mining, metals",None,Male
+704,3.3 BUSD,Abdulla Al Futtaim,62,"Automotive  ==> auto dealers, investments",United Arab Emirates,Male
+705,3.3 BUSD,John Arnold,44,Finance and Investments  ==> hedge funds,None,Not Available
+706,3.3 BUSD,Sid Bass,76,"Energy  ==> oil, investments",United States,Not Available
+707,3.3 BUSD,Alain Bouchard,69,Fashion & Retail  ==> retail,Canada,Male
+708,3.3 BUSD,John Brown,83,Healthcare  ==> medical equipment,None,Not Available
+709,3.3 BUSD,Vanich Chaiyawan,86,"Finance and Investments  ==> insurance, beverages",None,Male
+710,3.3 BUSD,Chen Lip Keong,70,"Gambling & Casinos  ==> casinos, property, energy",Malaysia,Male
+711,3.3 BUSD,Charles Cohen,66,Real Estate  ==> real estate,None,Not Available
+712,3.3 BUSD,Ashwin Dani,75,Manufacturing  ==> paints,India,Male
+713,3.3 BUSD,Rakesh Gangwal,64,Service  ==> airline,United States,Male
+714,3.3 BUSD,Reid Hoffman,50,Technology  ==> LinkedIn,None,Male
+715,3.3 BUSD,"Amos Hostetter, Jr.",81,Media & Entertainment  ==> cable television,None,Not Available
+716,3.3 BUSD,Zarakh Iliev,51,Real Estate  ==> real estate,None,Not Available
+717,3.3 BUSD,Ji Qi,51,"Real Estate  ==> hotels, motels",None,Male
+718,3.3 BUSD,Kenneth Langone,82,Finance and Investments  ==> investments,United States,Male
+719,3.3 BUSD,Li Sze Lim,61,Real Estate  ==> real estate,None,Not Available
+720,3.3 BUSD,George Lindemann,82,Finance and Investments  ==> investments,None,Male
+721,3.3 BUSD,Liu Zhongtian,54,Manufacturing  ==> aluminum products,None,Male
+722,3.3 BUSD,Luo Liguo,62,Manufacturing  ==> chemicals,China,Male
+723,3.3 BUSD,Mary Alice Dorrance Malone,68,Food and Beverage  ==> Campbell Soup,United States,Female
+724,3.3 BUSD,"Henry Nicholas, Iii.",58,Technology  ==> semiconductors,United States,Male
+725,3.3 BUSD,God Nisanov,46,Real Estate  ==> real estate,None,Not Available
+726,3.3 BUSD,Pat Stryker,62,Healthcare  ==> medical equipment,United States,Not Available
+727,3.3 BUSD,Alexander Svetakov,50,Finance and Investments  ==> real estate,Russia,Male
+728,3.3 BUSD,Hans Peter Wild,77,Food and Beverage  ==> flavorings,None,Male
+729,3.2 BUSD,Yvonne Bauer,41,Media & Entertainment  ==> media,None,Female
+730,3.2 BUSD,Patrizio Bertelli,72,Fashion & Retail  ==> luxury goods,None,Male
+731,3.2 BUSD,Neil Bluhm,80,Real Estate  ==> real estate,None,Male
+732,3.2 BUSD,Andrew & Peggy Cherng,62,Food and Beverage  ==> restaurants,None,Male
+733,3.2 BUSD,Scott Cook,65,Technology  ==> software,United States,Male
+734,3.2 BUSD,Leon G. Cooperman,75,Finance and Investments  ==> hedge funds,None,Male
+735,3.2 BUSD,John Paul Dejoria,74,"Fashion & Retail  ==> hair products, tequila",None,Male
+736,3.2 BUSD,Martin Ebner,72,Finance and Investments  ==> investments,None,Male
+737,3.2 BUSD,Walter Faria,63,Food and Beverage  ==> beer,None,Male
+738,3.2 BUSD,Sameer Gehlaut,44,Finance and Investments  ==> finance,None,Not Available
+739,3.2 BUSD,Tom Golisano,76,Service  ==> payroll services,United States,Male
+740,3.2 BUSD,Otto Happel,70,Construction & Engineering  ==> engineering,None,Male
+741,3.2 BUSD,Jiang Bin,51,Technology  ==> acoustic components,None,Male
+742,3.2 BUSD,Karel Komarek,49,Gambling & Casinos  ==> lotteries,None,Male
+743,3.2 BUSD,Kurt Krieger,70,Fashion & Retail  ==> furniture retailing,None,Male
+744,3.2 BUSD,Timur Kulibaev,51,Finance and Investments  ==> banking,None,Male
+745,3.2 BUSD,Dinara Kulibaeva,50,Finance and Investments  ==> banking,Kazakhstan,Female
+746,3.2 BUSD,Spiro Latsis,71,"Diversified  ==> banking, shipping",None,Male
+747,3.2 BUSD,Daniel Loeb,56,Finance and Investments  ==> hedge funds,United States,Male
+748,3.2 BUSD,Luo Jye,92,Automotive  ==> tires,None,Male
+749,3.2 BUSD,Ronald Mcaulay,82,Energy  ==> energy,None,Male
+750,3.2 BUSD,Alain Merieux,80,Healthcare  ==> pharmaceuticals,France,Not Available
+751,3.2 BUSD,Hans Georg Naeder,56,Manufacturing  ==> prosthetics,None,Male
+752,3.2 BUSD,Nie Tengyun,42,Service  ==> logistics,China,Not Available
+753,3.2 BUSD,Daniel Och,57,Finance and Investments  ==> hedge funds,None,Male
+754,3.2 BUSD,Miuccia Prada,69,Fashion & Retail  ==> luxury goods,None,Not Available
+755,3.2 BUSD,Marc Rowan,55,Finance and Investments  ==> private equity,None,Male
+756,3.2 BUSD,Haim Saban,73,"Media & Entertainment  ==> TV network, investments",United States,Male
+757,3.2 BUSD,Alvaro Saieh Bendeck,68,Finance and Investments  ==> banking,None,Male
+758,3.2 BUSD,Michael & Reiner Schmidt-Ruthenbeck,75,Fashion & Retail  ==> retail,None,Not Available
+759,3.2 BUSD,Lynn Schusterman,79,"Energy  ==> oil & gas, investments",United States,Not Available
+760,3.2 BUSD,Mark Shoen,67,Automotive  ==> U-Haul,United States,Male
+761,3.2 BUSD,Michal Solowow,55,Finance and Investments  ==> investments,Poland,Male
+762,3.2 BUSD,Daniel Tsai,62,Finance and Investments  ==> finance,None,Male
+763,3.2 BUSD,Richard Tsai,61,Finance and Investments  ==> finance,None,Male
+764,3.2 BUSD,Frank Wang,36,Technology  ==> drones,None,Male
+765,3.2 BUSD,Meg Whitman,61,Technology  ==> eBay,None,Female
+766,3.1 BUSD,John Catsimatidis,69,"Energy  ==> oil, real estate",None,Male
+767,3.1 BUSD,Do Won & Jin Sook Chang,62,Fashion & Retail  ==> fashion retail,None,Male
+768,3.1 BUSD,Cheng Cheung Ling,54,Healthcare  ==> pharmaceuticals,None,Female
+769,3.1 BUSD,Barry Diller,76,Media & Entertainment  ==> online media,United States,Not Available
+770,3.1 BUSD,Jack Dorsey,41,Technology  ==> Twitter,United States,Male
+771,3.1 BUSD,Yakir Gabay,52,Real Estate  ==> real estate,Cyprus,Male
+772,3.1 BUSD,Allan Goldman,75,Real Estate  ==> real estate,United States,Male
+773,3.1 BUSD,Jane Goldman,62,Real Estate  ==> real estate,United States,Not Available
+774,3.1 BUSD,Amy Goldman Fowler,64,Real Estate  ==> real estate,None,Female
+775,3.1 BUSD,Daryl Katz,56,Diversified  ==> pharmacies,None,Not Available
+776,3.1 BUSD,Diane Kemper,72,Real Estate  ==> real estate,None,Not Available
+777,3.1 BUSD,Vladimir Kim,57,Metals & Mining  ==> mining,Kazakhstan,Male
+778,3.1 BUSD,Lai Meisong,47,Logistics  ==> package delivery,China,Not Available
+779,3.1 BUSD,Manuel Lao Hernandez,74,Gambling & Casinos  ==> gambling,None,Male
+780,3.1 BUSD,James Leprino,80,Food and Beverage  ==> cheese,United States,Not Available
+781,3.1 BUSD,Liang Xinjun,50,Diversified  ==> conglomerate,None,Male
+782,3.1 BUSD,Tom Morris,63,Fashion & Retail  ==> retail,None,Not Available
+783,3.1 BUSD,Thi Phuong Thao Nguyen,48,Diversified  ==> airlines,Vietnam,Female
+784,3.1 BUSD,Rajan Raheja,64,Diversified  ==> diversified,None,Male
+785,3.1 BUSD,Ren Jianhua,61,Manufacturing  ==> kitchen appliances,None,Male
+786,3.1 BUSD,Richard Sands,67,Food and Beverage  ==> Food & Beverage,None,Male
+787,3.1 BUSD,Kerry Stokes,77,"Diversified  ==> construction equipment, media",None,Male
+788,3.1 BUSD,Donald Trump,72,"Real Estate  ==> television, real estate",None,Not Available
+789,3.1 BUSD,Romesh T. Wadhwani,70,Technology  ==> software,None,Male
+790,3.1 BUSD,Wang Jian,64,Technology  ==> healthcare services,None,Male
+791,3.0 BUSD,Clifford Asness,51,Finance and Investments  ==> Investment Management,United States,Not Available
+792,3.0 BUSD,Anne Beaufour,54,Healthcare  ==> pharmaceuticals,None,Female
+793,3.0 BUSD,Henri Beaufour,53,Healthcare  ==> pharmaceuticals,None,Male
+794,3.0 BUSD,Tom Benson,90,Sports  ==> New Orleans Saints,None,Male
+795,3.0 BUSD,Jim Breyer,56,Technology  ==> venture capital,United States,Male
+796,3.0 BUSD,Alejandro Bulgheroni,73,Energy  ==> oil & gas,None,Male
+797,3.0 BUSD,Hasmukh Chudgar,84,Healthcare  ==> pharmaceuticals,None,Male
+798,3.0 BUSD,Ennio Doris,77,Finance and Investments  ==> financial services,None,Not Available
+799,3.0 BUSD,Luis Frias,55,Technology  ==> mobile payments,None,Male
+800,3.0 BUSD,Valentin Gapontsev,79,Manufacturing  ==> lasers,United States,Male
+801,3.0 BUSD,Martin Haefner,64,"Technology  ==> software, investments",Switzerland,Male
+802,3.0 BUSD,Christopher Hohn,51,Finance and Investments  ==> Hedge funds,UK,Male
+803,3.0 BUSD,Johnelle Hunt,86,Logistics  ==> trucking,United States,Not Available
+804,3.0 BUSD,Rakesh Jhunjhunwala,57,Finance and Investments  ==> investments,None,Male
+805,3.0 BUSD,Lu Xiangyang,55,"Automotive  ==> automobiles, batteries",China,Male
+806,3.0 BUSD,John Middleton,63,Food and Beverage  ==> tobacco,United States,Male
+807,3.0 BUSD,Kazuo Okada,75,Gambling & Casinos  ==> casinos,Japan,Male
+808,3.0 BUSD,Jorge Perez,68,Real Estate  ==> real estate,United States,Male
+809,3.0 BUSD,Prasert Prasarttong-Osoth,85,Healthcare  ==> hospitals,None,Male
+810,3.0 BUSD,Jean (Gigi) Pritzker,55,"Service  ==> hotels, investments",None,Female
+811,3.0 BUSD,Mochtar Riady,89,Diversified  ==> diversified,None,Male
+812,3.0 BUSD,Arkady Rotenberg,66,"Construction & Engineering  ==> construction, pipes, banking",None,Male
+813,3.0 BUSD,Michael Rubin,45,Fashion & Retail  ==> online retail,United States,Not Available
+814,3.0 BUSD,Robert Sands,60,Food and Beverage  ==> Food & Beverage,United States,Not Available
+815,3.0 BUSD,Herbert Simon,83,Real Estate  ==> real estate,None,Male
+816,3.0 BUSD,Robert Toennies,40,Food and Beverage  ==> meat processing,None,Not Available
+817,3.0 BUSD,Manuel Villar,68,Real Estate  ==> real estate,None,Male
+818,3.0 BUSD,Don Vultaggio,66,Food and Beverage  ==> AriZona Beverages,None,Male
+819,3.0 BUSD,Wang Zhenhua,56,Real Estate  ==> real estate,None,Not Available
+820,3.0 BUSD,Wu Kaiting,48,Telecom  ==> electronics,Hong Kong,Not Available
+821,3.0 BUSD,Simon Xie,48,Technology  ==> online payment service,None,Male
+822,2.9 BUSD,Chuck Bundrant,76,Food and Beverage  ==> fishing,None,Male
+823,2.9 BUSD,Cai Dongchen,65,Healthcare  ==> pharmaceuticals,China,Male
+824,2.9 BUSD,Jose And Francisco Jose Calderon Rojas,62,Food and Beverage  ==> beverages,Mexico,Male
+825,2.9 BUSD,Jason Chang,74,Technology  ==> electronics,None,Not Available
+826,2.9 BUSD,Smita Crishna-Godrej,67,Diversified  ==> consumer goods,None,Female
+827,2.9 BUSD,Ding Shizhong,47,Fashion & Retail  ==> sports apparel,China,Male
+828,2.9 BUSD,Feng Hailiang,57,"Metals & Mining  ==> copper, education",China,Male
+829,2.9 BUSD,Gerald Ford,73,Finance and Investments  ==> banking,United States,Male
+830,2.9 BUSD,Philippe Foriel-Destezet,82,Service  ==> employment agency,France,Male
+831,2.9 BUSD,Adi Godrej,76,Diversified  ==> consumer goods,India,Male
+832,2.9 BUSD,Jamshyd Godrej,69,Diversified  ==> consumer goods,India,Not Available
+833,2.9 BUSD,Nadir Godrej,67,Diversified  ==> consumer goods,None,Male
+834,2.9 BUSD,Joseph Grendys,56,Food and Beverage  ==> poultry processing,United States,Not Available
+835,2.9 BUSD,Hedda Im Brahm-Droege,63,Service  ==> consulting,None,Not Available
+836,2.9 BUSD,Ke Zunhong,63,Healthcare  ==> pharmaceuticals,China,Male
+837,2.9 BUSD,Randal Kirk,64,Healthcare  ==> pharmaceuticals,None,Male
+838,2.9 BUSD,Alicia Koplowitz,64,"Finance and Investments  ==> construction, investments",None,Female
+839,2.9 BUSD,Kwek Leng Beng,77,Real Estate  ==> real estate,Singapore,Male
+840,2.9 BUSD,Louis Le Duff,71,Food and Beverage  ==> bakeries,France,Male
+841,2.9 BUSD,Yusaku Maezawa,42,Technology  ==> online retail,None,Male
+842,2.9 BUSD,Sergio Mantegazza,90,Service  ==> travel,None,Not Available
+843,2.9 BUSD,Hans Melchers,80,"Finance and Investments  ==> chemicals, investments",Netherlands,Not Available
+844,2.9 BUSD,Erwin Franz Mueller,85,Fashion & Retail  ==> drugstores,Germany,Not Available
+845,2.9 BUSD,Rishad Naoroji,66,Diversified  ==> consumer goods,None,Not Available
+846,2.9 BUSD,Husnu Ozyegin,73,"Finance and Investments  ==> finance, diversified",None,Male
+847,2.9 BUSD,Prajogo Pangestu,74,Diversified  ==> petrochemicals,None,Not Available
+848,2.9 BUSD,Jeff Rothschild,63,Technology  ==> Facebook,None,Not Available
+849,2.9 BUSD,Thomas Siebel,65,Technology  ==> business software,None,Not Available
+850,2.9 BUSD,Paul Singer,73,Finance and Investments  ==> hedge funds,None,Male
+851,2.9 BUSD,Ralph Sonnenberg,84,Manufacturing  ==> blinds,None,Male
+852,2.9 BUSD,Jon Stryker,60,Healthcare  ==> medical equipment,None,Male
+853,2.9 BUSD,Georg Stumpf,45,"Diversified  ==> real estate, construction",None,Male
+854,2.9 BUSD,Tsai Hong-Tu,65,Finance and Investments  ==> finance,None,Male
+855,2.9 BUSD,Vincent Viola,62,Finance and Investments  ==> electronic trading,United States,Not Available
+856,2.9 BUSD,Radovan Vitek,47,Real Estate  ==> real estate,None,Male
+857,2.9 BUSD,Wang Laichun,51,Technology  ==> electronics components,China,Female
+858,2.9 BUSD,Wang Laisheng,53,Technology  ==> electronics components,None,Not Available
+859,2.8 BUSD,Carlos Ardila Lülle,88,"Food and Beverage  ==> soft drinks, diversified",None,Male
+860,2.8 BUSD,"William Conway, Jr.",68,Finance and Investments  ==> private equity,None,Male
+861,2.8 BUSD,Daniel D'Aniello,71,Finance and Investments  ==> private equity,None,Not Available
+862,2.8 BUSD,Jim Davis,58,Service  ==> staffing & recruiting,None,Male
+863,2.8 BUSD,Ding Shijia,54,Fashion & Retail  ==> sportswear,None,Not Available
+864,2.8 BUSD,"John Dorrance, Iii.",74,Food and Beverage  ==> Campbell Soup,Ireland,Male
+865,2.8 BUSD,Doris Fisher,86,Fashion & Retail  ==> Gap,United States,Female
+866,2.8 BUSD,John Fisher,57,Fashion & Retail  ==> Gap,United States,Male
+867,2.8 BUSD,Caroline Hagen Kjos,33,Diversified  ==> conglomerate,Norway,Female
+868,2.8 BUSD,Kieu Hoang,73,Healthcare  ==> medical products,None,Male
+869,2.8 BUSD,Huang Shih Tsai,67,Real Estate  ==> real estate,None,Not Available
+870,2.8 BUSD,H. Wayne Huizenga,80,Finance and Investments  ==> investments,None,Male
+871,2.8 BUSD,Osman Kibar,47,Healthcare  ==> biotech,None,Male
+872,2.8 BUSD,Aloke Lohia,59,Manufacturing  ==> petrochemicals,India,Not Available
+873,2.8 BUSD,Taha Mikati,73,Telecom  ==> telecom,None,Not Available
+874,2.8 BUSD,Philip Niarchos,64,Diversified  ==> art collection,Greece,Not Available
+875,2.8 BUSD,Stefan Olsson,69,Diversified  ==> diversified,None,Male
+876,2.8 BUSD,Sebastian Piñera,68,Finance and Investments  ==> investments,None,Male
+877,2.8 BUSD,Penny Pritzker,59,"Finance and Investments  ==> hotels, investments",None,Female
+878,2.8 BUSD,Nicolas Puech,75,Fashion & Retail  ==> Hermes,None,Male
+879,2.8 BUSD,Chandru Raheja,77,Real Estate  ==> real estate,None,Male
+880,2.8 BUSD,David Rubenstein,68,Finance and Investments  ==> private equity,United States,Not Available
+881,2.8 BUSD,Shi Yuzhu,55,"Diversified  ==> online games, investments",China,Male
+882,2.8 BUSD,Zygmunt Solorz-Zak,61,Media & Entertainment  ==> TV broadcasting,None,Male
+883,2.8 BUSD,Tung Chee Chen,76,Logistics  ==> shipping,None,Male
+884,2.8 BUSD,Mark Walter,58,Finance and Investments  ==> finance,United States,Male
+885,2.8 BUSD,"William Wrigley, Jr.",54,Food and Beverage  ==> chewing gum,United States,Male
+886,2.8 BUSD,Mortimer Zuckerman,81,"Real Estate  ==> real estate, media",United States,Male
+887,2.7 BUSD,Mohed Altrad,70,"Construction & Engineering  ==> scaffolding, cement mixers",France,Male
+888,2.7 BUSD,Anil Ambani,59,Diversified  ==> diversified,None,Male
+889,2.7 BUSD,Roberto Angelini Rossi,69,"Diversified  ==> forestry, mining",Chile,Not Available
+890,2.7 BUSD,Saeed Bin Butti Al Qebaisi,62,"Diversified  ==> hospitals, investments",United Arab Emirates,Male
+891,2.7 BUSD,Pierre Chen,60,"Diversified  ==> art, electronics",None,Male
+892,2.7 BUSD,Ray Davis,76,Energy  ==> pipelines,United States,Male
+893,2.7 BUSD,"Edward Debartolo, Jr.",71,Real Estate  ==> shopping centers,United States,Male
+894,2.7 BUSD,Bennett Dorrance,72,Food and Beverage  ==> Campbell Soup,None,Male
+895,2.7 BUSD,Eduardo Eurnekian,85,"Diversified  ==> airports, investments",None,Male
+896,2.7 BUSD,Piero Ferrari,73,Automotive  ==> automobiles,Italy,Male
+897,2.7 BUSD,Fiona Geminder,53,Manufacturing  ==> manufacturing,None,Female
+898,2.7 BUSD,Gu Yuhua,68,Manufacturing  ==> furniture,None,Male
+899,2.7 BUSD,Don Hankey,75,Finance and Investments  ==> auto loans,None,Male
+900,2.7 BUSD,Reed Hastings,57,Media & Entertainment  ==> Netflix,None,Not Available
+901,2.7 BUSD,Huang Wei,58,Real Estate  ==> real estate,None,Male
+902,2.7 BUSD,James Irsay,59,Sports  ==> Indianapolis Colts,United States,Male
+903,2.7 BUSD,Kim Beom-Su,52,Technology  ==> online services,None,Male
+904,2.7 BUSD,Mustafa Kucuk,55,Fashion & Retail  ==> fashion retail,None,Male
+905,2.7 BUSD,Mohamed Mansour,70,Diversified  ==> diversified,None,Male
+906,2.7 BUSD,Najib Mikati,62,Telecom  ==> telecom,None,Male
+907,2.7 BUSD,Ermirio Pereira De Moraes,86,Diversified  ==> diversified,None,Not Available
+908,2.7 BUSD,Bob Parsons,67,Technology  ==> web hosting,None,Male
+909,2.7 BUSD,Krit Ratanarak,72,"Media & Entertainment  ==> media, real estate",Thailand,Male
+910,2.7 BUSD,Helena Revoredo,71,Service  ==> security services,None,Not Available
+911,2.7 BUSD,Phillip Ruffin,83,"Diversified  ==> casinos, real estate",United States,Male
+912,2.7 BUSD,Howard Schultz,64,Food and Beverage  ==> Starbucks,None,Male
+913,2.7 BUSD,E. Joe Shoen,68,Automotive  ==> U-Haul,United States,Male
+914,2.7 BUSD,Thomas Straumann,54,Healthcare  ==> dental implants,Switzerland,Not Available
+915,2.7 BUSD,Lawrence Stroll,58,Fashion & Retail  ==> fashion investments,Canada,Male
+916,2.7 BUSD,Andrew Tan,65,Diversified  ==> diversified,None,Male
+917,2.7 BUSD,Tsai Cheng-Da,62,Finance and Investments  ==> finance,Taiwan,Male
+918,2.7 BUSD,Frank Vandersloot,69,Fashion & Retail  ==> nutrition and wellness products,None,Male
+919,2.7 BUSD,Sandro Veronesi,58,Fashion & Retail  ==> fashion,None,Male
+920,2.7 BUSD,Ty Warner,73,"Real Estate  ==> real estate, plush toys",United States,Male
+921,2.7 BUSD,Oprah Winfrey,64,Media & Entertainment  ==> TV shows,None,Not Available
+922,2.7 BUSD,Zhang Wenzhong,56,Fashion & Retail  ==> Retail,China,Male
+923,2.7 BUSD,Zuo Hui,47,Real Estate  ==> real estate services,None,Male
+924,2.6 BUSD,Juan Abello,76,Finance and Investments  ==> investments,None,Not Available
+925,2.6 BUSD,Semahat Sevim Arsel,89,Diversified  ==> diversified,Turkey,Not Available
+926,2.6 BUSD,Bang Jun-Hyuk,50,Technology  ==> online gaming,None,Male
+927,2.6 BUSD,Koos Bekker,65,"Media & Entertainment  ==> media, investments",South Africa,Male
+928,2.6 BUSD,David Bonderman,75,Finance and Investments  ==> private equity,United States,Not Available
+929,2.6 BUSD,Francesco Gaetano Caltagirone,75,"Construction & Engineering  ==> cement, diversified",None,Male
+930,2.6 BUSD,John Caudwell,65,Telecom  ==> mobile phones,UK,Male
+931,2.6 BUSD,Chen Fashu,57,Finance and Investments  ==> investments,China,Male
+932,2.6 BUSD,Chung Eui-Sun,47,Logistics  ==> logistics,South Korea,Male
+933,2.6 BUSD,Isabel Dos Santos,45,Finance and Investments  ==> investments,Angola,Female
+934,2.6 BUSD,Fong Yun Wah,93,Real Estate  ==> real estate,Hong Kong,Not Available
+935,2.6 BUSD,Phillip Frost,81,Healthcare  ==> pharmaceuticals,United States,Male
+936,2.6 BUSD,Lutz Mario Helmig,71,Healthcare  ==> hospitals,None,Male
+937,2.6 BUSD,B. Wayne Hughes,84,Service  ==> self storage,United States,Male
+938,2.6 BUSD,Daniel Kretinsky,42,Energy  ==> energy generation,None,Male
+939,2.6 BUSD,Raj Kumar & Kishin Rk,64,Real Estate  ==> real estate,None,Male
+940,2.6 BUSD,Lam Kong,54,Healthcare  ==> pharmaceuticals,None,Male
+941,2.6 BUSD,Lau Cho Kun,82,"Diversified  ==> palm oil, property",None,Male
+942,2.6 BUSD,"Stephen Mandel, Jr.",62,Finance and Investments  ==> hedge funds,None,Male
+943,2.6 BUSD,Gilles Martin,54,Healthcare  ==> laboratory services,None,Not Available
+944,2.6 BUSD,Daniel Mate,55,"Metals & Mining  ==> mining, commodities",None,Male
+945,2.6 BUSD,Robert Miller,72,Technology  ==> electronics components,Canada,Male
+946,2.6 BUSD,Jorge Moll Filho,73,Healthcare  ==> hospitals,None,Male
+947,2.6 BUSD,Maria Helena Moraes Scripilliti,87,Diversified  ==> diversified,None,Not Available
+948,2.6 BUSD,Sean Parker,38,Technology  ==> Facebook,None,Male
+949,2.6 BUSD,Jay Paul,70,Real Estate  ==> real estate,None,Male
+950,2.6 BUSD,Patrick Ryan,81,Finance and Investments  ==> insurance,United States,Male
+951,2.6 BUSD,Thomas Secunda,64,Media & Entertainment  ==> Bloomberg LP,None,Male
+952,2.6 BUSD,Shen Wenrong,72,Metals & Mining  ==> steel production,China,Male
+953,2.6 BUSD,Shen Yuxing,59,Real Estate  ==> real estate,None,Not Available
+954,2.6 BUSD,Gil Shwed,50,Technology  ==> software,None,Male
+955,2.6 BUSD,Song Zuowen,71,"Diversified  ==> aluminum, diversified",None,Male
+956,2.6 BUSD,Warren Stephens,61,Finance and Investments  ==> investment banking,None,Male
+957,2.6 BUSD,Glen Taylor,77,Service  ==> printing,None,Male
+958,2.6 BUSD,Hanni Toosbuy Kasprzak,60,Fashion & Retail  ==> shoes,Denmark,Female
+959,2.6 BUSD,Torbjorn Tornqvist,64,Energy  ==> oil trading,None,Male
+960,2.6 BUSD,Bulat Utemuratov,60,"Metals & Mining  ==> mining, banking, hotels",None,Male
+961,2.6 BUSD,Chip Wilson,61,Fashion & Retail  ==> Lululemon,None,Male
+962,2.6 BUSD,Jerry Yang,49,Technology  ==> Yahoo,United States,Male
+963,2.6 BUSD,Zhang Fan,52,Technology  ==> touch screens,None,Male
+964,2.6 BUSD,Zhu Xingliang,59,Construction & Engineering  ==> construction,None,Male
+965,2.5 BUSD,Ramon Ang,64,Food and Beverage  ==> Diversified,None,Not Available
+966,2.5 BUSD,Edward Bass,72,"Energy  ==> oil, investments",United States,Male
+967,2.5 BUSD,Lee Bass,62,"Energy  ==> oil, investments",None,Not Available
+968,2.5 BUSD,Bert Beveridge,56,Food and Beverage  ==> vodka,United States,Male
+969,2.5 BUSD,George Bishop,80,Energy  ==> oil & gas,United States,Male
+970,2.5 BUSD,Jaime Botin,82,Finance and Investments  ==> banking,Spain,Male
+971,2.5 BUSD,Norman Braman,85,"Automotive  ==> art, car dealerships",United States,Male
+972,2.5 BUSD,Chin Jong Hwa,60,Automotive  ==> auto parts,Taiwan,Not Available
+973,2.5 BUSD,Cho Tak Wong,72,Manufacturing  ==> auto parts,None,Male
+974,2.5 BUSD,John Coates,48,Gambling & Casinos  ==> online gambling,None,Male
+975,2.5 BUSD,Du Jiangtao,48,Manufacturing  ==> chemicals,None,Male
+976,2.5 BUSD,Aloysio De Andrade Faria,97,Finance and Investments  ==> banking,Brazil,Male
+977,2.5 BUSD,Kenneth Feld,69,"Media & Entertainment  ==> circus, live entertainment",United States,Male
+978,2.5 BUSD,Luca Garavoglia,49,Food and Beverage  ==> spirits,Italy,Male
+979,2.5 BUSD,Noam Gottesman,57,Finance and Investments  ==> hedge funds,None,Male
+980,2.5 BUSD,Jonathan Gray,48,Finance and Investments  ==> investments,None,Male
+981,2.5 BUSD,Stein Erik Hagen,61,Fashion & Retail  ==> consumer goods,Norway,Male
+982,2.5 BUSD,Chang-Woo Han,87,Gambling & Casinos  ==> pachinko parlors,None,Male
+983,2.5 BUSD,John Henry,68,Sports  ==> sports,United States,Male
+984,2.5 BUSD,Lawrence Ho,41,Gambling & Casinos  ==> casinos,None,Male
+985,2.5 BUSD,Hui Lin Chit,65,Manufacturing  ==> hygiene products,China,Male
+986,2.5 BUSD,Mustafa Rahmi Koc,87,Diversified  ==> diversified,None,Male
+987,2.5 BUSD,Kuan Kam Hon,70,Manufacturing  ==> synthetic gloves,None,Not Available
+988,2.5 BUSD,Jane Lauder,45,Fashion & Retail  ==> cosmetics,None,Not Available
+989,2.5 BUSD,Aerin Lauder Zinterhofer,48,Fashion & Retail  ==> cosmetics,None,Female
+990,2.5 BUSD,Maritsa Lazari,73,Real Estate  ==> real estate,United Kingdom,Female
+991,2.5 BUSD,Bernard Lewis,92,Fashion & Retail  ==> fashion retailer,None,Not Available
+992,2.5 BUSD,Vincent Lo,69,Real Estate  ==> real estate,None,Male
+993,2.5 BUSD,Jeffrey Lorberbaum,63,Manufacturing  ==> flooring,United States,Male
+994,2.5 BUSD,Joe Mansueto,61,Finance and Investments  ==> investment research,None,Male
+995,2.5 BUSD,Jose Roberto Marinho,62,Media & Entertainment  ==> media,None,Not Available
+996,2.5 BUSD,Roberto Irineu Marinho,70,Media & Entertainment  ==> media,Brazil,Male
+997,2.5 BUSD,C. Dean Metropoulos,72,Food and Beverage  ==> investments,United States,Male
+998,2.5 BUSD,Aristotelis Mistakidis,56,"Metals & Mining  ==> mining, commodities",None,Male
+999,2.5 BUSD,Arturo Moreno,71,"Sports  ==> billboards, Anaheim Angels",None,Male
+1000,2.5 BUSD,Yoshiko Mori,77,Real Estate  ==> real estate,None,Female
+1001,2.5 BUSD,Adam Neumann,39,Real Estate  ==> WeWork,Israel,Male
+1002,2.5 BUSD,Or Wai Sheun,67,Real Estate  ==> real estate,Hong Kong,Not Available
+1003,2.5 BUSD,Richard Peery,79,Real Estate  ==> real estate,None,Male
+1004,2.5 BUSD,Horst Julius Pudwill,73,Manufacturing  ==> manufacturing,None,Male
+1005,2.5 BUSD,P.V. Ramprasad Reddy,60,Healthcare  ==> pharmaceuticals,India,Male
+1006,2.5 BUSD,Larry Robbins,48,Finance and Investments  ==> hedge funds,United States,Male
+1007,2.5 BUSD,Carlos Sanchez,56,Healthcare  ==> generic drugs,None,Male
+1008,2.5 BUSD,Stephan Schmidheiny,70,Finance and Investments  ==> investments,None,Male
+1009,2.5 BUSD,Klaus-Peter Schulenberg,62,Service  ==> ticketing service,None,Male
+1010,2.5 BUSD,Charles Simonyi,69,Technology  ==> Microsoft,None,Not Available
+1011,2.5 BUSD,Mark Stevens,58,Finance and Investments  ==> venture capital,None,Male
+1012,2.5 BUSD,Sze Man Bok,68,Manufacturing  ==> hygiene products,None,Not Available
+1013,2.5 BUSD,Sarik Tara,88,Construction & Engineering  ==> construction,None,Male
+1014,2.5 BUSD,Lottie Tham,69,Fashion & Retail  ==> H&M,Sweden,Female
+1015,2.5 BUSD,Peter Thiel,50,"Finance and Investments  ==> Facebook, Palantir",United States,Male
+1016,2.5 BUSD,Elaine Wynn,76,"Gambling & Casinos  ==> casinos, hotels",None,Female
+1017,2.5 BUSD,Denise York,67,Sports  ==> San Francisco 49ers,None,Not Available
+1018,2.5 BUSD,David Zalik,44,Technology  ==> technology,United States,Not Available
+1019,2.5 BUSD,Zhao Tao,52,Healthcare  ==> pharmaceuticals,None,Not Available
+1020,2.4 BUSD,George Argyros,81,"Real Estate  ==> real estate, investments",United States,Male
+1021,2.4 BUSD,John Arrillaga,81,Real Estate  ==> real estate,None,Not Available
+1022,2.4 BUSD,Charles Bronfman,86,Food and Beverage  ==> liquor,Canada,Not Available
+1023,2.4 BUSD,Peter Buck,87,Food and Beverage  ==> Subway sandwich shops,United States,Not Available
+1024,2.4 BUSD,Chen Jinxia,50,Finance and Investments  ==> investments,China,Female
+1025,2.4 BUSD,Vivien Chen,59,Real Estate  ==> real estate,None,Female
+1026,2.4 BUSD,Chu Lam Yiu,48,Manufacturing  ==> flavorings,Hong Kong,Female
+1027,2.4 BUSD,Jean Coutu,91,Fashion & Retail  ==> drugstores,None,Male
+1028,2.4 BUSD,Jose Luis Cutrale,71,Food and Beverage  ==> orange juice,Brazil,Not Available
+1029,2.4 BUSD,Jai Hari & Yadu Hari Dalmia,62,Manufacturing  ==> cement,None,Male
+1030,2.4 BUSD,Bergit Douglas,71,Food and Beverage  ==> consumer goods,None,Female
+1031,2.4 BUSD,Alfredo Egydio Arruda Villela Filho,48,Finance and Investments  ==> banking,Brazil,Not Available
+1032,2.4 BUSD,Marcel Erni,53,Finance and Investments  ==> private equity,None,Male
+1033,2.4 BUSD,Andre Esteves,49,Finance and Investments  ==> banking,None,Male
+1034,2.4 BUSD,Carlo Fidani,63,Real Estate  ==> real estate,Canada,Not Available
+1035,2.4 BUSD,Abhay Firodia,73,Automotive  ==> automobiles,India,Male
+1036,2.4 BUSD,Alfred Gantner,50,Finance and Investments  ==> private equity,None,Male
+1037,2.4 BUSD,Geng Jianming,55,Real Estate  ==> real estate,None,Not Available
+1038,2.4 BUSD,Mitchell Goldhar,56,Real Estate  ==> real estate,Canada,Male
+1039,2.4 BUSD,Hortensia Herrero,68,Fashion & Retail  ==> supermarkets,None,Not Available
+1040,2.4 BUSD,Michael Hintze,64,Finance and Investments  ==> investment,None,Male
+1041,2.4 BUSD,Igor Kesaev,51,"Fashion & Retail  ==> tobacco distribution, retail",None,Male
+1042,2.4 BUSD,Koon Poh Keong,57,Manufacturing  ==> aluminum,None,Male
+1043,2.4 BUSD,Hermann Langness,65,Food and Beverage  ==> retail,None,Not Available
+1044,2.4 BUSD,Li Zhongchu,54,Technology  ==> software,None,Not Available
+1045,2.4 BUSD,Alexander Mamut,58,Finance and Investments  ==> investments,Russia,Male
+1046,2.4 BUSD,Joao Roberto Marinho,64,Media & Entertainment  ==> media,None,Not Available
+1047,2.4 BUSD,"Drayton Mclane, Jr.",81,"Fashion & Retail  ==> Wal-Mart, logistics",United States,Male
+1048,2.4 BUSD,Patrice Motsepe,56,Metals & Mining  ==> mining,None,Not Available
+1049,2.4 BUSD,Alfred Oetker,51,Fashion & Retail  ==> consumer goods,None,Male
+1050,2.4 BUSD,August Oetker,74,Fashion & Retail  ==> consumer goods,None,Not Available
+1051,2.4 BUSD,Carl Ferdinand Oetker,45,Fashion & Retail  ==> consumer goods,None,Male
+1052,2.4 BUSD,Christian Oetker,70,Fashion & Retail  ==> consumer goods,Germany,Male
+1053,2.4 BUSD,Julia Oetker,39,Fashion & Retail  ==> consumer goods,None,Female
+1054,2.4 BUSD,Richard Oetker,67,Fashion & Retail  ==> consumer goods,None,Male
+1055,2.4 BUSD,Daniel Pritzker,58,"Service  ==> hotels, investments",United States,Male
+1056,2.4 BUSD,John Pritzker,65,"Finance and Investments  ==> hotels, investments",United States,Male
+1057,2.4 BUSD,Nevaldo Rocha,88,Fashion & Retail  ==> retail,Brazil,Male
+1058,2.4 BUSD,Luigi Rovati,89,Healthcare  ==> pharmaceuticals,None,Not Available
+1059,2.4 BUSD,Ferit Faik Sahenk,54,Diversified  ==> diversified,None,Male
+1060,2.4 BUSD,Rosely Schweizer,77,Fashion & Retail  ==> consumer goods,None,Female
+1061,2.4 BUSD,Eric Smidt,58,Fashion & Retail  ==> hardware stores,United States,Male
+1062,2.4 BUSD,Alexander Spanos,94,"Sports  ==> real estate, Los Angeles Chargers",None,Not Available
+1063,2.4 BUSD,Leena Tewari,60,Healthcare  ==> pharmaceuticals,None,Female
+1064,2.4 BUSD,Tong Jinquan,63,Real Estate  ==> real estate,None,Male
+1065,2.4 BUSD,Peter Unger,73,Automotive  ==> auto repair,None,Male
+1066,2.4 BUSD,Sunny Varkey,61,Service  ==> education,None,Male
+1067,2.4 BUSD,Urs Wietlisbach,56,Finance and Investments  ==> private equity,Switzerland,Male
+1068,2.4 BUSD,Michael Ying,68,Fashion & Retail  ==> retail,Hong Kong,Not Available
+1069,2.4 BUSD,Yu Minhong,56,Service  ==> education,China,Male
+1070,2.3 BUSD,Eva Maria Bucher-Haefner,61,Technology  ==> Computer Associates,Switzerland,Not Available
+1071,2.3 BUSD,Chen Hua,52,Real Estate  ==> real estate,None,Male
+1072,2.3 BUSD,Gustavo Denegri,82,Healthcare  ==> biotech,None,Male
+1073,2.3 BUSD,Dermot Desmond,67,Finance and Investments  ==> finance,Ireland,Male
+1074,2.3 BUSD,Murali Divi,67,Healthcare  ==> pharmaceuticals,India,Male
+1075,2.3 BUSD,Thomas Flohr,48,Logistics  ==> VistaJet,Switzerland,Male
+1076,2.3 BUSD,Bernard Fraisse,61,Healthcare  ==> pharmaceuticals,None,Not Available
+1077,2.3 BUSD,Harsh Goenka,60,Diversified  ==> diversified,None,Male
+1078,2.3 BUSD,David Gottesman,92,Finance and Investments  ==> investments,None,Male
+1079,2.3 BUSD,Murli Dhar & Bimal Kumar Gyanchandani,62,Manufacturing  ==> Detergents,India,Male
+1080,2.3 BUSD,Bill Haslam,59,Fashion & Retail  ==> truck stops,United States,Not Available
+1081,2.3 BUSD,Hu Baifan,55,Healthcare  ==> pharmaceuticals,China,Male
+1082,2.3 BUSD,W. Herbert Hunt,89,Energy  ==> oil,United States,Male
+1083,2.3 BUSD,Alijan Ibragimov,64,"Metals & Mining  ==> mining, metals",None,Male
+1084,2.3 BUSD,Bradley Jacobs,61,Logistics  ==> logistics,None,Male
+1085,2.3 BUSD,Brad Kelley,61,Real Estate  ==> tobacco,None,Not Available
+1086,2.3 BUSD,Vinod Khosla,63,Technology  ==> venture capital,United States,Male
+1087,2.3 BUSD,Stephen Lansdown,65,Finance and Investments  ==> financial services,Guernsey,Male
+1088,2.3 BUSD,Martin Lau,45,Technology  ==> e-commerce,Hong Kong,Not Available
+1089,2.3 BUSD,Lee Joong-Keun,77,"Construction & Engineering  ==> construction, real estate",South Korea,Male
+1090,2.3 BUSD,Lin Li,55,Finance and Investments  ==> investments,None,Male
+1091,2.3 BUSD,Kenneth Lo,79,Finance and Investments  ==> textiles,None,Male
+1092,2.3 BUSD,Alexander Machkevich,64,"Metals & Mining  ==> mining, metals",Israel,Male
+1093,2.3 BUSD,Clayton Mathile,77,Food and Beverage  ==> pet food,United States,Not Available
+1094,2.3 BUSD,Stanley Perron,95,"Real Estate  ==> real estate, retail",None,Male
+1095,2.3 BUSD,J. Joe Ricketts,76,Finance and Investments  ==> TD Ameritrade,United States,Male
+1096,2.3 BUSD,Dirk Rossmann,71,Fashion & Retail  ==> drugstores,None,Male
+1097,2.3 BUSD,Filiz Sahenk,51,Diversified  ==> diversified,None,Female
+1098,2.3 BUSD,Dan Snyder,53,Sports  ==> Washington Redskins,None,Not Available
+1099,2.3 BUSD,Peter Spuhler,58,Manufacturing  ==> train cars,Switzerland,Male
+1100,2.3 BUSD,Tang Yiu,84,Fashion & Retail  ==> fashion retail,None,Male
+1101,2.3 BUSD,John Tyson,64,Food and Beverage  ==> food processing,None,Male
+1102,2.3 BUSD,Wong Man Li,53,Manufacturing  ==> furniture,Hong Kong,Male
+1103,2.2 BUSD,Lia Maria Aguiar,80,Finance and Investments  ==> banking,None,Not Available
+1104,2.2 BUSD,Aziz Akhannouch,57,"Diversified  ==> petroleum, diversified",None,Male
+1105,2.2 BUSD,Ron Baron,75,Finance and Investments  ==> money management,United States,Male
+1106,2.2 BUSD,Shyam & Hari Bhartia,65,Diversified  ==> Diversified,India,Male
+1107,2.2 BUSD,Timothy Boyle,68,Fashion & Retail  ==> Columbia Sportswear,United States,Not Available
+1108,2.2 BUSD,Tatiana Casiraghi,33,Food and Beverage  ==> beer,None,Female
+1109,2.2 BUSD,Chan Tan Ching-Fen,62,Real Estate  ==> real estate,None,Female
+1110,2.2 BUSD,"Chase Coleman, Iii.",43,Finance and Investments  ==> hedge fund,United States,Male
+1111,2.2 BUSD,Mark Coombs,57,Finance and Investments  ==> finance,United Kingdom,Male
+1112,2.2 BUSD,James Coulter,58,Finance and Investments  ==> private equity,None,Male
+1113,2.2 BUSD,Dulce Pugliese De Godoy Bueno,70,"Healthcare  ==> hospitals, health care",None,Not Available
+1114,2.2 BUSD,Ana Lucia De Mattos Barretto Villela,44,Finance and Investments  ==> banking,None,Not Available
+1115,2.2 BUSD,"Frank Fertitta, Iii.",56,"Sports  ==> casinos, mixed martial arts",None,Not Available
+1116,2.2 BUSD,Lorenzo Fertitta,49,"Sports  ==> casinos, mixed martial arts",None,Male
+1117,2.2 BUSD,Maria Franca Fissolo,83,"Food and Beverage  ==> Nutella, chocolates",None,Female
+1118,2.2 BUSD,Alexander Frolov,54,"Metals & Mining  ==> mining, steel",None,Male
+1119,2.2 BUSD,"Ernest Garcia, Ii.",61,Automotive  ==> used cars,United States,Not Available
+1120,2.2 BUSD,Alexandre Grendene Bartelle,68,Fashion & Retail  ==> shoes,Brazil,Male
+1121,2.2 BUSD,Vinod & Anil Rai Gupta,72,Manufacturing  ==> electrical equipment,India,Female
+1122,2.2 BUSD,Torstein Hagen,75,Service  ==> cruises,None,Male
+1123,2.2 BUSD,He Qiaonv,52,Service  ==> landscape architecture,China,Female
+1124,2.2 BUSD,Hans-Werner Hector,78,Technology  ==> SAP,None,Male
+1125,2.2 BUSD,Stanley Hubbard,85,Media & Entertainment  ==> DirecTV,None,Male
+1126,2.2 BUSD,Ke Xiping,58,Diversified  ==> investments,China,Not Available
+1127,2.2 BUSD,Suna Kirac,77,Diversified  ==> diversified,None,Female
+1128,2.2 BUSD,Kong Jian Min,50,Real Estate  ==> real estate,None,Male
+1129,2.2 BUSD,Koo Bon-Moo,73,Diversified  ==> Diversified,None,Male
+1130,2.2 BUSD,Heikki Kyostila,72,Healthcare  ==> dental products,Finland,Male
+1131,2.2 BUSD,Thomas Lee,74,Finance and Investments  ==> private equity,None,Male
+1132,2.2 BUSD,Eric Lefkofsky,48,Technology  ==> Groupon,United States,Not Available
+1133,2.2 BUSD,Peter Lim,65,Finance and Investments  ==> investments,None,Male
+1134,2.2 BUSD,Scott Lin,62,Technology  ==> optical components,None,Male
+1135,2.2 BUSD,Tomas Olivo Lopez,44,Real Estate  ==> shopping centers,None,Male
+1136,2.2 BUSD,Phillip T. (Terry) Ragon,69,Technology  ==> health IT,None,Male
+1137,2.2 BUSD,Stewart Rahr,72,Healthcare  ==> drug distribution,United States,Not Available
+1138,2.2 BUSD,T. Denny Sanford,82,"Finance and Investments  ==> banking, credit cards",United States,Not Available
+1139,2.2 BUSD,"Julio Mario Santo Domingo, Iii.",32,Food and Beverage  ==> beer,None,Male
+1140,2.2 BUSD,"Karl Scheufele, Iii.",79,Fashion & Retail  ==> jewelry,Switzerland,Male
+1141,2.2 BUSD,Shen Guojun,55,Fashion & Retail  ==> retail,None,Male
+1142,2.2 BUSD,Alain Taravella,70,Real Estate  ==> real estate,None,Male
+1143,2.2 BUSD,Oleg Tinkov,50,Finance and Investments  ==> banking,Russia,Male
+1144,2.2 BUSD,T.Y. Tsai,62,Finance and Investments  ==> finance,None,Male
+1145,2.2 BUSD,Tung Chee Hwa,81,Logistics  ==> shipping,Hong Kong,Male
+1146,2.2 BUSD,Ted Turner,79,Media & Entertainment  ==> cable television,United States,Male
+1147,2.2 BUSD,Sunil Vaswani,54,Diversified  ==> diversified,None,Male
+1148,2.2 BUSD,Jitendra Virwani,52,Real Estate  ==> real estate,None,Male
+1149,2.2 BUSD,Lang Walker,72,Real Estate  ==> real estate,None,Male
+1150,2.2 BUSD,Wu Zhigang,83,Food and Beverage  ==> bakery chain,China,Male
+1151,2.2 BUSD,Xiao Wenge,51,Media & Entertainment  ==> entertainment,China,Male
+1152,2.2 BUSD,Xiong Xuqiang,61,Real Estate  ==> real estate,None,Male
+1153,2.2 BUSD,Takao Yasuda,69,Fashion & Retail  ==> retail,None,Male
+1154,2.2 BUSD,William Young,77,Manufacturing  ==> plastics,None,Not Available
+1155,2.2 BUSD,Eddie & Sol Zakay,62,Real Estate  ==> Real Estate,UK,Not Available
+1156,2.2 BUSD,Zhang Xiugen,57,Automotive  ==> automobiles,China,Male
+1157,2.1 BUSD,Leslie Alexander,74,Sports  ==> sports team,United States,Male
+1158,2.1 BUSD,Patricia Angelini Rossi,64,"Diversified  ==> forestry, mining",None,Not Available
+1159,2.1 BUSD,Josef Boquoi,84,Food and Beverage  ==> frozen foods,None,Male
+1160,2.1 BUSD,Nikolai Buinov,50,"Energy  ==> oil, gas",None,Male
+1161,2.1 BUSD,Richard Chandler,59,Finance and Investments  ==> investments,None,Male
+1162,2.1 BUSD,Cheng Xue,48,Food and Beverage  ==> soy sauce,China,Not Available
+1163,2.1 BUSD,Patokh Chodiev,65,"Metals & Mining  ==> mining, metals",None,Male
+1164,2.1 BUSD,Choo Chong Ngen,65,Real Estate  ==> hotels,Singapore,Male
+1165,2.1 BUSD,Todd Christopher,55,Fashion & Retail  ==> hair care products,None,Male
+1166,2.1 BUSD,John De Mol,63,Media & Entertainment  ==> television,None,Not Available
+1167,2.1 BUSD,Bob Gaglardi,77,Real Estate  ==> hotels,None,Not Available
+1168,2.1 BUSD,Gordon Getty,84,Energy  ==> Getty Oil,United States,Male
+1169,2.1 BUSD,Philippe Ginestet,64,Fashion & Retail  ==> retail stores,None,Male
+1170,2.1 BUSD,Sanjiv Goenka,57,Diversified  ==> diversified,None,Male
+1171,2.1 BUSD,Alec Gores,65,Finance and Investments  ==> private equity,United States,Male
+1172,2.1 BUSD,David Hains,87,Finance and Investments  ==> Investment,None,Male
+1173,2.1 BUSD,Bahaa Hariri,52,"Real Estate  ==> real estate, investments, logistics",None,Male
+1174,2.1 BUSD,William Heinecke,69,Real Estate  ==> hotels,None,Male
+1175,2.1 BUSD,Huang Hongyun,51,Real Estate  ==> real estate,None,Male
+1176,2.1 BUSD,Huang Zhenda,70,Construction & Engineering  ==> construction,China,Male
+1177,2.1 BUSD,Ravi Jaipuria,63,Food and Beverage  ==> soft drinks,None,Male
+1178,2.1 BUSD,Jiang Yehua,55,Real Estate  ==> real estate,China,Male
+1179,2.1 BUSD,Manuel Jove,77,Real Estate  ==> real estate,None,Male
+1180,2.1 BUSD,Willibert Krueger,77,Food and Beverage  ==> food processing,None,Not Available
+1181,2.1 BUSD,Kuok Khoon Hong,68,Manufacturing  ==> palm oil,None,Male
+1182,2.1 BUSD,Christian Latouche,77,Finance and Investments  ==> accounting services,France,Not Available
+1183,2.1 BUSD,Guenther Lehmann,62,Fashion & Retail  ==> drugstores,Germany,Male
+1184,2.1 BUSD,Li Hongxin,65,Manufacturing  ==> paper & related products,None,Male
+1185,2.1 BUSD,Li Xiting,67,Healthcare  ==> medical devices,None,Male
+1186,2.1 BUSD,Liang Yunchao,49,Food and Beverage  ==> nutrition supplements,China,Male
+1187,2.1 BUSD,Brandt Louie,74,Food and Beverage  ==> drugstores,None,Male
+1188,2.1 BUSD,Catherine Lozick,73,Manufacturing  ==> valve manufacturing,None,Female
+1189,2.1 BUSD,Igor Makarov,56,Energy  ==> investments,None,Male
+1190,2.1 BUSD,Mao Lixiang,77,Technology  ==> cooking appliances,China,Male
+1191,2.1 BUSD,Harsh Mariwala,67,Food and Beverage  ==> consumer goods,None,Not Available
+1192,2.1 BUSD,Martin Moller Nielsen,53,Logistics  ==> aircraft leasing,None,Male
+1193,2.1 BUSD,David Murdock,95,"Food and Beverage  ==> Dole, real estate",United States,Male
+1194,2.1 BUSD,N.R. Narayana Murthy,71,Technology  ==> software services,None,Male
+1195,2.1 BUSD,Georg Nemetschek,84,Technology  ==> software,Germany,Male
+1196,2.1 BUSD,Vikas Oberoi,47,Real Estate  ==> real estate,India,Male
+1197,2.1 BUSD,Maja Oeri,63,Healthcare  ==> Roche Holding,None,Not Available
+1198,2.1 BUSD,Ong Beng Seng And Christina Ong,73,Diversified  ==> diversified,None,Male
+1199,2.1 BUSD,"H. Ross Perot, Jr.",59,Real Estate  ==> real estate,None,Male
+1200,2.1 BUSD,Tor Peterson,53,Metals & Mining  ==> commodities,None,Not Available
+1201,2.1 BUSD,Heloise Pratt,55,"Manufacturing  ==> manufacturing, investment",None,Female
+1202,2.1 BUSD,Alexey Repik,38,Healthcare  ==> pharmaceuticals,None,Male
+1203,2.1 BUSD,Shin Chang-Jae,64,Finance and Investments  ==> insurance,None,Male
+1204,2.1 BUSD,Kavitark Ram Shriram,61,"Technology  ==> venture capital, Google",None,Male
+1205,2.1 BUSD,Sylvia Stroeher,63,Fashion & Retail  ==> cosmetics,None,Female
+1206,2.1 BUSD,Katsumi Tada,72,Real Estate  ==> real estate,Japan,Male
+1207,2.1 BUSD,Tang Shing-Bor,84,Real Estate  ==> real estate,Hong Kong,Male
+1208,2.1 BUSD,Georg Von Opel,52,"Finance and Investments  ==> real estate, investments",None,Not Available
+1209,2.1 BUSD,David Walentas,79,Real Estate  ==> real estate,None,Not Available
+1210,2.1 BUSD,Ronald Wanek,77,Manufacturing  ==> furniture,None,Male
+1211,2.1 BUSD,Wang Changtian,53,"Media & Entertainment  ==> TV, movie production",China,Male
+1212,2.1 BUSD,Wang Wenjing,53,Technology  ==> business software,None,Male
+1213,2.1 BUSD,Ye Cheng,56,Diversified  ==> conglomerate,None,Male
+1214,2.1 BUSD,Zhu Gongshan,60,Manufacturing  ==> solar panel materials,None,Male
+1215,2.0 BUSD,Antti Aarnio-Wihuri,78,Diversified  ==> diversified,None,Not Available
+1216,2.0 BUSD,S. Daniel Abraham,93,Food and Beverage  ==> Slim-Fast,None,Male
+1217,2.0 BUSD,Joao Alves De Queiroz Filho,65,Diversified  ==> pharmaceuticals,Brazil,Male
+1218,2.0 BUSD,Mika Anttonen,51,Energy  ==> oil & gas,Finland,Male
+1219,2.0 BUSD,Thor Bjorgolfsson,51,Diversified  ==> investments,Iceland,Male
+1220,2.0 BUSD,Andrei Bokarev,51,"Manufacturing  ==> metals, mining",Russia,Male
+1221,2.0 BUSD,Bernhard Braun-Luedicke,41,Healthcare  ==> medical technology,None,Male
+1222,2.0 BUSD,Eva Maria Braun-Luedicke,30,Healthcare  ==> medical technology,Germany,Female
+1223,2.0 BUSD,Friederike Braun-Luedicke,33,Healthcare  ==> medical technology,None,Female
+1224,2.0 BUSD,Ron Burkle,65,"Finance and Investments  ==> supermarkets, investments",United States,Not Available
+1225,2.0 BUSD,Vivek Chand Burman,81,Food and Beverage  ==> consumer goods,None,Male
+1226,2.0 BUSD,Chen Yung-Tai,82,Real Estate  ==> real estate,None,Not Available
+1227,2.0 BUSD,James Clark,74,"Technology  ==> Netscape, investments",United States,Male
+1228,2.0 BUSD,Christopher Cline,59,Energy  ==> coal,United States,Male
+1229,2.0 BUSD,Alexandra Daitch,55,Food and Beverage  ==> Cargill,None,Female
+1230,2.0 BUSD,Dong Wei,47,Healthcare  ==> pharmaceuticals,China,Not Available
+1231,2.0 BUSD,Fritz Draexlmaier,62,Automotive  ==> auto parts,Germany,Male
+1232,2.0 BUSD,Glenn Dubin,61,Finance and Investments  ==> hedge funds,None,Male
+1233,2.0 BUSD,Robert Duggan,74,Healthcare  ==> pharmaceuticals,United States,Male
+1234,2.0 BUSD,Jayme Garfinkel,72,Finance and Investments  ==> insurance,None,Not Available
+1235,2.0 BUSD,Sam Goi,69,Food and Beverage  ==> frozen foods,None,Male
+1236,2.0 BUSD,Thomas Hagen,82,Finance and Investments  ==> insurance,None,Male
+1237,2.0 BUSD,Carlos Hank Rhon,70,Diversified  ==> banking,None,Male
+1238,2.0 BUSD,Christoph Henkel,60,Fashion & Retail  ==> consumer goods,None,Male
+1239,2.0 BUSD,Hu Kaijun,56,Healthcare  ==> pharmaceuticals,China,Male
+1240,2.0 BUSD,Huang Yi,56,Automotive  ==> auto distribution,None,Not Available
+1241,2.0 BUSD,Ramesh Juneja,62,Healthcare  ==> pharmaceuticals,None,Male
+1242,2.0 BUSD,Bruce Karsh,62,Finance and Investments  ==> private equity,United States,Not Available
+1243,2.0 BUSD,Henry Laufer,72,Finance and Investments  ==> hedge funds,None,Male
+1244,2.0 BUSD,Lee Boo-Jin,47,"Service  ==> computer services, tourism",None,Female
+1245,2.0 BUSD,Lee Jay-Hyun,58,"Diversified  ==> food products, entertainment",None,Male
+1246,2.0 BUSD,Wolfgang Leitner,65,Construction & Engineering  ==> engineering,None,Male
+1247,2.0 BUSD,Li Ge,51,Healthcare  ==> biotech,None,Not Available
+1248,2.0 BUSD,Harald Link,63,Diversified  ==> diversified,None,Not Available
+1249,2.0 BUSD,Liu Ming Hui,55,Energy  ==> natural gas distribution,None,Not Available
+1250,2.0 BUSD,Jeffrey Lurie,66,Sports  ==> Philadelphia Eagles,United States,Male
+1251,2.0 BUSD,Ma Xingtian,48,Healthcare  ==> pharmaceuticals,China,Male
+1252,2.0 BUSD,Sarah Macmillan,64,Food and Beverage  ==> Cargill,None,Female
+1253,2.0 BUSD,Howard Marks,72,Finance and Investments  ==> private equity,United States,Male
+1254,2.0 BUSD,Miao Shouliang,63,Real Estate  ==> real estate,None,Male
+1255,2.0 BUSD,Lachhman Das Mittal,87,Automotive  ==> tractors,None,Male
+1256,2.0 BUSD,Mario Moretti Polegato,65,Fashion & Retail  ==> shoes,Italy,Male
+1257,2.0 BUSD,Vadim Moshkovich,51,"Food and Beverage  ==> agriculture, land",None,Male
+1258,2.0 BUSD,Mofatraj Munot,73,Real Estate  ==> real estate,None,Male
+1259,2.0 BUSD,Jonathan Nelson,62,Finance and Investments  ==> private equity,None,Male
+1260,2.0 BUSD,Florentino Perez,71,Construction & Engineering  ==> construction,None,Male
+1261,2.0 BUSD,Chuchat & Daonapa Petaumpai,65,Finance and Investments  ==> motorcycle loans,None,Male
+1262,2.0 BUSD,Peter Peterson,92,Finance and Investments  ==> investments,None,Male
+1263,2.0 BUSD,Arvind Poddar,60,Automotive  ==> tires,None,Male
+1264,2.0 BUSD,Murdaya Poo,77,Diversified  ==> diversified,None,Male
+1265,2.0 BUSD,Ren Zhengfei,74,Telecom  ==> telecom equipment,None,Not Available
+1266,2.0 BUSD,Antony Ressler,56,Finance and Investments  ==> finance,United States,Male
+1267,2.0 BUSD,Francisco Jose Riberas Mera,54,"Manufacturing  ==> steel, autoparts",None,Male
+1268,2.0 BUSD,Rodney Sacks,68,Food and Beverage  ==> energy drinks,United States,Not Available
+1269,2.0 BUSD,Hilton Schlosberg,65,Food and Beverage  ==> energy drinks,United Kingdom,Male
+1270,2.0 BUSD,Brian Sheth,42,Finance and Investments  ==> investments,None,Male
+1271,2.0 BUSD,Lucy Stitzer,58,Food and Beverage  ==> Cargill,None,Female
+1272,2.0 BUSD,Su Suyu,69,"Real Estate  ==> utilities, real estate",None,Not Available
+1273,2.0 BUSD,Satoshi Suzuki,64,Fashion & Retail  ==> cosmetics,None,Male
+1274,2.0 BUSD,Katherine Tanner,62,Food and Beverage  ==> Cargill,United States,Not Available
+1275,2.0 BUSD,Arvind Tiku,48,"Energy  ==> oil & gas, investments",India,Male
+1276,2.0 BUSD,Wang Liping,52,Manufacturing  ==> hydraulic machinery,None,Male
+1277,2.0 BUSD,Wang Xicheng,69,Manufacturing  ==> tires,None,Not Available
+1278,2.0 BUSD,Wei Shaojun,55,Real Estate  ==> real estate,None,Male
+1279,2.0 BUSD,Amy Wyss,47,Healthcare  ==> medical equipment,None,Female
+1280,2.0 BUSD,Jon Yarbrough,61,Gambling & Casinos  ==> video games,None,Male
+1281,2.0 BUSD,Vladimir Yevtushenkov,69,"Telecom  ==> telecom, investments",Russia,Male
+1282,2.0 BUSD,Charles Zegar,70,Media & Entertainment  ==> Bloomberg LP,None,Not Available
+1283,2.0 BUSD,Zhu Baoguo,56,Healthcare  ==> pharmaceuticals,China,Not Available
+1284,1.9 BUSD,Saif Al Ghurair,94,Diversified  ==> diversified,None,Not Available
+1285,1.9 BUSD,Syed Mokhtar Albukhary,66,"Diversified  ==> engineering, energy, construction",None,Male
+1286,1.9 BUSD,Miriam Baumann-Blocher,43,Manufacturing  ==> chemicals,None,Female
+1287,1.9 BUSD,Albert Berner,82,Manufacturing  ==> fasteners,None,Not Available
+1288,1.9 BUSD,Thomas Bruch,68,Fashion & Retail  ==> retail,Germany,Male
+1289,1.9 BUSD,Chang Yun Chung,99,Logistics  ==> shipping,Singapore,Male
+1290,1.9 BUSD,Kiat Chiaravanont,62,Diversified  ==> diversified,None,Male
+1291,1.9 BUSD,Jean-Paul And Martine Clozel,62,Healthcare  ==> pharmaceuticals,Switzerland,Male
+1292,1.9 BUSD,Benjamin De Rothschild,54,Finance and Investments  ==> banking,None,Not Available
+1293,1.9 BUSD,James Dinan,59,Finance and Investments  ==> hedge funds,None,Not Available
+1294,1.9 BUSD,Charles Edelstenne,80,Manufacturing  ==> aviation,None,Not Available
+1295,1.9 BUSD,Bernd Freier,61,Fashion & Retail  ==> fashion retail,Germany,Male
+1296,1.9 BUSD,Bill Gross,74,Finance and Investments  ==> investments,None,Male
+1297,1.9 BUSD,Jeffrey Gundlach,59,Finance and Investments  ==> investments,None,Not Available
+1298,1.9 BUSD,Suat Gunsel,65,"Real Estate  ==> real estate, education",None,Male
+1299,1.9 BUSD,Shmuel Harlap,73,Automotive  ==> automotive,None,Not Available
+1300,1.9 BUSD,Roberto Hernandez Ramirez,76,Finance and Investments  ==> banking,Mexico,Not Available
+1301,1.9 BUSD,Johannes Kaercher,67,"Manufacturing  ==> vacuums, cleaning products",Germany,Male
+1302,1.9 BUSD,Friedrich Knapp,67,Fashion & Retail  ==> fashion retail,None,Male
+1303,1.9 BUSD,Lee Myung-Hee,74,Fashion & Retail  ==> retail,South Korea,Not Available
+1304,1.9 BUSD,Lee Seo-Hyun,44,"Diversified  ==> computer services, tourism",None,Female
+1305,1.9 BUSD,Liang Jiankun,56,Metals & Mining  ==> cobalt mining,None,Male
+1306,1.9 BUSD,Liao Long-Shing,65,Manufacturing  ==> petrochemicals,None,Male
+1307,1.9 BUSD,Lin Shu-Hong,89,Manufacturing  ==> petrochemicals,None,Male
+1308,1.9 BUSD,Yasseen Mansour,56,Diversified  ==> diversified,Egypt,Male
+1309,1.9 BUSD,David Nahmad,71,Fashion & Retail  ==> art collection,Monaco,Male
+1310,1.9 BUSD,Alexander Nesis,55,"Finance and Investments  ==> metals, banking, fertilizers",Russia,Male
+1311,1.9 BUSD,Nandan Nilekani,63,Technology  ==> software services,None,Male
+1312,1.9 BUSD,Ranjan Pai,45,Service  ==> education,None,Not Available
+1313,1.9 BUSD,Park Hyeon-Joo,59,Finance and Investments  ==> mutual funds,None,Male
+1314,1.9 BUSD,Jennifer Pritzker,67,"Service  ==> hotels, investments",None,Female
+1315,1.9 BUSD,Qiu Jianping,56,Manufacturing  ==> hand tools,None,Male
+1316,1.9 BUSD,Megdet Rahimkulov,72,Finance and Investments  ==> investments,None,Male
+1317,1.9 BUSD,Vito Rodriguez Rodriguez,79,Diversified  ==> processed milk,Peru,Not Available
+1318,1.9 BUSD,Stephen Rubin,81,Fashion & Retail  ==> sports apparel,None,Male
+1319,1.9 BUSD,Remo Ruffini,56,Fashion & Retail  ==> winter jackets,None,Male
+1320,1.9 BUSD,Erik Selin,51,Real Estate  ==> real estate,None,Male
+1321,1.9 BUSD,Peter Sondakh,68,Finance and Investments  ==> investments,None,Not Available
+1322,1.9 BUSD,Alan N. Trefler,62,Technology  ==> software,United States,Male
+1323,1.9 BUSD,Tseng Shin-Yi,90,Manufacturing  ==> petrochemicals,Taiwan,Male
+1324,1.9 BUSD,Masateru Uno,71,Fashion & Retail  ==> drugstores,Japan,Male
+1325,1.9 BUSD,Wang Qingtao,56,Metals & Mining  ==> steel smelting,None,Male
+1326,1.9 BUSD,Evan Williams,46,Technology  ==> Twitter,United States,Male
+1327,1.9 BUSD,Gustav Magnar Witzoe,24,Food and Beverage  ==> fish farming,None,Male
+1328,1.9 BUSD,Horst Wortmann,77,Fashion & Retail  ==> footwear,None,Not Available
+1329,1.9 BUSD,Xiao Yongming,53,Diversified  ==> fertilizer,None,Not Available
+1330,1.9 BUSD,Xie Zhikun,57,Finance and Investments  ==> investments,China,Male
+1331,1.9 BUSD,Xue Xiangdong,59,Technology  ==> software,China,Not Available
+1332,1.9 BUSD,Yuan Yafei,54,"Fashion & Retail  ==> retail, investments",China,Male
+1333,1.9 BUSD,Robin Zeng,50,Energy  ==> batteries,None,Not Available
+1334,1.9 BUSD,Zhang Daocai,68,Diversified  ==> valves,China,Male
+1335,1.9 BUSD,Zhang Xuansong,46,Fashion & Retail  ==> supermarket,China,Not Available
+1336,1.9 BUSD,Zheng Yuewen,56,Diversified  ==> investments,China,Male
+1337,1.9 BUSD,Zhou Xiaoguang,56,Real Estate  ==> real estate,China,Female
+1338,1.9 BUSD,Susanne Zimmermann Von Siefart ,61,"Manufacturing  ==> vacuums, home cleaning products",Germany,Female
+1339,1.8 BUSD,Aras Agalarov,62,Fashion & Retail  ==> real estate,Russia,Not Available
+1340,1.8 BUSD,Maurice Alter,93,Real Estate  ==> real estate,None,Male
+1341,1.8 BUSD,An Kang,69,Healthcare  ==> pharmaceuticals,None,Male
+1342,1.8 BUSD,Alex Beard,50,"Metals & Mining  ==> mining, commodities",United Kingdom,Male
+1343,1.8 BUSD,Nicolas Berggruen,56,Finance and Investments  ==> investments,None,Male
+1344,1.8 BUSD,Vladimir Bogdanov,67,Energy  ==> oil,Russia,Not Available
+1345,1.8 BUSD,Julio Bozano,82,Finance and Investments  ==> banking,Brazil,Male
+1346,1.8 BUSD,Anna Maria Braun,39,Healthcare  ==> medical technology,None,Female
+1347,1.8 BUSD,Johanna Braun,38,Healthcare  ==> medical technology,Germany,Female
+1348,1.8 BUSD,Karl Friedrich Braun,34,Healthcare  ==> medical technology,None,Male
+1349,1.8 BUSD,Anand Burman,66,Food and Beverage  ==> consumer goods,None,Not Available
+1350,1.8 BUSD,Edouard Carmignac,70,Finance and Investments  ==> asset management,France,Male
+1351,1.8 BUSD,Chen Jianhua,47,Manufacturing  ==> chemicals,None,Not Available
+1352,1.8 BUSD,Cheung Yan,61,Manufacturing  ==> paper manufacturing,China,Female
+1353,1.8 BUSD,Chung Mong-Joon,66,"Manufacturing  ==> shipbuilding, industrial machines",South Korea,Male
+1354,1.8 BUSD,Jack Cowin,75,Food and Beverage  ==> fast food,Australia,Male
+1355,1.8 BUSD,Cui Genliang,60,Manufacturing  ==> electric components,China,Not Available
+1356,1.8 BUSD,Kommer Damen,74,Manufacturing  ==> shipbuilding,None,Male
+1357,1.8 BUSD,Diego Della Valle,64,Fashion & Retail  ==> shoes,None,Not Available
+1358,1.8 BUSD,Dou Zhenggang,65,"Diversified  ==> energy, chemicals",None,Male
+1359,1.8 BUSD,N. Murray Edwards,58,Energy  ==> oil & gas,None,Not Available
+1360,1.8 BUSD,Gabriel Escarrer,83,Service  ==> hotels,None,Male
+1361,1.8 BUSD,Clement Fayat,86,Construction & Engineering  ==> construction,None,Not Available
+1362,1.8 BUSD,James France,73,"Sports  ==> Nascar, racing",None,Male
+1363,1.8 BUSD,Senapathy Gopalakrishnan,63,Technology  ==> software services,None,Male
+1364,1.8 BUSD,David Harding,56,Finance and Investments  ==> finance,None,Male
+1365,1.8 BUSD,Stewart Horejsi,80,Finance and Investments  ==> Berkshire Hathaway,None,Male
+1366,1.8 BUSD,Huang Qisen,53,Real Estate  ==> real estate,None,Male
+1367,1.8 BUSD,Hamilton James,66,Finance and Investments  ==> investments,None,Male
+1368,1.8 BUSD,John Kapoor,74,Healthcare  ==> healthcare,None,Male
+1369,1.8 BUSD,William Lauder,58,Fashion & Retail  ==> Estee Lauder,United States,Male
+1370,1.8 BUSD,Li Zongsong,51,Healthcare  ==> pharmaceuticals,China,Male
+1371,1.8 BUSD,Willy Michel,71,Healthcare  ==> medical devices,None,Not Available
+1372,1.8 BUSD,Masahiro Noda,79,Technology  ==> software,None,Not Available
+1373,1.8 BUSD,Gregorio Perez Companc,82,Energy  ==> oil & gas,None,Male
+1374,1.8 BUSD,Linda Pritzker,64,"Service  ==> hotels, investments",United States,Female
+1375,1.8 BUSD,Qin Hui,50,Media & Entertainment  ==> movie theaters,None,Male
+1376,1.8 BUSD,Matthias Reinhart,58,Finance and Investments  ==> finance,None,Male
+1377,1.8 BUSD,Brian Roberts,58,Service  ==> Comcast,United States,Male
+1378,1.8 BUSD,Alberto Roemmers,91,Healthcare  ==> pharmaceuticals,Argentina,Male
+1379,1.8 BUSD,Gerald Schwartz,76,Finance and Investments  ==> finance,None,Male
+1380,1.8 BUSD,Thaksin Shinawatra,68,Finance and Investments  ==> investments,None,Male
+1381,1.8 BUSD,William Stone,63,Technology  ==> software,None,Male
+1382,1.8 BUSD,Petter Stordalen,55,Service  ==> hotels,None,Not Available
+1383,1.8 BUSD,Julia Stoschek,43,Automotive  ==> auto parts,Germany,Female
+1384,1.8 BUSD,Maximilian Stoschek,62,Automotive  ==> auto parts,Germany,Male
+1385,1.8 BUSD,Sun Shoukuan,68,Manufacturing  ==> metals. coal,None,Not Available
+1386,1.8 BUSD,Ba Duong Tran,58,Automotive  ==> automotive,Vietnam,Male
+1387,1.8 BUSD,Hamdi Ulukaya,45,Food and Beverage  ==> greek yogurt,None,Male
+1388,1.8 BUSD,Wong Luen Hei,56,Manufacturing  ==> building materials,None,Not Available
+1389,1.8 BUSD,Wu Yulan,48,Healthcare  ==> pharmaceuticals,None,Female
+1390,1.8 BUSD,Xu Hang,52,Healthcare  ==> medical devices,None,Male
+1391,1.8 BUSD,Yang Erzhu,67,Real Estate  ==> real estate,None,Male
+1392,1.8 BUSD,Yao Kuizhang,53,Food and Beverage  ==> beverages,None,Male
+1393,1.8 BUSD,Sheng Jian Zhong,60,Real Estate  ==> real estate,Singapore,Male
+1394,1.7 BUSD,Marcel Adams,97,Real Estate  ==> real estate,None,Male
+1395,1.7 BUSD,"Herbert Allen, Jr.",78,Finance and Investments  ==> investment banking,United States,Not Available
+1396,1.7 BUSD,Michael Ashcroft,72,Finance and Investments  ==> security,None,Male
+1397,1.7 BUSD,Roman Avdeev,50,"Finance and Investments  ==> banking, development",None,Male
+1398,1.7 BUSD,Emilio Azcarraga Jean,50,Media & Entertainment  ==> TV broadcasting,None,Male
+1399,1.7 BUSD,Sezai Bacaksiz,68,Diversified  ==> diversified,None,Male
+1400,1.7 BUSD,Lesley Bamberger,53,Real Estate  ==> real estate,Netherlands,Not Available
+1401,1.7 BUSD,Angela Bennett,74,Metals & Mining  ==> mining,Australia,Female
+1402,1.7 BUSD,Hubertus Benteler,71,Automotive  ==> auto parts,Germany,Not Available
+1403,1.7 BUSD,Ludwig Theodor Braun,27,Healthcare  ==> medical technology,None,Male
+1404,1.7 BUSD,Nicola Bulgari,77,Fashion & Retail  ==> luxury goods,None,Male
+1405,1.7 BUSD,Paolo Bulgari,80,Fashion & Retail  ==> luxury goods,None,Male
+1406,1.7 BUSD,Chen Dejun,48,Logistics  ==> package delivery,None,Male
+1407,1.7 BUSD,Tony Chen,49,Technology  ==> eletronics,None,Male
+1408,1.7 BUSD,Chen Xueli,67,Healthcare  ==> pharmaceuticals,China,Not Available
+1409,1.7 BUSD,Luigi Cremonini,79,Food and Beverage  ==> meat processing,None,Male
+1410,1.7 BUSD,Dominique Desseigne,73,Gambling & Casinos  ==> casinos,France,Male
+1411,1.7 BUSD,Sefik Yilmaz Dizdar,80,Fashion & Retail  ==> fashion retail,None,Male
+1412,1.7 BUSD,Domenico Dolce,59,Fashion & Retail  ==> luxury goods,None,Male
+1413,1.7 BUSD,Pavel Durov,32,Technology  ==> messaging app,None,Not Available
+1414,1.7 BUSD,John Farber,92,Manufacturing  ==> chemicals,None,Male
+1415,1.7 BUSD,Robert Fisher,64,Service  ==> Gap,None,Male
+1416,1.7 BUSD,William Fisher,61,Fashion & Retail  ==> Gap,None,Male
+1417,1.7 BUSD,Stefano Gabbana,55,Fashion & Retail  ==> luxury goods,None,Male
+1418,1.7 BUSD,Rolf Gerling,63,Finance and Investments  ==> insurance,None,Male
+1419,1.7 BUSD,Serge Godin,68,Technology  ==> information technology,None,Male
+1420,1.7 BUSD,Sergei Gordeev,45,Real Estate  ==> real estate,None,Male
+1421,1.7 BUSD,Mehmet Nazif Gunal,70,"Diversified  ==> tourism, construction",Turkey,Male
+1422,1.7 BUSD,Yusuf Hamied,81,Healthcare  ==> pharmaceuticals,None,Not Available
+1423,1.7 BUSD,Gerry Harvey,78,Fashion & Retail  ==> retail,Australia,Male
+1424,1.7 BUSD,Timothy Headington,68,"Energy  ==> oil & gas, investments",None,Male
+1425,1.7 BUSD,Huang Chulong,59,Real Estate  ==> real estate,None,Male
+1426,1.7 BUSD,Huo Qinghua,57,Energy  ==> coal,None,Male
+1427,1.7 BUSD,Devendra Jain,89,Manufacturing  ==> chemicals,None,Not Available
+1428,1.7 BUSD,Jiang Yintai,67,Automotive  ==> auto parts,China,Male
+1429,1.7 BUSD,"Jim Justice, Ii.",67,Metals & Mining  ==> coal,None,Not Available
+1430,1.7 BUSD,Kim Jun-Ki,73,Diversified  ==> diversified,None,Male
+1431,1.7 BUSD,William Koch,78,"Energy  ==> oil, investments",None,Male
+1432,1.7 BUSD,Anthony Langley,63,Diversified  ==> manufacturing,None,Male
+1433,1.7 BUSD,Marc Lasry,57,Finance and Investments  ==> hedge funds,None,Male
+1434,1.7 BUSD,Peter Leibinger,51,Manufacturing  ==> machine tools,None,Not Available
+1435,1.7 BUSD,Regine Leibinger,55,Manufacturing  ==> machine tools,Germany,Female
+1436,1.7 BUSD,Li San Yim,68,Manufacturing  ==> construction equipment,China,Male
+1437,1.7 BUSD,David Lichtenstein,56,Real Estate  ==> real estate,United States,Male
+1438,1.7 BUSD,Lim Oon Kuin,74,Energy  ==> oil trading,None,Male
+1439,1.7 BUSD,Liu Ming Chung,55,Manufacturing  ==> paper manufacturing,None,Not Available
+1440,1.7 BUSD,Ma Xiuhui,47,Manufacturing  ==> LED lighting,China,Female
+1441,1.7 BUSD,Prayudh Mahagitsiri,72,"Food and Beverage  ==> coffee, shipping",None,Male
+1442,1.7 BUSD,Anand Mahindra,63,Automotive  ==> automobiles,India,Male
+1443,1.7 BUSD,Kishore Mariwala,83,Food and Beverage  ==> consumer goods,India,Not Available
+1444,1.7 BUSD,Craig Mccaw,68,Telecom  ==> telecom,None,Male
+1445,1.7 BUSD,Miguel Mckelvey,43,Real Estate  ==> WeWork,None,Not Available
+1446,1.7 BUSD,Vincent Mcmahon,72,Sports  ==> wrestling,United States,Male
+1447,1.7 BUSD,David Mcmurtry,78,Manufacturing  ==> manufacturing,None,Male
+1448,1.7 BUSD,Gary Michelson,69,Healthcare  ==> medical patents,United States,Male
+1449,1.7 BUSD,Massimo Moratti,73,Energy  ==> oil refinery,None,Male
+1450,1.7 BUSD,Farhad Moshiri,63,Diversified  ==> diversified,UK,Male
+1451,1.7 BUSD,Jerry Moyes,74,Logistics  ==> Transportation,None,Male
+1452,1.7 BUSD,Charles Munger,94,Finance and Investments  ==> Berkshire Hathaway,None,Male
+1453,1.7 BUSD,Kerr Neilson,68,Finance and Investments  ==> investment,None,Male
+1454,1.7 BUSD,Ou Zongrong,54,Real Estate  ==> real estate,China,Male
+1455,1.7 BUSD,Nihat Ozdemir,68,Diversified  ==> diversified,None,Male
+1456,1.7 BUSD,Pan Weiming,54,Real Estate  ==> real estate,None,Not Available
+1457,1.7 BUSD,Park Yeon-Cha,72,Manufacturing  ==> sneakers,South Korea,Not Available
+1458,1.7 BUSD,Nelson Peltz,76,Finance and Investments  ==> investments,None,Not Available
+1459,1.7 BUSD,Roger Penske,81,Automotive  ==> cars,None,Male
+1460,1.7 BUSD,Qi Jinxing,56,Real Estate  ==> real estate,None,Not Available
+1461,1.7 BUSD,Qi Shi,48,Technology  ==> financial information,None,Male
+1462,1.7 BUSD,Theodore Rachmat,74,Diversified  ==> diversified,Indonesia,Male
+1463,1.7 BUSD,Juan Maria Riberas Mera,49,Metals & Mining  ==> steel,Spain,Male
+1464,1.7 BUSD,Vijay Shekhar Sharma,40,Service  ==> financial technology,None,Male
+1465,1.7 BUSD,Konstantin Strukov,59,"Metals & Mining  ==> gold, coal mining",None,Male
+1466,1.7 BUSD,Henry Swieca,61,Finance and Investments  ==> hedge funds,None,Not Available
+1467,1.7 BUSD,Wichai Thongtang,71,Real Estate  ==> investments,Thailand,Male
+1468,1.7 BUSD,Torsten Toeller,52,Fashion & Retail  ==> pet food,Germany,Not Available
+1469,1.7 BUSD,Roman Trotsenko,47,"Logistics  ==> transport, engineering, real estate",None,Male
+1470,1.7 BUSD,Todd Wagner,57,Media & Entertainment  ==> online media,United States,Male
+1471,1.7 BUSD,Wang Chaobin,62,Real Estate  ==> real estate,China,Male
+1472,1.7 BUSD,Wang Yanqing,52,Manufacturing  ==> electrical equipment,None,Male
+1473,1.7 BUSD,John Whittaker,76,Real Estate  ==> real estate,None,Male
+1474,1.7 BUSD,Wu Guangming,56,Healthcare  ==> medical equipment,China,Male
+1475,1.7 BUSD,Xu Qiming,54,"Diversified  ==> food, art",China,Male
+1476,1.7 BUSD,Zhang Xiaojuan,48,Logistics  ==> logistics,None,Female
+1477,1.6 BUSD,Melih Abdulhayoglu,50,Technology  ==> internet security,None,Not Available
+1478,1.6 BUSD,Radhe Shyam Agarwal,73,Fashion & Retail  ==> consumer goods,None,Male
+1479,1.6 BUSD,Mohamed Al Fayed,89,"Fashion & Retail  ==> retail, investments",None,Not Available
+1480,1.6 BUSD,Faisal Bin Qassim Al Thani,70,"Diversified  ==> hotels, diversified",Qatar,Not Available
+1481,1.6 BUSD,William F. Austin,76,Manufacturing  ==> hearing aids,United States,Male
+1482,1.6 BUSD,Louis Bacon,61,Finance and Investments  ==> hedge funds,None,Male
+1483,1.6 BUSD,Achal Bakeri,58,Manufacturing  ==> air coolers,None,Male
+1484,1.6 BUSD,Othman Benjelloun,85,"Finance and Investments  ==> banking, insurance",None,Male
+1485,1.6 BUSD,William Berkley,71,Finance and Investments  ==> insurance,None,Male
+1486,1.6 BUSD,Aneel Bhusri,52,Technology  ==> business software,United States,Male
+1487,1.6 BUSD,O. Francis Biondi,53,Finance and Investments  ==> hedge funds,None,Male
+1488,1.6 BUSD,John Bloor,75,"Diversified  ==> real estate, manufacturing",None,Male
+1489,1.6 BUSD,David Booth,72,Finance and Investments  ==> mutual funds,United States,Male
+1490,1.6 BUSD,Cai Wensheng,48,Technology  ==> photo sharing app,None,Not Available
+1491,1.6 BUSD,Ahmet Calik,60,"Diversified  ==> energy, banking, construction",None,Male
+1492,1.6 BUSD,Michel Chalhoub,86,Fashion & Retail  ==> retail,None,Male
+1493,1.6 BUSD,Chen Xiaoying,41,Logistics  ==> package delivery,None,Female
+1494,1.6 BUSD,Cho Jung-Ho,59,Finance and Investments  ==> finance,None,Not Available
+1495,1.6 BUSD,Turgay Ciner,62,Diversified  ==> diversified,None,Male
+1496,1.6 BUSD,Steve Conine,45,Technology  ==> online retail,None,Male
+1497,1.6 BUSD,Jacques D'Amours,61,Fashion & Retail  ==> retail,None,Male
+1498,1.6 BUSD,Robert Defares,56,Finance and Investments  ==> electronic trading,Netherlands,Not Available
+1499,1.6 BUSD,Alexander Dzhaparidze,62,Energy  ==> oil services,Russia,Male
+1500,1.6 BUSD,Stephen Feinberg,58,Finance and Investments  ==> private equity,None,Male
+1501,1.6 BUSD,Paul Foster,60,Energy  ==> oil refining,United States,Not Available
+1502,1.6 BUSD,Mario Gabelli,76,Finance and Investments  ==> money management,United States,Male
+1503,1.6 BUSD,Marcos Galperin,62,Technology  ==> e-commerce,None,Male
+1504,1.6 BUSD,Radhe Shyam Goenka,72,Fashion & Retail  ==> consumer goods,None,Male
+1505,1.6 BUSD,Christopher Goldsbury,75,Food and Beverage  ==> salsa,None,Male
+1506,1.6 BUSD,Stelios Haji-Ioannou,51,Service  ==> EasyJet,None,Male
+1507,1.6 BUSD,Ilkka Herlin,59,"Manufacturing  ==> elevators, escalators",Finland,Male
+1508,1.6 BUSD,Brian Higgins,53,Finance and Investments  ==> hedge funds,United States,Male
+1509,1.6 BUSD,Stephen Jarislowsky,92,Finance and Investments  ==> money management,None,Male
+1510,1.6 BUSD,Michael Jordan,55,"Sports  ==> Charlotte Hornets, endorsements",None,Male
+1511,1.6 BUSD,Kenji Kasahara,42,Technology  ==> social network,None,Male
+1512,1.6 BUSD,Kim Taek-Jin,51,Gambling & Casinos  ==> online games,South Korea,Male
+1513,1.6 BUSD,Edward Lampert,55,Finance and Investments  ==> Sears,None,Male
+1514,1.6 BUSD,Thomas Lau,64,Fashion & Retail  ==> department stores,None,Not Available
+1515,1.6 BUSD,Thai Lee,59,Technology  ==> IT provider,None,Not Available
+1516,1.6 BUSD,Lei Jufang,65,Healthcare  ==> pharmaceuticals,China,Female
+1517,1.6 BUSD,Li Li,54,Healthcare  ==> pharmaceuticals,China,Not Available
+1518,1.6 BUSD,Li Liufa,61,"Diversified  ==> steel, diversified",China,Male
+1519,1.6 BUSD,Liu Hanyuan,54,Food and Beverage  ==> agribusiness,None,Male
+1520,1.6 BUSD,Pier Luigi Loro Piana,66,Fashion & Retail  ==> fashion,None,Male
+1521,1.6 BUSD,Billy Joe (Red) Mccombs,90,"Diversified  ==> real estate, oil, cars, sports",United States,Not Available
+1522,1.6 BUSD,Gian Marco Moratti,81,Energy  ==> oil refinery,Italy,Male
+1523,1.6 BUSD,Manuel Moroun,91,Logistics  ==> transportation,United States,Not Available
+1524,1.6 BUSD,Robert Mouawad,73,Service  ==> fine jewelry,Lebanon,Male
+1525,1.6 BUSD,Marius Nacht,52,Technology  ==> software,None,Male
+1526,1.6 BUSD,Ni Zugen,61,Manufacturing  ==> appliances,None,Male
+1527,1.6 BUSD,Lirio Parisotto,64,Finance and Investments  ==> investments,None,Male
+1528,1.6 BUSD,Karl-Johan Persson,43,Fashion & Retail  ==> H&M,None,Male
+1529,1.6 BUSD,Tom Persson,32,Fashion & Retail  ==> H&M,None,Not Available
+1530,1.6 BUSD,Dmitry Pumpyansky,54,Metals & Mining  ==> steel pipes,None,Male
+1531,1.6 BUSD,Ruan Shuilong,82,Manufacturing  ==> chemicals,China,Not Available
+1532,1.6 BUSD,Jean Salata,52,Finance and Investments  ==> finance,Chile,Male
+1533,1.6 BUSD,Sheryl Sandberg,48,Technology  ==> Facebook,United States,Female
+1534,1.6 BUSD,Niraj Shah,44,Technology  ==> online retail,None,Male
+1535,1.6 BUSD,Shin Dong-Guk,68,Healthcare  ==> Pharmaceuticals,None,Male
+1536,1.6 BUSD,Ben Silbermann,34,Technology  ==> Pinterest,United States,Not Available
+1537,1.6 BUSD,Charlotte Soderstrom,41,Fashion & Retail  ==> H&M,None,Female
+1538,1.6 BUSD,Thomas Steyer,60,Finance and Investments  ==> hedge funds,None,Not Available
+1539,1.6 BUSD,Su Weizhong,49,"Energy  ==> oil, fertilizers",None,Male
+1540,1.6 BUSD,David Teoh,62,Telecom  ==> telecoms,None,Male
+1541,1.6 BUSD,Wang Jinshu,61,Manufacturing  ==> chemicals,China,Male
+1542,1.6 BUSD,Wang Yaohai,51,Technology  ==> lighting,None,Male
+1543,1.6 BUSD,Charlotte Colket Weber,75,Food and Beverage  ==> Campbell Soup,None,Not Available
+1544,1.6 BUSD,Wei Ing-Chou,65,"Food and Beverage  ==> food, beverages",Taiwan,Male
+1545,1.6 BUSD,Yin-Chun Wei,61,"Food and Beverage  ==> food, beverages",None,Male
+1546,1.6 BUSD,Wei Yin-Heng,59,"Food and Beverage  ==> food, beverages",None,Male
+1547,1.6 BUSD,Wei Ying-Chiao,63,"Food and Beverage  ==> food, beverages",None,Male
+1548,1.6 BUSD,Richard White,63,Technology  ==> software,None,Male
+1549,1.6 BUSD,Allan Wong,68,Manufacturing  ==> electronics,None,Male
+1550,1.6 BUSD,Wong Kwong Yu,49,Fashion & Retail  ==> retail,None,Male
+1551,1.6 BUSD,Wu Jianshu,54,Automotive  ==> auto parts,Hong Kong,Male
+1552,1.6 BUSD,Wu Xu,54,Real Estate  ==> real estate,St. Kitts and Nevis,Not Available
+1553,1.6 BUSD,Wu Xushun,70,"Diversified  ==> internet, auto parts",China,Not Available
+1554,1.6 BUSD,Luis Enrique Yarur Rey,67,Finance and Investments  ==> banking,None,Male
+1555,1.6 BUSD,Albert Yeung,75,"Diversified  ==> real estate, retail",Hong Kong,Male
+1556,1.6 BUSD,Yu Rong,46,Healthcare  ==> health clinics,China,Not Available
+1557,1.6 BUSD,Kostyantin Zhevago,44,Metals & Mining  ==> mining,None,Male
+1558,1.6 BUSD,Zhou Chengjian,53,Fashion & Retail  ==> fashion retail,China,Male
+1559,1.6 BUSD,Zhou Yaoting,75,"Diversified  ==> apparel, real estate",None,Male
+1560,1.6 BUSD,Zhuang Kuilong,56,Manufacturing  ==> polyester,China,Male
+1561,1.5 BUSD,Jose Joao Abdalla Filho,62,Finance and Investments  ==> investments,None,Male
+1562,1.5 BUSD,Khalifa Bin Butti Al Muhairi,39,"Diversified  ==> hospitals, investments",United Arab Emirates,Male
+1563,1.5 BUSD,Folorunsho Alakija,67,Energy  ==> oil,Nigeria,Not Available
+1564,1.5 BUSD,Bill Alfond,70,Fashion & Retail  ==> shoes,None,Male
+1565,1.5 BUSD,Susan Alfond,72,Fashion & Retail  ==> shoes,United States,Female
+1566,1.5 BUSD,Ted Alfond,73,Fashion & Retail  ==> shoes,United States,Male
+1567,1.5 BUSD,Joy Alukkas,61,Fashion & Retail  ==> jewelry,None,Male
+1568,1.5 BUSD,Andrey Andreev,44,Technology  ==> online dating,UK,Not Available
+1569,1.5 BUSD,Carol Jenkins Barnett,61,Food and Beverage  ==> Publix supermarkets,United States,Female
+1570,1.5 BUSD,Oleg Boyko,53,Diversified  ==> diversified,None,Not Available
+1571,1.5 BUSD,Ana Maria Brescia Cafferata,94,"Diversified  ==> mining, banking",Peru,Female
+1572,1.5 BUSD,Binod Chaudhary,63,Diversified  ==> diversified,None,Not Available
+1573,1.5 BUSD,Che Fengsheng,55,Healthcare  ==> pharmaceuticals,None,Male
+1574,1.5 BUSD,Chen Qingzhou,52,Telecom  ==> communications equipment,China,Male
+1575,1.5 BUSD,Richard Desmond,66,Media & Entertainment  ==> publishing,None,Male
+1576,1.5 BUSD,Mohammed Dewji,43,Diversified  ==> diversified,Tanzania,Male
+1577,1.5 BUSD,Carl Douglas,57,Diversified  ==> investments,None,Male
+1578,1.5 BUSD,Eric Douglas,50,Diversified  ==> investments,Sweden,Not Available
+1579,1.5 BUSD,Bulent Eczacibasi,68,"Diversified  ==> pharmaceuticals, diversified",None,Male
+1580,1.5 BUSD,Faruk Eczacibasi,64,"Diversified  ==> pharmaceuticals, diversified",None,Male
+1581,1.5 BUSD,Martha Ford,92,Automotive  ==> Ford Motor,None,Not Available
+1582,1.5 BUSD,Yasuhiro Fukushima,70,Media & Entertainment  ==> video games,Japan,Male
+1583,1.5 BUSD,Reinold Geiger,70,Fashion & Retail  ==> beauty products,None,Male
+1584,1.5 BUSD,Saad Hariri,48,"Construction & Engineering  ==> construction, investments",Lebanon,Not Available
+1585,1.5 BUSD,Richard Hayne,70,Fashion & Retail  ==> Urban Outfitters,United States,Male
+1586,1.5 BUSD,Ilona Herlin,53,"Manufacturing  ==> elevators, escalators",None,Not Available
+1587,1.5 BUSD,Asok Kumar Hiranandani,63,Real Estate  ==> real estate,Singapore,Male
+1588,1.5 BUSD,Niranjan Hiranandani,68,Real Estate  ==> real estate,None,Not Available
+1589,1.5 BUSD,Huang Qiaoling,59,Media & Entertainment  ==> amusement parks,China,Male
+1590,1.5 BUSD,Huang Zhuangmian,48,Logistics  ==> logistics,None,Male
+1591,1.5 BUSD,Hal Jackman,86,"Finance and Investments  ==> insurance, investments",None,Male
+1592,1.5 BUSD,Anurang Jain,56,Manufacturing  ==> auto parts,None,Male
+1593,1.5 BUSD,Keeree Kanjanapas,67,Real Estate  ==> transportation,None,Male
+1594,1.5 BUSD,Kim Nam-Jung,45,Food and Beverage  ==> food,South Korea,Male
+1595,1.5 BUSD,Seth Klarman,61,Finance and Investments  ==> investments,None,Male
+1596,1.5 BUSD,Alexander Klyachin,51,Real Estate  ==> real estate,None,Male
+1597,1.5 BUSD,Yuriy Kosiuk,50,Food and Beverage  ==> agriculture,Ukraine,Male
+1598,1.5 BUSD,Miguel Krigsner,68,Fashion & Retail  ==> cosmetics,None,Male
+1599,1.5 BUSD,Lee Yin Yee,66,Manufacturing  ==> glass,None,Male
+1600,1.5 BUSD,Nicola Leibinger-Kammueller,58,Manufacturing  ==> manufacturing,Germany,Not Available
+1601,1.5 BUSD,Li Weiwei,41,Technology  ==> online games,None,Male
+1602,1.5 BUSD,William Li,43,Automotive  ==> automobiles,China,Male
+1603,1.5 BUSD,Li Yihai,55,Healthcare  ==> pharmaceuticals,None,Not Available
+1604,1.5 BUSD,Li Yong,41,Manufacturing  ==> chemicals,None,Not Available
+1605,1.5 BUSD,Lin Ming-Hsiung,68,Fashion & Retail  ==> supermarkets,None,Male
+1606,1.5 BUSD,Lou Zhongfu,64,Real Estate  ==> real estate,China,Male
+1607,1.5 BUSD,Low Tuck Kwong,70,Energy  ==> coal,None,Not Available
+1608,1.5 BUSD,P.N.C. Menon,69,Real Estate  ==> real estate,None,Male
+1609,1.5 BUSD,Thomas Meyer,58,Fashion & Retail  ==> apparel retailer,Switzerland,Male
+1610,1.5 BUSD,Ezra Nahmad,72,Finance and Investments  ==> art,None,Male
+1611,1.5 BUSD,Judith Neilson,72,Finance and Investments  ==> investments,None,Not Available
+1612,1.5 BUSD,Madeleine Olsson Ericksson,73,Diversified  ==> diversified,Sweden,Not Available
+1613,1.5 BUSD,Ou Zonghong,48,Real Estate  ==> real estate,None,Not Available
+1614,1.5 BUSD,Eren Ozmen,59,Manufacturing  ==> aerospace,None,Female
+1615,1.5 BUSD,Fatih Ozmen,60,Manufacturing  ==> aerospace,None,Male
+1616,1.5 BUSD,Jose Isaac Peres,77,Real Estate  ==> shopping malls,None,Male
+1617,1.5 BUSD,Mark Pincus,52,Technology  ==> online games,None,Male
+1618,1.5 BUSD,Kevin Plank,45,Fashion & Retail  ==> Under Armour,United States,Male
+1619,1.5 BUSD,"Nicholas Pritzker, Ii.",74,"Service  ==> hotels, investments",None,Not Available
+1620,1.5 BUSD,Que Wenbin,54,Healthcare  ==> pharmaceuticals,China,Male
+1621,1.5 BUSD,Jorge Rodriguez Rodriguez,72,Diversified  ==> processed milk,None,Male
+1622,1.5 BUSD,Nobutada Saji,72,Food and Beverage  ==> beverages,None,Male
+1623,1.5 BUSD,Thomas Sandell,57,Finance and Investments  ==> hedge funds,Sweden,Male
+1624,1.5 BUSD,Eddy Kusnadi Sariaatmadja,64,"Media & Entertainment  ==> media, tech",None,Male
+1625,1.5 BUSD,Fayez Sarofim,89,Finance and Investments  ==> money management,United States,Male
+1626,1.5 BUSD,Monika Schoeller,79,Media & Entertainment  ==> publishing,None,Female
+1627,1.5 BUSD,Antonio Luiz Seabra,75,Fashion & Retail  ==> cosmetics,Brazil,Male
+1628,1.5 BUSD,Yuri Shefler,50,Food and Beverage  ==> alcohol,Russia,Male
+1629,1.5 BUSD,Rajju Shroff,84,Manufacturing  ==> agrochemicals,India,Not Available
+1630,1.5 BUSD,Frank Stronach,85,Automotive  ==> auto parts,Canada,Male
+1631,1.5 BUSD,Kevin Systrom,33,Technology  ==> Instagram,None,Not Available
+1632,1.5 BUSD,Tang Hsiang-Chien,95,"Manufacturing  ==> textiles, electronics",None,Not Available
+1633,1.5 BUSD,Tang Jianfang,62,Food and Beverage  ==> packaged foods,None,Female
+1634,1.5 BUSD,Ning Tang,44,Finance and Investments  ==> online lending,China,Male
+1635,1.5 BUSD,Jim Thompson,78,Logistics  ==> logistics,United States,Male
+1636,1.5 BUSD,Jonathan Tisch,64,"Diversified  ==> insurance, NFL team",None,Male
+1637,1.5 BUSD,Kenneth Tuchman,58,Service  ==> outsourcing,United States,Male
+1638,1.5 BUSD,Wim Van Der Leegte,70,Manufacturing  ==> manufacturing,None,Not Available
+1639,1.5 BUSD,Shamsheer Vayalil,41,Healthcare  ==> healthcare,None,Male
+1640,1.5 BUSD,Thongma Vijitpongpun,60,Real Estate  ==> real estate,Thailand,Male
+1641,1.5 BUSD,Arkady Volozh,54,Media & Entertainment  ==> search engine,None,Male
+1642,1.5 BUSD,Stefan Von Holtzbrinck,55,Media & Entertainment  ==> publishing,None,Male
+1643,1.5 BUSD,Wang Jiufang,54,Real Estate  ==> real estate,China,Not Available
+1644,1.5 BUSD,Wong Hong King,56,Real Estate  ==> real estate,None,Not Available
+1645,1.5 BUSD,Ian Wood,75,Energy  ==> energy services,None,Not Available
+1646,1.5 BUSD,Xiao Chunhong,50,Real Estate  ==> real estate,None,Male
+1647,1.5 BUSD,Jacky Xu,46,Fashion & Retail  ==> apparel,St. Kitts and Nevis,Male
+1648,1.5 BUSD,Zhang Hongwei,63,"Diversified  ==> oil, banking",None,Male
+1649,1.5 BUSD,Zhang Tao,45,Fashion & Retail  ==> e-commerce,None,Male
+1650,1.4 BUSD,Anu Aga,75,Construction & Engineering  ==> engineering,India,Not Available
+1651,1.4 BUSD,Farkhad Akhmedov,62,Energy  ==> investments,None,Male
+1652,1.4 BUSD,Alberto Alcocer,75,Finance and Investments  ==> investments,None,Male
+1653,1.4 BUSD,Bassam Alghanim,66,Diversified  ==> diversified,None,Male
+1654,1.4 BUSD,Kutayba Alghanim,72,Diversified  ==> diversified,None,Not Available
+1655,1.4 BUSD,Alexandra Andresen,20,Diversified  ==> investments,Norway,Female
+1656,1.4 BUSD,Katharina Andresen,22,Diversified  ==> investments,Norway,Female
+1657,1.4 BUSD,Vasily Anisimov,66,Metals & Mining  ==> real estate,None,Not Available
+1658,1.4 BUSD,Mori Arkin,65,Healthcare  ==> pharmaceuticals,None,Male
+1659,1.4 BUSD,Nigel Austin,47,Fashion & Retail  ==> retailing,None,Male
+1660,1.4 BUSD,Krishna Kumar Bangur,57,Manufacturing  ==> graphite electrodes,None,Male
+1661,1.4 BUSD,Herb Chambers,76,Automotive  ==> car dealerships,None,Male
+1662,1.4 BUSD,R.G. Chandramogan,69,Food and Beverage  ==> dairy,India,Male
+1663,1.4 BUSD,Chang Pyung-Soon,67,Service  ==> educational services,None,Not Available
+1664,1.4 BUSD,Chao Teng-Hsiung,74,Real Estate  ==> real estate,None,Male
+1665,1.4 BUSD,Chen Liying,42,Logistics  ==> package delivery,None,Female
+1666,1.4 BUSD,Chen Tianqiao,45,Technology  ==> online games,None,Male
+1667,1.4 BUSD,Henry Cheng,71,Diversified  ==> property,None,Not Available
+1668,1.4 BUSD,Chey Ki-Won,53,"Technology  ==> computer services, telecom",None,Female
+1669,1.4 BUSD,Chi Yufeng,47,Technology  ==> software,China,Male
+1670,1.4 BUSD,Chua Thian Poh,69,Real Estate  ==> real estate,None,Male
+1671,1.4 BUSD,Chung Yong-Jin,49,Fashion & Retail  ==> retail,None,Male
+1672,1.4 BUSD,Ciputra,86,Real Estate  ==> real estate,None,Male
+1673,1.4 BUSD,Alberto Cortina,72,Finance and Investments  ==> investments,None,Male
+1674,1.4 BUSD,"Robert Coyiuto, Jr.",65,Energy  ==> power,None,Not Available
+1675,1.4 BUSD,Maria Del Pino Y Calvo-Sotelo,62,Construction & Engineering  ==> construction,Spain,Not Available
+1676,1.4 BUSD,K. Dinesh,64,Technology  ==> software services,India,Male
+1677,1.4 BUSD,Du Weimin,54,Healthcare  ==> vaccines,China,Male
+1678,1.4 BUSD,John Edson,86,Manufacturing  ==> leisure craft,United States,Not Available
+1679,1.4 BUSD,David Einhorn,49,Finance and Investments  ==> hedge funds,None,Male
+1680,1.4 BUSD,Bob Ell,73,Construction & Engineering  ==> real estate,None,Male
+1681,1.4 BUSD,Gary Fegel,44,"Metals & Mining  ==> commodities, investments",None,Male
+1682,1.4 BUSD,Victor Fung,72,Logistics  ==> trading company,None,Male
+1683,1.4 BUSD,William Fung,69,Fashion & Retail  ==> sourcing,Hong Kong,Male
+1684,1.4 BUSD,Alan Gerry,89,Media & Entertainment  ==> cable television,None,Male
+1685,1.4 BUSD,Balkrishan Goenka,51,Manufacturing  ==> textiles,None,Not Available
+1686,1.4 BUSD,Polys Haji-Ioannou,58,Service  ==> EasyJet,None,Male
+1687,1.4 BUSD,Mehmet Hattat,72,Diversified  ==> diversified,None,Male
+1688,1.4 BUSD,J. Tomilson Hill,70,Finance and Investments  ==> investments,None,Male
+1689,1.4 BUSD,Eduardo Hochschild,54,Metals & Mining  ==> mining,None,Male
+1690,1.4 BUSD,Hoi Kin Hong,65,Real Estate  ==> real estate,None,Male
+1691,1.4 BUSD,Hur Young-In,69,"Food and Beverage  ==> bakeries, fast food",None,Male
+1692,1.4 BUSD,George Joseph,96,Finance and Investments  ==> insurance,United States,Male
+1693,1.4 BUSD,Ronald Joyce,87,Food and Beverage  ==> coffee chain,None,Male
+1694,1.4 BUSD,T.S. Kalyanaraman,71,Fashion & Retail  ==> jewelry,None,Not Available
+1695,1.4 BUSD,Nimesh Kampani,71,Finance and Investments  ==> investment banking,None,Male
+1696,1.4 BUSD,Eugene Kaspersky,52,Technology  ==> software,None,Not Available
+1697,1.4 BUSD,Viktor Kharitonin,45,Healthcare  ==> pharmaceuticals,None,Male
+1698,1.4 BUSD,Pyotr Kondrashev,68,Manufacturing  ==> investments,Russia,Male
+1699,1.4 BUSD,Yuri Kovalchuk,66,"Finance and Investments  ==> banking, insurance, media",Russia,Male
+1700,1.4 BUSD,Kagemasa Kozuki,77,Technology  ==> video games,None,Male
+1701,1.4 BUSD,Michael Krasny,64,Technology  ==> retail,United States,Male
+1702,1.4 BUSD,James Leininger,73,Healthcare  ==> medical products,None,Not Available
+1703,1.4 BUSD,Li Guoqiang,54,Automotive  ==> auto dealerships,None,Male
+1704,1.4 BUSD,Li Liangbin,50,Manufacturing  ==> lithium,None,Male
+1705,1.4 BUSD,Liu Ko-Chen,64,Technology  ==> Manufacturing,Taiwan,Not Available
+1706,1.4 BUSD,Anatoly Lomakin,65,Metals & Mining  ==> investments,None,Not Available
+1707,1.4 BUSD,Ma Hong,50,Fashion & Retail  ==> fashion retail,China,Male
+1708,1.4 BUSD,Gary Magness,64,"Media & Entertainment  ==> cable TV, investments",United States,Male
+1709,1.4 BUSD,Youssef Mansour,73,Diversified  ==> diversified,None,Male
+1710,1.4 BUSD,Strive Masiyiwa,57,Telecom  ==> telecom,None,Not Available
+1711,1.4 BUSD,Dariusz Milek,50,"Fashion & Retail  ==> real estate, retail",None,Male
+1712,1.4 BUSD,Nan Cunhui,54,Manufacturing  ==> power equipment,None,Male
+1713,1.4 BUSD,Dinesh Nandwana,55,Technology  ==> software services,India,Male
+1714,1.4 BUSD,Oei Hong Leong,70,Finance and Investments  ==> investments,None,Not Available
+1715,1.4 BUSD,Rubens Ometto Silveira Mello,68,"Energy  ==> sugar, ethanol",None,Not Available
+1716,1.4 BUSD,Ou Xueming,69,Real Estate  ==> real estate,None,Male
+1717,1.4 BUSD,Markus Persson,39,Media & Entertainment  ==> computer games,None,Male
+1718,1.4 BUSD,Victor Pinchuk,57,"Metals & Mining  ==> steel pipes, diversified",None,Male
+1719,1.4 BUSD,Alberto Prada,62,Fashion & Retail  ==> luxury goods,Italy,Not Available
+1720,1.4 BUSD,Marina Prada,62,Fashion & Retail  ==> luxury goods,None,Female
+1721,1.4 BUSD,Forrest Preston,85,Healthcare  ==> health care,United States,Not Available
+1722,1.4 BUSD,Jerry Reinsdorf,82,Sports  ==> sports teams,United States,Male
+1723,1.4 BUSD,Fernando Roig,70,Fashion & Retail  ==> supermarkets,Spain,Male
+1724,1.4 BUSD,Subhash Runwal,75,Real Estate  ==> real estate,None,Male
+1725,1.4 BUSD,Yoshiyuki Sankai,59,Technology  ==> robotics,None,Male
+1726,1.4 BUSD,Kirill Shamalov,35,Energy  ==> petrochemicals,None,Male
+1727,1.4 BUSD,Shin Dong-Bin,63,Fashion & Retail  ==> retail,South Korea,Not Available
+1728,1.4 BUSD,Evgeny (Eugene) Shvidler,54,"Energy  ==> oil & gas, investments",None,Male
+1729,1.4 BUSD,Jasminder Singh,67,Real Estate  ==> hotels,None,Male
+1730,1.4 BUSD,Martua Sitorus,58,Manufacturing  ==> palm oil,None,Male
+1731,1.4 BUSD,Peter Sperling,58,Service  ==> education,None,Male
+1732,1.4 BUSD,Jerzy Starak,70,Healthcare  ==> pharmaceuticals,Poland,Male
+1733,1.4 BUSD,Manny Stul,69,Manufacturing  ==> toys,None,Male
+1734,1.4 BUSD,Su Rubo,63,Real Estate  ==> real estate,China,Male
+1735,1.4 BUSD,Fuat Tosyali,55,Metals & Mining  ==> steel,Turkey,Male
+1736,1.4 BUSD,Kenny Troutt,70,Telecom  ==> telecom,None,Not Available
+1737,1.4 BUSD,Rufino Vigil Gonzalez,70,Metals & Mining  ==> steel,None,Male
+1738,1.4 BUSD,Wang Jianfeng,48,Automotive  ==> auto parts,China,Not Available
+1739,1.4 BUSD,Wang Jing,45,Telecom  ==> telecom services,China,Male
+1740,1.4 BUSD,Wang Qunbin,48,Diversified  ==> conglomerate,China,Male
+1741,1.4 BUSD,Dan Wilks,62,Energy  ==> natural gas,None,Male
+1742,1.4 BUSD,Farris Wilks,66,Energy  ==> natural gas,None,Male
+1743,1.4 BUSD,Thomas Wu,68,Finance and Investments  ==> finance,None,Male
+1744,1.4 BUSD,Yi Zheng,47,Technology  ==> software,China,Male
+1745,1.4 BUSD,Yuan Fugen,67,Manufacturing  ==> metal processing,None,Male
+1746,1.4 BUSD,"Richard Yuengling, Jr.",75,Food and Beverage  ==> beer,United States,Male
+1747,1.4 BUSD,Gavril Yushvaev,60,"Finance and Investments  ==> precious metals, real estate",None,Male
+1748,1.4 BUSD,Zeng Kaitian,43,Technology  ==> online games,None,Male
+1749,1.4 BUSD,Zhang Wanzhen,68,Manufacturing  ==> electronic components,None,Male
+1750,1.4 BUSD,Zhang Yubai,53,Food and Beverage  ==> wine,None,Not Available
+1751,1.4 BUSD,Changpeng Zhao,62,Finance and Investments  ==> cryptocurrency,None,Not Available
+1752,1.4 BUSD,Zhou Yifeng,49,Manufacturing  ==> chemicals,China,Male
+1753,1.4 BUSD,Zhou Yongli,63,Manufacturing  ==> conglomerate,China,Not Available
+1754,1.4 BUSD,Zhu Wenchen,52,Healthcare  ==> pharmaceuticals,None,Male
+1755,1.4 BUSD,Ahmet Nazif Zorlu,73,Diversified  ==> diversified,None,Male
+1756,1.3 BUSD,Len Ainsworth,94,Gambling & Casinos  ==> betting machines,None,Not Available
+1757,1.3 BUSD,Edmund Ansin,82,Media & Entertainment  ==> television,None,Male
+1758,1.3 BUSD,Markus Blocher,47,Manufacturing  ==> chemicals,None,Male
+1759,1.3 BUSD,Leonid Boguslavsky,67,Finance and Investments  ==> venture capital,None,Male
+1760,1.3 BUSD,Jorge Horacio Brito,65,Finance and Investments  ==> banking,None,Male
+1761,1.3 BUSD,Saket Burman,41,Food and Beverage  ==> consumer goods,None,Male
+1762,1.3 BUSD,Steve Case,59,Technology  ==> AOL,United States,Male
+1763,1.3 BUSD,Jeffrey Cheah,73,Real Estate  ==> property,None,Male
+1764,1.3 BUSD,Bruce Cheng,82,Technology  ==> electronics,None,Not Available
+1765,1.3 BUSD,Cheng Xianfeng,49,Healthcare  ==> pharmaceuticals,None,Male
+1766,1.3 BUSD,Ivan Chrenko,50,Real Estate  ==> real estate,Slovakia,Male
+1767,1.3 BUSD,Eduardo Cojuangco,83,"Food and Beverage  ==> food, drinks",Philippines,Male
+1768,1.3 BUSD,Brunello Cucinelli,64,Fashion & Retail  ==> fashion,None,Not Available
+1769,1.3 BUSD,Darwin Deason,78,Service  ==> Xerox,United States,Male
+1770,1.3 BUSD,Andrea Della Valle,52,Fashion & Retail  ==> shoes,Italy,Male
+1771,1.3 BUSD,Jamie Dimon,62,Finance and Investments  ==> banking,United States,Male
+1772,1.3 BUSD,Charles Dunstone,54,Telecom  ==> mobile phones,None,Male
+1773,1.3 BUSD,Bruce Flatt,53,Finance and Investments  ==> money management,None,Male
+1774,1.3 BUSD,Fu Meicheng,60,"Media & Entertainment  ==> TV shows, movies",None,Male
+1775,1.3 BUSD,Soichiro Fukutake,72,Service  ==> education,None,Male
+1776,1.3 BUSD,Don Gao,53,Manufacturing  ==> power tools,China,Male
+1777,1.3 BUSD,Gao Yunfeng,51,Manufacturing  ==> industrial lasers,China,Male
+1778,1.3 BUSD,Anne Gittinger,82,Fashion & Retail  ==> Nordstrom department stores,United States,Female
+1779,1.3 BUSD,Clelia Haji-Ioannou,47,Service  ==> EasyJet,None,Female
+1780,1.3 BUSD,John Hancock,42,Metals & Mining  ==> trust fund,Australia,Male
+1781,1.3 BUSD,Ronnen Harary,46,Manufacturing  ==> toys,None,Not Available
+1782,1.3 BUSD,Ayman Hariri,40,"Construction & Engineering  ==> construction, investments",None,Male
+1783,1.3 BUSD,Fahd Hariri,36,"Construction & Engineering  ==> construction, investments",None,Male
+1784,1.3 BUSD,Surendra Hiranandani,63,Real Estate  ==> real estate,None,Male
+1785,1.3 BUSD,Alan Howard,54,Finance and Investments  ==> hedge funds,United Kingdom,Male
+1786,1.3 BUSD,Hu Keqin,60,Diversified  ==> chemicals,None,Male
+1787,1.3 BUSD,Archie Hwang,62,Technology  ==> semiconductors,Taiwan,Male
+1788,1.3 BUSD,Irwin Jacobs,84,Technology  ==> semiconductors,United States,Not Available
+1789,1.3 BUSD,Mitchell Jacobson,67,Service  ==> industrial equipment,United States,Not Available
+1790,1.3 BUSD,Rana Kapoor,60,Finance and Investments  ==> banking,India,Not Available
+1791,1.3 BUSD,Alexander Karp,50,Technology  ==> software firm,United States,Male
+1792,1.3 BUSD,Raghuvinder Kataria,69,Finance and Investments  ==> diversified,UK,Male
+1793,1.3 BUSD,Habil Khorakiwala,75,Healthcare  ==> pharmaceuticals,None,Male
+1794,1.3 BUSD,Sidney Kimmel,90,Fashion & Retail  ==> retail,United States,Male
+1795,1.3 BUSD,Andre Koo,51,Finance and Investments  ==> financial services,Taiwan,Male
+1796,1.3 BUSD,Koo Bon-Neung,69,Manufacturing  ==> electronics,None,Male
+1797,1.3 BUSD,Andrei Kosogov,57,"Energy  ==> oil, banking, telecom",None,Male
+1798,1.3 BUSD,Lee Ho-Jin,55,Diversified  ==> diversified,None,Male
+1799,1.3 BUSD,Solomon Lew,73,Fashion & Retail  ==> retail,None,Not Available
+1800,1.3 BUSD,Rodney Lewis,63,Energy  ==> natural gas,None,Male
+1801,1.3 BUSD,Li Jiaquan,54,Manufacturing  ==> chemicals,None,Male
+1802,1.3 BUSD,Lin Fanlian,57,Energy  ==> gas,None,Not Available
+1803,1.3 BUSD,Lin Jianhua,55,Manufacturing  ==> solar panel components,None,Male
+1804,1.3 BUSD,Lin Tianfu,55,"Fashion & Retail  ==> footwear, apparel",None,Not Available
+1805,1.3 BUSD,Louise Lindh,38,Diversified  ==> investments,None,Female
+1806,1.3 BUSD,Liu Baolin,65,Fashion & Retail  ==> pharmacies,China,Male
+1807,1.3 BUSD,Jose Llado Fernandez-Urrutia,84,Construction & Engineering  ==> construction,None,Not Available
+1808,1.3 BUSD,Lu Di,62,Technology  ==> drones,None,Male
+1809,1.3 BUSD,"Cargill Macmillan, Iii.",58,Food and Beverage  ==> Cargill,None,Male
+1810,1.3 BUSD,John Macmillan,68,Food and Beverage  ==> Cargill,None,Male
+1811,1.3 BUSD,Martha Macmillan,66,Food and Beverage  ==> Cargill,None,Not Available
+1812,1.3 BUSD,William Macmillan,64,Food and Beverage  ==> Cargill,None,Not Available
+1813,1.3 BUSD,Katarina Martinson,36,Diversified  ==> investments,None,Female
+1814,1.3 BUSD,Craig Newmark,65,Technology  ==> Craigslist,None,Not Available
+1815,1.3 BUSD,Bruce Nordstrom,84,Fashion & Retail  ==> Nordstrom department stores,United States,Male
+1816,1.3 BUSD,Pierre Karl Péladeau,56,Media & Entertainment  ==> media,None,Male
+1817,1.3 BUSD,David Penaloza Alanis,44,Construction & Engineering  ==> toll roads,None,Male
+1818,1.3 BUSD,Andreas Pohl,53,Finance and Investments  ==> mutual funds,Germany,Not Available
+1819,1.3 BUSD,"Reinfried Pohl, Jr.",58,Finance and Investments  ==> mutual funds,None,Male
+1820,1.3 BUSD,Mahendra Prasad,78,Healthcare  ==> pharmaceuticals,India,Male
+1821,1.3 BUSD,Anton Rabie,46,Manufacturing  ==> toys,None,Male
+1822,1.3 BUSD,Bianca Rinehart,41,Metals & Mining  ==> trust fund,None,Female
+1823,1.3 BUSD,Ginia Rinehart,30,Metals & Mining  ==> trust fund,None,Female
+1824,1.3 BUSD,Alexander Rovt,65,"Manufacturing  ==> fertilizer, real estate",United States,Male
+1825,1.3 BUSD,Lily Safra,80,Finance and Investments  ==> banking,None,Female
+1826,1.3 BUSD,Deniz Sahenk,72,Diversified  ==> diversified,Turkey,Female
+1827,1.3 BUSD,Karin Schick,62,Technology  ==> information technology,None,Female
+1828,1.3 BUSD,Leonard Schleifer,65,Healthcare  ==> pharmaceuticals,United States,Not Available
+1829,1.3 BUSD,Dieter Schnabel,72,Manufacturing  ==> chemicals,None,Male
+1830,1.3 BUSD,Bhadresh Shah,66,Manufacturing  ==> engineering,None,Not Available
+1831,1.3 BUSD,Shao Qinxiang,63,Manufacturing  ==> diversified,None,Male
+1832,1.3 BUSD,Eric Ya Shen,47,Technology  ==> online apparel retail,None,Not Available
+1833,1.3 BUSD,Nobutoshi Shimamura,92,Fashion & Retail  ==> retail,None,Not Available
+1834,1.3 BUSD,Shum Chiu Hung,48,Real Estate  ==> real estate,None,Not Available
+1835,1.3 BUSD,Helmut Sohmen,78,Logistics  ==> shipping,None,Male
+1836,1.3 BUSD,Sun Qinghuan,45,Technology  ==> lighting,China,Male
+1837,1.3 BUSD,Sun Yinhuan,68,Real Estate  ==> real estate,China,Not Available
+1838,1.3 BUSD,Djoko Susanto,68,Fashion & Retail  ==> supermarkets,None,Male
+1839,1.3 BUSD,Erol Tabanca,61,Construction & Engineering  ==> Construction,None,Male
+1840,1.3 BUSD,Alexander Tedja,72,Real Estate  ==> real estate,None,Not Available
+1841,1.3 BUSD,Wilma Tisch,90,Finance and Investments  ==> diversified,United States,Female
+1842,1.3 BUSD,Ayhan Tosyali,54,Metals & Mining  ==> steel,None,Male
+1843,1.3 BUSD,Fatih Tosyali,52,Metals & Mining  ==> steel,None,Male
+1844,1.3 BUSD,Tran Dinh Long,57,"Manufacturing  ==> steel, heavy industry",None,Male
+1845,1.3 BUSD,Tsai Ming-Kai,68,Technology  ==> semiconductors,None,Male
+1846,1.3 BUSD,Pavel Tykac,54,Metals & Mining  ==> coal mines,None,Not Available
+1847,1.3 BUSD,Jayshree Ullal,57,Technology  ==> technology,United States,Female
+1848,1.3 BUSD,Wan Long,77,Food and Beverage  ==> food,None,Not Available
+1849,1.3 BUSD,Wang Muqing,67,Automotive  ==> auto distribution,None,Male
+1850,1.3 BUSD,Wang Yong,68,Food and Beverage  ==> food sweeteners,China,Not Available
+1851,1.3 BUSD,Hope Welker,31,Metals & Mining  ==> trust fund,None,Female
+1852,1.3 BUSD,Wen Yibo,52,Service  ==> wastewater treatment,China,Not Available
+1853,1.3 BUSD,Stephen T. Winn,71,Real Estate  ==> real estate services,United States,Male
+1854,1.3 BUSD,Gordon Wu,83,Real Estate  ==> real estate,None,Not Available
+1855,1.3 BUSD,Wu Lanlan,44,Manufacturing  ==> packaging,None,Female
+1856,1.3 BUSD,Xu Ziquan,59,Technology  ==> software,None,Not Available
+1857,1.3 BUSD,Yang Meirong,62,Service  ==> education,China,Not Available
+1858,1.3 BUSD,Yang Tingdong,58,Food and Beverage  ==> brewery,None,Male
+1859,1.3 BUSD,You Xiaoping,60,"Manufacturing  ==> chemicals, spandex",None,Not Available
+1860,1.3 BUSD,Yu Peidi,58,Real Estate  ==> real estate,None,Male
+1861,1.3 BUSD,Yu Qibing,52,Manufacturing  ==> glass,None,Not Available
+1862,1.3 BUSD,Yu Yunxin,56,Fashion & Retail  ==> costume jewelry,None,Not Available
+1863,1.3 BUSD,Zan Shengda,55,Diversified  ==> diversified,None,Male
+1864,1.3 BUSD,Zhang Guiping,66,Real Estate  ==> real estate,None,Not Available
+1865,1.3 BUSD,Zhao Weiguo,51,Technology  ==> IT products,None,Male
+1866,1.3 BUSD,Zheng Jianjiang,57,Manufacturing  ==> electrical equipment,None,Male
+1867,1.2 BUSD,Hamad Bin Jassim Bin Jaber Al Thani,58,Finance and Investments  ==> investments,None,Male
+1868,1.2 BUSD,Fawzi Al-Kharafi,62,Diversified  ==> diversified,None,Male
+1869,1.2 BUSD,Mohannad Al-Kharafi,62,Diversified  ==> diversified,None,Male
+1870,1.2 BUSD,Isak Andic,64,Fashion & Retail  ==> fashion retail,None,Not Available
+1871,1.2 BUSD,Marc Andreessen,46,Finance and Investments  ==> venture capital investing,United States,Male
+1872,1.2 BUSD,Jose Maria Aristrain,55,Metals & Mining  ==> Steel,Spain,Male
+1873,1.2 BUSD,Thomas Bailey,81,Finance and Investments  ==> money management,United States,Male
+1874,1.2 BUSD,Harindarpal Banga,67,Finance and Investments  ==> commodities,None,Not Available
+1875,1.2 BUSD,Elena Baturina,55,"Construction & Engineering  ==> investments, real estate",Russia,Female
+1876,1.2 BUSD,Eduardo Belmont Anderson,72,Fashion & Retail  ==> cosmetics,None,Male
+1877,1.2 BUSD,Tomasz Biernacki,45,Fashion & Retail  ==> supermarkets,None,Male
+1878,1.2 BUSD,Zadik Bino,74,"Diversified  ==> banking, oil",None,Male
+1879,1.2 BUSD,Brett Blundy,58,"Fashion & Retail  ==> retail, agribusiness",None,Male
+1880,1.2 BUSD,Henadiy Boholyubov,56,"Diversified  ==> banking, investments",None,Not Available
+1881,1.2 BUSD,Charles Brandes,75,Finance and Investments  ==> money management,None,Not Available
+1882,1.2 BUSD,Amit Burman,48,Food and Beverage  ==> consumer goods,None,Male
+1883,1.2 BUSD,Cai Dongqing,49,Media & Entertainment  ==> animation,China,Male
+1884,1.2 BUSD,Chen Bo,47,Energy  ==> wind power generation,China,Not Available
+1885,1.2 BUSD,Cheng Wei,34,Service  ==> ride-hailing service,None,Male
+1886,1.2 BUSD,Phongthep Chiaravanont,66,Diversified  ==> diversified,Thailand,Male
+1887,1.2 BUSD,Kochouseph Chittilappilly,67,Manufacturing  ==> manufacturing,None,Male
+1888,1.2 BUSD,Chu Jinfu,61,Manufacturing  ==> electrical equipment,None,Male
+1889,1.2 BUSD,Eduardo Costantini,71,Real Estate  ==> real estate,Argentina,Male
+1890,1.2 BUSD,Sol Daurella,52,Food and Beverage  ==> Coca-Cola,Spain,Female
+1891,1.2 BUSD,Philip Day,52,Fashion & Retail  ==> clothing retail,None,Male
+1892,1.2 BUSD,D. Leopoldo Del Pino Y Calvo-Sotelo,55,Construction & Engineering  ==> construction,None,Male
+1893,1.2 BUSD,Norbert Dentressangle,63,"Logistics  ==> transport, logistics",None,Male
+1894,1.2 BUSD,Beda Diethelm,77,Healthcare  ==> hearing aids,None,Male
+1895,1.2 BUSD,Mark Dixon,59,Real Estate  ==> office real estate,None,Male
+1896,1.2 BUSD,Henry Engelhardt,60,Finance and Investments  ==> insurance,United States,Male
+1897,1.2 BUSD,Fang Hongbo,51,Manufacturing  ==> home appliances,None,Male
+1898,1.2 BUSD,Gleb Fetisov,52,Telecom  ==> investments,None,Male
+1899,1.2 BUSD,Donald Foss,74,Automotive  ==> auto loans,None,Not Available
+1900,1.2 BUSD,Robert Friedland,67,Metals & Mining  ==> mining,United States,Male
+1901,1.2 BUSD,Donald Friese,77,Manufacturing  ==> manufacturing,United States,Not Available
+1902,1.2 BUSD,Fu Guangming,64,Food and Beverage  ==> poultry,China,Male
+1903,1.2 BUSD,Dan Gertler,44,Metals & Mining  ==> mining,None,Male
+1904,1.2 BUSD,Dennis Gillings,74,Healthcare  ==> drug testing,None,Male
+1905,1.2 BUSD,Ryan Graves,33,Technology  ==> uber,United States,Not Available
+1906,1.2 BUSD,Gu Wei,53,Manufacturing  ==> consumer electronics,China,Not Available
+1907,1.2 BUSD,Alfredo Harp Helu,74,Finance and Investments  ==> banking,None,Male
+1908,1.2 BUSD,Gudrun Heine,63,Healthcare  ==> medical devices,None,Female
+1909,1.2 BUSD,Francis Holder,77,Food and Beverage  ==> bakeries,None,Male
+1910,1.2 BUSD,Hong Seok-Joh,65,Fashion & Retail  ==> convenience stores,None,Male
+1911,1.2 BUSD,Douglas Hsu,75,Diversified  ==> diversified,None,Not Available
+1912,1.2 BUSD,Huang Jianrong,60,Metals & Mining  ==> minerals,China,Male
+1913,1.2 BUSD,"B. Wayne Hughes, Jr.",57,Real Estate  ==> storage facilities,None,Not Available
+1914,1.2 BUSD,Daisy Igel,90,"Energy  ==> gas, petrochemicals",None,Female
+1915,1.2 BUSD,Thomas James,76,Finance and Investments  ==> finance,None,Male
+1916,1.2 BUSD,Jiang Ganjun,54,Manufacturing  ==> home & office products,None,Not Available
+1917,1.2 BUSD,Jiang Zhaobai,54,Real Estate  ==> real estate,China,Male
+1918,1.2 BUSD,Jin Huiming,65,Real Estate  ==> real estate,China,Not Available
+1919,1.2 BUSD,Ajay Kalsi,57,Energy  ==> oil & gas,India,Not Available
+1920,1.2 BUSD,Helga Kellerhals,78,Fashion & Retail  ==> electronics retailer,Germany,Female
+1921,1.2 BUSD,King Pak Fu,48,Real Estate  ==> real estate,None,Male
+1922,1.2 BUSD,Sergei Kolesnikov,46,Manufacturing  ==> building materials,None,Male
+1923,1.2 BUSD,Hemendra Kothari,71,Finance and Investments  ==> Financial Services,None,Male
+1924,1.2 BUSD,Eiichi Kuriwada,71,Logistics  ==> package delivery,None,Male
+1925,1.2 BUSD,Guy Laliberté,58,Media & Entertainment  ==> Cirque du Soleil,None,Male
+1926,1.2 BUSD,Lee Hae-Jin,51,Technology  ==> Internet,South Korea,Male
+1927,1.2 BUSD,Michael Lee-Chin,67,Finance and Investments  ==> mutual funds,None,Male
+1928,1.2 BUSD,Li Guangyu,54,Service  ==> education,None,Male
+1929,1.2 BUSD,Li Jun,53,Manufacturing  ==> electronics,None,Male
+1930,1.2 BUSD,Li Rucheng,67,Fashion & Retail  ==> apparel,None,Male
+1931,1.2 BUSD,Li Xuhui,50,Food and Beverage  ==> soy sauce maker,China,Not Available
+1932,1.2 BUSD,Lim Wee Chai,60,Manufacturing  ==> rubber gloves,None,Male
+1933,1.2 BUSD,Liu Jiang,50,Energy  ==> gas,None,Male
+1934,1.2 BUSD,Liu Xuejing,67,"Diversified  ==> copper, poultry",None,Not Available
+1935,1.2 BUSD,Liu Zhenguo,53,Service  ==> sewage treatment,None,Male
+1936,1.2 BUSD,Lo Ka Shui,71,Real Estate  ==> real estate,None,Not Available
+1937,1.2 BUSD,Lo Siu-Tong,88,"Real Estate  ==> real estate, hotels",None,Not Available
+1938,1.2 BUSD,Tobi Lutke,36,Technology  ==> e-commerce,None,Not Available
+1939,1.2 BUSD,Ma Yunsheng,55,Diversified  ==> energy,China,Not Available
+1940,1.2 BUSD,Ziyavudin Magomedov,49,"Energy  ==> port, gas",None,Male
+1941,1.2 BUSD,Ana Maria Marcondes Penido Sant'Anna,62,Construction & Engineering  ==> toll roads,None,Female
+1942,1.2 BUSD,Terence (Terry) Matthews,75,Telecom  ==> telecom,Canada,Male
+1943,1.2 BUSD,Gail Miller,74,"Automotive  ==> basketball, car dealers",None,Female
+1944,1.2 BUSD,Andrei Molchanov,46,Construction & Engineering  ==> construction materials,None,Not Available
+1945,1.2 BUSD,Ni Zhaoxing,62,Real Estate  ==> real estate,China,Male
+1946,1.2 BUSD,Kentaro Ogawa,69,Food and Beverage  ==> restaurants,Japan,Not Available
+1947,1.2 BUSD,Erik Paulsson,76,"Real Estate  ==> construction, real estate",Sweden,Male
+1948,1.2 BUSD,Peng Hao,51,Manufacturing  ==> electronics,China,Not Available
+1949,1.2 BUSD,Stefan Pierer,61,Automotive  ==> automotive,Austria,Not Available
+1950,1.2 BUSD,Michael Price,65,Finance and Investments  ==> investments,None,Male
+1951,1.2 BUSD,Clayton Riddell,80,Energy  ==> oil & gas,None,Male
+1952,1.2 BUSD,Boris Rotenberg,61,"Construction & Engineering  ==> construction, pipes, chemicals",None,Male
+1953,1.2 BUSD,Igor Rybakov,46,Manufacturing  ==> building materials,None,Male
+1954,1.2 BUSD,Stephen Saad,54,Healthcare  ==> pharmaceuticals,None,Male
+1955,1.2 BUSD,K. Rai Sahi,72,Real Estate  ==> real estate,None,Male
+1956,1.2 BUSD,Airat Shaimiev,56,"Energy  ==> refinery, chemicals",Russia,Not Available
+1957,1.2 BUSD,Radik Shaimiev,53,"Energy  ==> refinery, chemicals",None,Male
+1958,1.2 BUSD,Shang Jiyong,50,"Diversified  ==> tires, chemicals",China,Male
+1959,1.2 BUSD,Mikhail Shelkov,50,Metals & Mining  ==> titanium,None,Male
+1960,1.2 BUSD,S.D. Shibulal,63,Technology  ==> software services,None,Male
+1961,1.2 BUSD,Ron Sim,59,Fashion & Retail  ==> retail,None,Not Available
+1962,1.2 BUSD,Leonid Simanovsky,68,Finance and Investments  ==> investments,Russia,Male
+1963,1.2 BUSD,Basudeo Singh,77,Healthcare  ==> pharmaceuticals,India,Not Available
+1964,1.2 BUSD,Samprada Singh,92,Healthcare  ==> pharmaceuticals,India,Male
+1965,1.2 BUSD,Terry Snow,74,"Real Estate  ==> airports, real estate",None,Not Available
+1966,1.2 BUSD,Lynsi Snyder,35,Food and Beverage  ==> In-N-Out Burger,United States,Female
+1967,1.2 BUSD,Sybill Storz,81,Healthcare  ==> medical devices,None,Female
+1968,1.2 BUSD,Harjo Sutanto,92,Fashion & Retail  ==> consumer goods,Indonesia,Male
+1969,1.2 BUSD,Yoshikazu Tanaka,41,Technology  ==> social network,None,Male
+1970,1.2 BUSD,Mehmet Sinan Tara,60,Construction & Engineering  ==> construction,Turkey,Not Available
+1971,1.2 BUSD,Rit Thirakomen,66,Food and Beverage  ==> restaurants,Thailand,Male
+1972,1.2 BUSD,Tian Ming,64,Technology  ==> measuring instruments,None,Male
+1973,1.2 BUSD,Ion Tiriac,79,"Finance and Investments  ==> banking, insurance",None,Male
+1974,1.2 BUSD,Ivar Tollefsen,57,Real Estate  ==> Real estate,Norway,Not Available
+1975,1.2 BUSD,Mustafa Latif Topbas,74,"Fashion & Retail  ==> food, retail",Turkey,Male
+1976,1.2 BUSD,Thomas Tull,48,Media & Entertainment  ==> movies,None,Not Available
+1977,1.2 BUSD,John Van Lieshout,72,Real Estate  ==> real estate,None,Male
+1978,1.2 BUSD,Wang Han,29,Diversified  ==> airline,China,Male
+1979,1.2 BUSD,Wang Junjin,49,Service  ==> airline,None,Male
+1980,1.2 BUSD,Wang Wenbiao,61,"Manufacturing  ==> natural gas, fertilizers",None,Male
+1981,1.2 BUSD,"Alfred West, Jr.",75,Finance and Investments  ==> money management,None,Male
+1982,1.2 BUSD,Wu Daohong,52,Energy  ==> energy services,China,Male
+1983,1.2 BUSD,Wu Yiling,68,Healthcare  ==> pharmaceuticals,China,Male
+1984,1.2 BUSD,Xiu Laigui,63,Healthcare  ==> pharmaceuticals,China,Male
+1985,1.2 BUSD,Xu Xiong,46,Service  ==> driving schools,China,Male
+1986,1.2 BUSD,Xu Xudong,48,Automotive  ==> auto parts,None,Not Available
+1987,1.2 BUSD,Xue Hua,48,Manufacturing  ==> Agribusiness,China,Not Available
+1988,1.2 BUSD,Vadim Yakunin,55,Healthcare  ==> pharmacy,Russia,Male
+1989,1.2 BUSD,Yan Yude,57,Service  ==> private schools,None,Male
+1990,1.2 BUSD,Yang Keng,57,Real Estate  ==> real estate,None,Male
+1991,1.2 BUSD,Yang Shaopeng,60,Logistics  ==> Shipping,None,Male
+1992,1.2 BUSD,Zhang Cheng Fei,50,Manufacturing  ==> paper & related products,China,Male
+1993,1.2 BUSD,Zhang Jingzhang,82,Manufacturing  ==> precision machinery,None,Male
+1994,1.2 BUSD,Zhang Keqiang,58,Real Estate  ==> real estate,None,Male
+1995,1.2 BUSD,Zhang Xuanning,48,Fashion & Retail  ==> retail,China,Not Available
+1996,1.2 BUSD,Zhang Zhangsun,61,Real Estate  ==> real estate,None,Male
+1997,1.2 BUSD,Zhou Bajin,83,Manufacturing  ==> auto parts,China,Not Available
+1998,1.2 BUSD,Zhou Wenyu,53,Real Estate  ==> real estate,None,Male
+1999,1.1 BUSD,William Ackman,52,Finance and Investments  ==> hedge funds,United States,Male
+2000,1.1 BUSD,Soegiarto Adikoesoemo,80,Logistics  ==> chemicals,Indonesia,Male
+2001,1.1 BUSD,Ali Ibrahim Agaoglu,64,Construction & Engineering  ==> construction,Turkey,Male
+2002,1.1 BUSD,Hamdi Akin,63,Diversified  ==> diversified,None,Male
+2003,1.1 BUSD,Chirayu Amin,71,Healthcare  ==> pharmaceuticals,None,Male
+2004,1.1 BUSD,Mehmet Aydinlar,61,Healthcare  ==> hospitals,Turkey,Male
+2005,1.1 BUSD,Emanuella Barilla,51,Food and Beverage  ==> Barilla pasta,None,Female
+2006,1.1 BUSD,Guido Barilla,59,Food and Beverage  ==> Barilla pasta,Italy,Not Available
+2007,1.1 BUSD,Luca Barilla,58,Food and Beverage  ==> Barilla pasta,None,Male
+2008,1.1 BUSD,Paolo Barilla,57,Food and Beverage  ==> Barilla pasta,None,Male
+2009,1.1 BUSD,Mehmet Rustu Basaran,71,"Energy  ==> banking, gas",Turkey,Male
+2010,1.1 BUSD,J. Hyatt Brown,80,Finance and Investments  ==> insurance,None,Not Available
+2011,1.1 BUSD,Bu Yang,62,Fashion & Retail  ==> retail,None,Female
+2012,1.1 BUSD,Hideyuki Busujima,65,Gambling & Casinos  ==> pachinko machines,Japan,Male
+2013,1.1 BUSD,Cai Rongjun,45,Technology  ==> electronic components,None,Not Available
+2014,1.1 BUSD,Cai Xiaoru,38,Technology  ==> electronic components,None,Male
+2015,1.1 BUSD,Delfin Jorge Ezequiel Carballo,65,Finance and Investments  ==> banking,None,Not Available
+2016,1.1 BUSD,Chen Jinshi,55,"Real Estate  ==> construction, real estate",None,Male
+2017,1.1 BUSD,Chen Qixing,58,Technology  ==> electronics components,None,Male
+2018,1.1 BUSD,Chen Shiliang,54,Manufacturing  ==> polyester,China,Male
+2019,1.1 BUSD,Chen Xiaxin,56,Diversified  ==> industrial machinery,None,Male
+2020,1.1 BUSD,Manas Chiaravanond,62,Diversified  ==> diversified,None,Not Available
+2021,1.1 BUSD,Yupa Chiaravanond,62,Diversified  ==> diversified,None,Not Available
+2022,1.1 BUSD,Prathip Chiravanond,62,Diversified  ==> diversified,Thailand,Male
+2023,1.1 BUSD,Gustavo Cisneros,73,Media & Entertainment  ==> media,Venezuela,Not Available
+2024,1.1 BUSD,Sandor Csanyi,65,"Diversified  ==> finance, real estate",None,Male
+2025,1.1 BUSD,Cui Lijie,60,Gambling & Casinos  ==> gambling,None,Not Available
+2026,1.1 BUSD,Dang Yanbao,45,Metals & Mining  ==> coal,None,Male
+2027,1.1 BUSD,Bharat Desai,65,Technology  ==> IT consulting,United States,Male
+2028,1.1 BUSD,Joseph Edelman,63,Finance and Investments  ==> hedge funds,None,Male
+2029,1.1 BUSD,Wolfgang Egger,62,Real Estate  ==> real estate,Germany,Male
+2030,1.1 BUSD,Andrei Filatov,46,"Logistics  ==> ports, railway transport",None,Not Available
+2031,1.1 BUSD,Paul Fireman,74,Fashion & Retail  ==> Reebok,None,Not Available
+2032,1.1 BUSD,J. Christopher Flowers,60,Finance and Investments  ==> investments,None,Male
+2033,1.1 BUSD,Fu Kwan,60,"Diversified  ==> real estate, diversified",None,Male
+2034,1.1 BUSD,Sheela Gautam,86,Fashion & Retail  ==> mattresses,India,Not Available
+2035,1.1 BUSD,Drew Houston,34,Technology  ==> file hosting service,United States,Not Available
+2036,1.1 BUSD,Huang Shilin,51,Energy  ==> storage batteries,None,Male
+2037,1.1 BUSD,Huang Wen Tsai,64,Real Estate  ==> real estate,China,Not Available
+2038,1.1 BUSD,Mohammed Ibrahim,72,Telecom  ==> communications,None,Male
+2039,1.1 BUSD,Hiroshi Ishibashi,71,Automotive  ==> tires,Japan,Male
+2040,1.1 BUSD,Bent Jensen,66,Manufacturing  ==> electric linear systems,Denmark,Not Available
+2041,1.1 BUSD,Chatchai Kaewbootta,66,Finance and Investments  ==> auto loans,None,Male
+2042,1.1 BUSD,Jonas Kamprad,52,Finance and Investments  ==> IKEA,None,Male
+2043,1.1 BUSD,Mathias Kamprad,48,Finance and Investments  ==> IKEA,Sweden,Male
+2044,1.1 BUSD,Peter Kamprad,54,Finance and Investments  ==> IKEA,Sweden,Not Available
+2045,1.1 BUSD,Madhu Kapur,62,Finance and Investments  ==> banking,None,Female
+2046,1.1 BUSD,Richard Kayne,72,Finance and Investments  ==> investments,United States,Male
+2047,1.1 BUSD,Vladimir Kogan,55,Diversified  ==> banking,None,Not Available
+2048,1.1 BUSD,Koh Wee Meng,54,"Real Estate  ==> real estate, hotels",None,Male
+2049,1.1 BUSD,Koo Bon-Joon,66,"Technology  ==> electronics, household products",None,Male
+2050,1.1 BUSD,Lam Lung On,53,Real Estate  ==> real estate,China,Male
+2051,1.1 BUSD,Isaac Larian,64,Manufacturing  ==> toys,United States,Male
+2052,1.1 BUSD,Frank Laukien,58,Manufacturing  ==> scientific equipment,United States,Male
+2053,1.1 BUSD,Lee Joon-Ho,53,Technology  ==> online games,None,Male
+2054,1.1 BUSD,Lee Sang-Hyuk,47,Technology  ==> investments,None,Male
+2055,1.1 BUSD,Nancy Lerner,58,"Finance and Investments  ==> banking, credit cards",United States,Female
+2056,1.1 BUSD,Norma Lerner,82,Finance and Investments  ==> banking,None,Not Available
+2057,1.1 BUSD,Randolph Lerner,56,"Finance and Investments  ==> banking, credit cards",United States,Male
+2058,1.1 BUSD,David Xueling Li,45,Technology  ==> live streaming service,None,Male
+2059,1.1 BUSD,Li Tan,53,Healthcare  ==> pharmaceuticals,None,Not Available
+2060,1.1 BUSD,Li Weiguo,53,Manufacturing  ==> construction materials,None,Not Available
+2061,1.1 BUSD,Liang Feng,49,Manufacturing  ==> manufacturing,China,Male
+2062,1.1 BUSD,Liang Guangwei,54,Manufacturing  ==> conglomerate,China,Male
+2063,1.1 BUSD,Liang Shezeng,86,Real Estate  ==> real estate,None,Not Available
+2064,1.1 BUSD,Liao Chang,52,Food and Beverage  ==> wine,None,Male
+2065,1.1 BUSD,Jenny Lindén Urnes,47,Manufacturing  ==> powdered metal,Sweden,Female
+2066,1.1 BUSD,Liu Zhendong,47,Service  ==> industrial parks,None,Male
+2067,1.1 BUSD,Liu Zhiqiang,53,Diversified  ==> conglomerate,None,Not Available
+2068,1.1 BUSD,Jonathan Lu,49,Technology  ==> e-commerce,China,Male
+2069,1.1 BUSD,William Macaulay,72,Energy  ==> energy investments,None,Male
+2070,1.1 BUSD,John Martin,67,Healthcare  ==> pharmaceuticals,None,Male
+2071,1.1 BUSD,Yves-Loic Martin,52,Healthcare  ==> laboratory services,None,Male
+2072,1.1 BUSD,Satish Mehta,67,Healthcare  ==> pharmaceuticals,India,Not Available
+2073,1.1 BUSD,Nikita Mishin,46,"Logistics  ==> ports, railway transport",Russia,Not Available
+2074,1.1 BUSD,Konstantin Nikolaev,47,"Logistics  ==> ports, railway transport",None,Male
+2075,1.1 BUSD,Simon Nixon,50,Technology  ==> price comparison website,UK,Male
+2076,1.1 BUSD,Michael O'Leary,57,Service  ==> Ryanair,Ireland,Not Available
+2077,1.1 BUSD,Liora Ofer,64,Finance and Investments  ==> investments,None,Female
+2078,1.1 BUSD,Roberto Ongpin,81,Diversified  ==> diversified,None,Male
+2079,1.1 BUSD,Niti Osathanugrah,44,Finance and Investments  ==> investments,None,Male
+2080,1.1 BUSD,Frank Otto,60,Fashion & Retail  ==> retail,None,Not Available
+2081,1.1 BUSD,Gretel Packer,52,Media & Entertainment  ==> casinos,None,Not Available
+2082,1.1 BUSD,Alberto Palatchi,68,Fashion & Retail  ==> wedding dresses,Spain,Male
+2083,1.1 BUSD,Peng Jianhu,61,Media & Entertainment  ==> tourism,None,Male
+2084,1.1 BUSD,Lucy Peng,45,Technology  ==> e-commerce,None,Female
+2085,1.1 BUSD,Andrei Rappoport,55,Finance and Investments  ==> investments,None,Male
+2086,1.1 BUSD,Andrea Reimann-Ciardelli,61,Fashion & Retail  ==> consumer goods,None,Not Available
+2087,1.1 BUSD,Igor Rotenberg,45,"Diversified  ==> construction, real estate",None,Not Available
+2088,1.1 BUSD,Alan Rydge,66,Real Estate  ==> entertainment,None,Not Available
+2089,1.1 BUSD,Chris Sacca,43,Finance and Investments  ==> venture capital investing,United States,Male
+2090,1.1 BUSD,Alexander Samwer,43,Technology  ==> tech investments,None,Not Available
+2091,1.1 BUSD,Marc Samwer,47,Technology  ==> tech investments,None,Not Available
+2092,1.1 BUSD,Oliver Samwer,44,Technology  ==> tech investments,None,Male
+2093,1.1 BUSD,Neil Shen,50,Finance and Investments  ==> venture capital,None,Male
+2094,1.1 BUSD,Albert Shigaboutdinov,65,"Diversified  ==> refinery, chemicals",Russia,Male
+2095,1.1 BUSD,Shin Dong-Joo,64,Fashion & Retail  ==> retail,South Korea,Not Available
+2096,1.1 BUSD,Yoshiko Shinohara,83,Service  ==> staffing,None,Female
+2097,1.1 BUSD,Analjit Singh,64,Healthcare  ==> healthcare,None,Male
+2098,1.1 BUSD,Stephen Smith,67,Finance and Investments  ==> finance and investments,None,Not Available
+2099,1.1 BUSD,Michael Steinhardt,77,Finance and Investments  ==> finance,None,Male
+2100,1.1 BUSD,Svein Stole,55,Finance and Investments  ==> investments,None,Male
+2101,1.1 BUSD,Rustem Sulteev,64,"Energy  ==> refinery, chemicals",Russia,Male
+2102,1.1 BUSD,Julio Patricio Supervielle,61,Finance and Investments  ==> banking,Argentina,Not Available
+2103,1.1 BUSD,Min-Liang Tan,40,Media & Entertainment  ==> gaming,None,Male
+2104,1.1 BUSD,Hary Tanoesoedibjo,52,Media & Entertainment  ==> media,None,Male
+2105,1.1 BUSD,Sukanto Tanoto,68,Diversified  ==> diversified,None,Not Available
+2106,1.1 BUSD,Tiong Hiew King,83,"Diversified  ==> timber, media",None,Male
+2107,1.1 BUSD,Laurie Tisch,67,"Diversified  ==> insurance, NFL team",United States,Not Available
+2108,1.1 BUSD,Steven Tisch,69,Diversified  ==> insurance,None,Not Available
+2109,1.1 BUSD,James Truchard,74,Technology  ==> software,United States,Male
+2110,1.1 BUSD,Vardis Vardinoyannis,85,Energy  ==> oil and gas,Greece,Not Available
+2111,1.1 BUSD,Murat Vargi,70,Telecom  ==> telecom,None,Male
+2112,1.1 BUSD,Wan Lianbu,52,Manufacturing  ==> fertilizers,None,Male
+2113,1.1 BUSD,Wang Miaotong,61,Automotive  ==> auto parts,China,Male
+2114,1.1 BUSD,Wang Zhenghua,74,Service  ==> budget airline,None,Male
+2115,1.1 BUSD,Wen Jianping,56,Service  ==> sewage treatment,China,Not Available
+2116,1.1 BUSD,Myron Wentz,78,Fashion & Retail  ==> health products,None,Male
+2117,1.1 BUSD,Xia Zuoquan,56,Automotive  ==> automobiles,China,Not Available
+2118,1.1 BUSD,Swift Xie,62,Technology  ==> drones,None,Not Available
+2119,1.1 BUSD,Yao Jinbo,42,Technology  ==> online marketplace,None,Male
+2120,1.1 BUSD,Fatma Tuba Yazici,45,Diversified  ==> diversified,None,Not Available
+2121,1.1 BUSD,Zhang Zhirong,49,"Diversified  ==> real estate, shipbuilding",Hong Kong,Male
+2122,1.1 BUSD,Zhao Yan,51,"Diversified  ==> real estate, finance",None,Not Available
+2123,1.1 BUSD,Zhou Zongwen,61,Fashion & Retail  ==> jewelry,China,Male
+2124,1.0 BUSD,Raamdeo Agrawal,61,Finance and Investments  ==> financial services,India,Male
+2125,1.0 BUSD,Maurizio Billi,60,Healthcare  ==> generic drugs,Brazil,Male
+2126,1.0 BUSD,Sara Blakely,47,Fashion & Retail  ==> Spanx,None,Female
+2127,1.0 BUSD,Pete Bodharamik,45,Telecom  ==> telecom,None,Not Available
+2128,1.0 BUSD,Cao Kejian,56,Manufacturing  ==> air compressors,None,Male
+2129,1.0 BUSD,Morris Chang,86,Technology  ==> semiconductors,Taiwan,Not Available
+2130,1.0 BUSD,Richard Chang,71,"Real Estate  ==> real estate, electronics",None,Not Available
+2131,1.0 BUSD,Chen Jianming,62,Real Estate  ==> real estate,China,Male
+2132,1.0 BUSD,Cho Yang-Rai,80,Manufacturing  ==> tire manufacturing,None,Male
+2133,1.0 BUSD,Yvon Chouinard,79,Fashion & Retail  ==> Patagonia,None,Male
+2134,1.0 BUSD,Eduard Chukhlebov,54,Metals & Mining  ==> metallurgy,None,Male
+2135,1.0 BUSD,Jack Cockwell,77,"Finance and Investments  ==> Real Estate, Private Equity",None,Male
+2136,1.0 BUSD,John Collison,26,Technology  ==> Stripe,None,Male
+2137,1.0 BUSD,Patrick Collison,28,Technology  ==> Stripe,Ireland,Male
+2138,1.0 BUSD,Henry Davis,67,Food and Beverage  ==> beef processing,United States,Male
+2139,1.0 BUSD,Francois Feuillet,69,"Automotive  ==> motorhomes, RVs",France,Male
+2140,1.0 BUSD,Susumu Fujita,45,Media & Entertainment  ==> internet media,None,Male
+2141,1.0 BUSD,Filaret Galchev,55,Construction & Engineering  ==> construction materials,None,Male
+2142,1.0 BUSD,Yuri Gushchin,73,"Food and Beverage  ==> candy, real estate",Russia,Male
+2143,1.0 BUSD,David Hall,66,Automotive  ==> automotive technology,United States,Male
+2144,1.0 BUSD,He Simo,53,Manufacturing  ==> power supply manufacturer,China,Male
+2145,1.0 BUSD,Hon Kwok Lung,63,Fashion & Retail  ==> real estate,None,Male
+2146,1.0 BUSD,Elie Horn,74,Real Estate  ==> real estate,None,Not Available
+2147,1.0 BUSD,Huang Bingwen,64,Manufacturing  ==> packaging,Australia,Male
+2148,1.0 BUSD,Huang Xiaofen,56,Technology  ==> printed circuit boards,None,Not Available
+2149,1.0 BUSD,Masayuki Ishihara,69,Gambling & Casinos  ==> pachinko machines,None,Not Available
+2150,1.0 BUSD,Tarang Jain,56,Manufacturing  ==> auto components,None,Male
+2151,1.0 BUSD,Jiang Wei,56,Healthcare  ==> pharmaceuticals,None,Male
+2152,1.0 BUSD,Jiang Xuefei,48,Technology  ==> printed circuit boards,China,Male
+2153,1.0 BUSD,David Kabiller,54,Finance and Investments  ==> investment management,United States,Male
+2154,1.0 BUSD,Morris Kahn,88,Technology  ==> software,None,Male
+2155,1.0 BUSD,"Anton Kathrein, Jr.",32,Manufacturing  ==> antennas,None,Male
+2156,1.0 BUSD,Kim Dae-Il,38,Technology  ==> mobile gaming,None,Not Available
+2157,1.0 BUSD,Michael Kim,54,Finance and Investments  ==> Investment,South Korea,Male
+2158,1.0 BUSD,Ihor Kolomoyskyy,55,"Diversified  ==> banking, investments",None,Not Available
+2159,1.0 BUSD,Koo Bon-Sik,59,Technology  ==> electronics/household products,None,Male
+2160,1.0 BUSD,Igor Kudryashkin,56,Metals & Mining  ==> metallurgy,None,Male
+2161,1.0 BUSD,Lev Kvetnoi,52,Finance and Investments  ==> cement,None,Male
+2162,1.0 BUSD,Theodore Leonsis,62,Sports  ==> sports teams,United States,Male
+2163,1.0 BUSD,Lev Leviev,62,Metals & Mining  ==> diamonds,None,Not Available
+2164,1.0 BUSD,Liang Zhaoxian,53,Manufacturing  ==> appliances,China,Male
+2165,1.0 BUSD,John Liew,50,Finance and Investments  ==> Investment Management,None,Male
+2166,1.0 BUSD,Paul Little,70,"Real Estate  ==> logistics, real estate",None,Male
+2167,1.0 BUSD,Liu Fuhai,64,"Diversified  ==> textiles, energy",China,Male
+2168,1.0 BUSD,Liu Jincheng,53,Technology  ==> lithium batteries,None,Male
+2169,1.0 BUSD,Liu Shaoxi,54,Real Estate  ==> real estate,None,Male
+2170,1.0 BUSD,Lu Weiding,47,Diversified  ==> diversified,None,Male
+2171,1.0 BUSD,Duncan Macmillan,80,Finance and Investments  ==> Bloomberg LP,None,Not Available
+2172,1.0 BUSD,George Marcus,76,Real Estate  ==> real estate,United States,Male
+2173,1.0 BUSD,Bernardo Matte,62,Manufacturing  ==> paper,Chile,Male
+2174,1.0 BUSD,Eliodoro Matte,72,Manufacturing  ==> paper,None,Male
+2175,1.0 BUSD,Mi Enhua,60,Fashion & Retail  ==> retail,None,Male
+2176,1.0 BUSD,Lowell Milken,69,Finance and Investments  ==> investments,United States,Male
+2177,1.0 BUSD,Nirmal Minda,60,Automotive  ==> auto parts,None,Male
+2178,1.0 BUSD,Martin Naughton,79,Manufacturing  ==> heating equipment,None,Male
+2179,1.0 BUSD,Vadim Novinsky,55,Metals & Mining  ==> steel,Ukraine,Male
+2180,1.0 BUSD,Sergei Petrov,63,Automotive  ==> auto import and dealerships,None,Male
+2181,1.0 BUSD,Carolyn Rafaelian,51,Fashion & Retail  ==> jewelry,None,Not Available
+2182,1.0 BUSD,Lawrence Rossy,75,Fashion & Retail  ==> dollar stores,None,Not Available
+2183,1.0 BUSD,Alice Schwartz,91,Manufacturing  ==> biotech,United States,Female
+2184,1.0 BUSD,Martin Selig,80,Real Estate  ==> real estate,None,Not Available
+2185,1.0 BUSD,Sathien Setthasit,64,Food and Beverage  ==> energy drinks,Thailand,Not Available
+2186,1.0 BUSD,Evan Sharp,34,Technology  ==> Pinterest,None,Male
+2187,1.0 BUSD,Ravindra Kishore Sinha,66,Service  ==> security services,India,Male
+2188,1.0 BUSD,Axel Stawski,67,Real Estate  ==> real estate,None,Male
+2189,1.0 BUSD,Beny Steinmetz,62,"Metals & Mining  ==> mining, diamonds, real estate",Israel,Male
+2190,1.0 BUSD,Dirk Stroeer,49,Media & Entertainment  ==> advertising,None,Male
+2191,1.0 BUSD,Sun Shangchuan,54,Technology  ==> electronics components,China,Male
+2192,1.0 BUSD,Sam Tarascio,73,Real Estate  ==> real estate,None,Male
+2193,1.0 BUSD,Robert Toll,77,Real Estate  ==> home building,None,Male
+2194,1.0 BUSD,Surin Upatkoon,69,"Diversified  ==> telecom, lotteries, insurance",Thailand,Not Available
+2195,1.0 BUSD,Alexander Vik,63,Finance and Investments  ==> investments,Norway,Male
+2196,1.0 BUSD,Peter-Alexander Wacker,66,Manufacturing  ==> chemicals,Germany,Male
+2197,1.0 BUSD,Wang Jianyi,55,Technology  ==> fiber optic cables,None,Male
+2198,1.0 BUSD,V. Prem Watsa,67,"Finance and Investments  ==> insurance, investments",None,Male
+2199,1.0 BUSD,Sandy Weill,85,Finance and Investments  ==> Citigroup,None,Not Available
+2200,1.0 BUSD,Wen Pengcheng,55,Food and Beverage  ==> agribusiness,China,Not Available
+2201,1.0 BUSD,Wu Chung-Yi,59,Manufacturing  ==> manufacturing,Taiwan,Not Available
+2202,1.0 BUSD,Yang Jianxin,49,Technology  ==> apparel,China,Male
+2203,1.0 BUSD,Yao Xinyi,53,Diversified  ==> air conditioning,China,Male
+2204,1.0 BUSD,Zhao Xiaoqiang,51,"Fashion & Retail  ==> fashion, entertainment",China,Not Available
+2205,1.0 BUSD,Zhou Liangzhang,55,Manufacturing  ==> electrical equipment,China,Male
+2206,1.0 BUSD,Zhu Xingming,51,Manufacturing  ==> electrical equipment,None,Male
+2207,1.0 BUSD,Zhuo Jun,52,Manufacturing  ==> printed circuit boards,Hong Kong,Female
+2208,1.0 BUSD,Olgun Zorlu,54,Diversified  ==> diversified,Turkey,Not Available
