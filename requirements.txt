@@ -18,7 +18,7 @@ ipython-sql==0.3.9
 jedi==0.15.1
 jupyter-client==5.3.4
 jupyter-core==4.6.0
-lxml==4.4.2
+lxml==4.6.5
 mkl-fft==1.0.14
 mkl-random==1.1.0
 mkl-service==2.3.0
